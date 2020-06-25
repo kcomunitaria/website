@@ -205,6 +205,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-170809015-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-170809015-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -242,7 +280,7 @@
   <meta property="og:description" content="Professor of Artificial Intelligence"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="es">
   
-    <meta property="og:updated_time" content="2018-06-28T00:00:00&#43;01:00">
+    <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00">
   
 
   
@@ -1142,12 +1180,13 @@
                 <span>California</span>
               
             </div>
-            <div class="card-text">Responsibilities include:</p>
+            <div class="card-text"><p>Responsibilities include:</p>
 <ul>
 <li>Analysing</li>
 <li>Modelling</li>
 <li>Deploying</li>
-</ul></div>
+</ul>
+</div>
           </div>
         </div>
       </div>
@@ -1830,7 +1869,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
 
-<div class="project-card project-item isotope-item js-id-demo">
+<div class="project-card project-item isotope-item js-id-Demo">
   <div class="card">
     
     
@@ -1873,7 +1912,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
 
-<div class="project-card project-item isotope-item js-id-deep-learning">
+<div class="project-card project-item isotope-item js-id-Deep-Learning">
   <div class="card">
     
     
@@ -2372,7 +2411,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
 
   
-  <span ><a href="/author/nelson-bighetti/">Nelson Bighetti</a></span>, <span >robert ford</span>
+  <span ><a href="/author/nelson-bighetti/">Nelson Bighetti</a></span>, <span >Robert Ford</span>
   </div>
   
   
@@ -2857,7 +2896,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
         
 
   
-  <span ><a href="/author/nelson-bighetti/">Nelson Bighetti</a></span><span title="Equal contribution" class="author-notes">(?)</span>, <span >robert ford</span><span title="Equal contribution" class="author-notes">(?)</span>
+  <span ><a href="/author/nelson-bighetti/">Nelson Bighetti</a></span><span title="Equal contribution" class="author-notes">(?)</span>, <span >Robert Ford</span><span title="Equal contribution" class="author-notes">(?)</span>
       </div>
       
     </div>
@@ -2969,7 +3008,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
         
 
   
-  <span ><a href="/author/nelson-bighetti/">Nelson Bighetti</a></span>, <span >robert ford</span>
+  <span ><a href="/author/nelson-bighetti/">Nelson Bighetti</a></span>, <span >Robert Ford</span>
       </div>
       
     </div>
