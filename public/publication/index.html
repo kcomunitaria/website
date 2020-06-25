@@ -205,6 +205,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-170809015-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-170809015-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -787,7 +825,7 @@
     
 
   
-  <span ><a href="/author/nelson-bighetti/">Nelson Bighetti</a></span><span title="Equal contribution" class="author-notes">(?)</span>, <span >robert ford</span><span title="Equal contribution" class="author-notes">(?)</span>
+  <span ><a href="/author/nelson-bighetti/">Nelson Bighetti</a></span><span title="Equal contribution" class="author-notes">(?)</span>, <span >Robert Ford</span><span title="Equal contribution" class="author-notes">(?)</span>
   </span>
   (2015).
   <a href="/publication/journal-article/">An example journal article</a>.
@@ -863,7 +901,7 @@
     
 
   
-  <span ><a href="/author/nelson-bighetti/">Nelson Bighetti</a></span>, <span >robert ford</span>
+  <span ><a href="/author/nelson-bighetti/">Nelson Bighetti</a></span>, <span >Robert Ford</span>
   </span>
   (2013).
   <a href="/publication/conference-paper/">An example conference paper</a>.
