@@ -1,4 +1,4 @@
-# SITE SETUP
+  # SITE SETUP
 # Guide: https://sourcethemes.com/academic/docs/get-started/
 # Documentation: https://sourcethemes.com/academic/docs/
 #
@@ -9,11 +9,12 @@
 ## Theme
 ############################
 
-# Choose a theme.
+# Choose a theme. 3f51b5
+#                 3F51B5
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "ocean"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -22,7 +23,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "my_font_set"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
