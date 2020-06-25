@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -22,7 +21,7 @@ interests:
 organizations:
 - name: Stanford University
   url: ""
-role: Professor of Artificial Intelligence
+role: Kallpa Comunitaria
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,7 +36,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Kallpa Comunitaria
 user_groups:
 - Researchers
 - Visitors
