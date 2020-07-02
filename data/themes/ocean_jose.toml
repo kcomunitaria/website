@@ -1,8 +1,8 @@
 # Theme metadata
-name = "Ocean"
+name = "Ocean_jose"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#3f51b5"
@@ -12,7 +12,7 @@ menu_primary = "#3f51b5" # 500
 menu_text = "#fff"
 menu_text_active = "#8c9eff" # A100
 menu_title = "#fff"
-
+#060a2485
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "#1D2127"
+home_section_even = "#333A44"
