@@ -1,0 +1,5 @@
+
+/home/jose/Documents/KallpaComunitario/kc-website/themes/hugo-academic/layouts/partials/navbar.html
+empezando linea 138
+Remover solo esa linea y ya no muestra el paletee
+           <i class="fas fa-palette" aria-hidden="true"></i>

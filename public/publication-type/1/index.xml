@@ -5,7 +5,7 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,22 +13,12 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <title>El pueblo unido jamás será vencido</title>
+      <link>/publication/el-pueblo-unido-jamas-sera-vencido/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/el-pueblo-unido-jamas-sera-vencido/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;400px&#34; src=&#34;https://www.youtube.com/embed/w8UGs0rdhq8?controls=0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;«&lt;strong&gt;El pueblo unido jamás será vencido&lt;/strong&gt;» es una canción protesta chilena, cuya música fue compuesta por Sergio Ortega Alvarado y el texto escrito en conjunto con la banda Quilapayún.1 Conocida en el mundo entero, es una de las más famosas canciones de protesta de la historia, y junto con el tema «Venceremos», también de Ortega, una de las más conocidas de la Nueva Canción Chilena.2 El tema tiene un ritmo de marcha, destacando su estribillo que es un grito o consigna sólo con percusión, lo que facilita su adaptación a cualquier idioma.2&lt;/p&gt;
 </description>
     </item>
     

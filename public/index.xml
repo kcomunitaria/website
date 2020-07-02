@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Kallpa Comunitaria</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kallpa Comunitaria</title>
@@ -77,255 +77,199 @@
     </item>
     
     <item>
-      <title>Writing technical content in Academic</title>
-      <link>/post/writing-technical-content/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/writing-technical-content/</guid>
-      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\\
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\&lt;br&gt;
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
-  int id
-  size()
-}
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
-  int id
-  size()
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Do something else&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-&lt;p&gt;Represent your data in tables:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;First Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
-&lt;p&gt;Academic supports a 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for asides&lt;/a&gt;, also referred to as &lt;em&gt;notices&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% alert note %}} ... {{% /alert %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% alert note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /alert %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
-&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; spoiler text=&amp;quot;Click to view the spoiler&amp;quot; &amp;gt;}}
-You found me!
-{{&amp;lt; /spoiler &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;spoiler &#34; &gt;
-  &lt;p&gt;
-    &lt;a class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; href=&#34;#spoiler-1&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;spoiler-1&#34;&gt;
-      Click to view the spoiler
-    &lt;/a&gt;
-  &lt;/p&gt;
-  &lt;div class=&#34;collapse card &#34; id=&#34;spoiler-1&#34;&gt;
-    &lt;div class=&#34;card-body&#34;&gt;
-      You found me!
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
-&lt;p&gt;Academic enables you to use a wide range of 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal  
-{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python  
-{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+      <title>El pueblo unido jamás será vencido</title>
+      <link>/publication/el-pueblo-unido-jamas-sera-vencido/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/el-pueblo-unido-jamas-sera-vencido/</guid>
+      <description>&lt;hr&gt;
 
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/w8UGs0rdhq8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;«&lt;strong&gt;El pueblo unido jamás será vencido&lt;/strong&gt;» es una canción protesta chilena, cuya música fue compuesta por Sergio Ortega Alvarado y el texto escrito en conjunto con la banda Quilapayún.1 Conocida en el mundo entero, es una de las más famosas canciones de protesta de la historia, y junto con el tema «Venceremos», también de Ortega, una de las más conocidas de la Nueva Canción Chilena.2 El tema tiene un ritmo de marcha, destacando su estribillo que es un grito o consigna sólo con percusión, lo que facilita su adaptación a cualquier idioma.2&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dictadura boliviana se dispone a detener a candidato del MAS</title>
+      <link>/noticias/dictadura-boliviana-se-dispone-/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/noticias/dictadura-boliviana-se-dispone-/</guid>
+      <description>&lt;p&gt;A la presidenta de facto de Bolivia, Jeanine Áñez, se le cae cada día más la forzada careta de democracia que, con la complicidad de los Estados Unidos y la Unión Europea, se la tuvo que poner para justificar el derrocamiento violento de Evo Morales en noviembre del año pasado. Ahora, en una demostración flagrante de que en este país sudamericano no existen garantías constitucionales y que la regla es la persecución, &lt;strong&gt;se prepara un golpe contra el candidato a la presidencia del Movimiento Al Socialismo (MAS), Luis Arce&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;En una constatación de la vigencia del método del lawfare contra los líderes populares, la forma jurídica de esta decisión política antidemocrática es la denuncia penal interpuesta este martes ante el Ministerio Público en contra de Luis Arce por el supuesto daño económico que habría causado al Estado al poner en marcha la Gestora Pública para la administración de los aportes sociales de los trabajadores.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Esta no es la primera vez que se asume una actitud de agresión contra el candidato del MAS desde que retornó a Bolivia&lt;/strong&gt; tras permanecer un breve tiempo en México. El mismo día de su arribo a La Paz, el 28 de enero, en el aeropuerto de El Alto se le entregó una citación para declarar ante la justicia por el caso del Fondo Indígena. Este martes la acción es más perversa en un momento en que el exministro de Economía de Morales lidera toda la intención de voto para las elecciones del 6 de septiembre venidero.&lt;/p&gt;
+&lt;p&gt;La acción no es, sin embargo, una sorpresa. El gobierno de facto hace todo lo que está a su alcance para prorrogarse en el poder que tomó ilegalmente el 12 de noviembre de 2019, tras una reunión en la que los embajadores de la Unión Europea, León del Torre, y de Brasil, Octávio Henrique Dias García Côrtes, y otras organizaciones políticas y cívicas celebraron en las instalaciones de la Universidad Católica Boliviana (UCB) para darle cierta legitimidad al golpe de Estado, según denunció María Galindo, una feminista radical y recalcitrante opositora al presidente Evo Morales. Por eso no fue sorpresivo el reconocimiento que a las pocas horas hicieran los gobiernos de Estados Unidos y Brasil a la presidente de facto.&lt;/p&gt;
+&lt;p&gt;El arma más privilegiada para sus aspiraciones prorroguistas de Áñez y sus colaboradores es la epidemia del coronavirus, cuya expansión no ha podido ser controlada hasta ahora debido a la ausencia de un plan coherente del gobierno y el enorme déficit de respiradores y material de bioseguridad, en medio de denuncias de corrupción en la compra de los equipos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No se conoce aún la reacción del candidato de izquierda ni las medidas que vaya a tomar en términos jurídicos&lt;/strong&gt;, pero ya las organizaciones sociales han ido comentando que resistirán a la intención del gobierno de facto de proscribir al MAS de la participación electoral.&lt;/p&gt;
+&lt;p&gt;La política represiva del gobierno no ha cambiado un ápice desde el golpe de Estado y es probable que el montaje de los “falsos positivos” siga en ascenso para justificar una nueva ola de violencia. Lo que sí ha variado es la disposición social, principalmente de las organizaciones sociales, que se encuentran en etapa de recomposición y cada vez más cohesionadas, para exigir elecciones generales.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anatomía de los golpes de Estado</title>
+      <link>/analisis/el-golpismo/</link>
+      <pubDate>Fri, 26 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>/analisis/el-golpismo/</guid>
+      <description>&lt;p&gt;Se pronuncia la palabra golpe de Estado y el pensamiento rápido&lt;sup&gt;
+&lt;a href=&#34;#1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; imprime imágenes asociativas al hecho. Una plaza –ese modelo de disposición urbana para los asentamientos españoles en momentos de la colonia que simbolizaba el centro de la ciudad y expresó el domicilio del poder político- tomada por fuerzas militares, cortada en cada uno de sus ingresos por enormes maquinarias de guerra, y soldados y muchas, muchas armas en manos de ellos, para que horas después, se conozca el comunicado del gobierno de “unidad nacional”, ese que nos dice que el presidente ha sido cesado en sus funciones y los derechos políticos de todos quienes aquí habitan entran en restricción. En suma, un golpe de Estado se ha producido.
+En el imaginario de los bolivianos, 37 años de historia democrática dejan difusas nociones sobre estas categorías que, desde la politología, se trabajan esforzadamente por definirlas y comprenderlas. Las viejas y primarias formas de golpes de Estado van cediendo en el tiempo a renovadas maneras de asaltar el objetivo final, ese que sí resiste el avance de los siglos: tomar el poder político.&lt;/p&gt;
+&lt;p&gt;La noción de golpe de Estado se lee originalmente en 1639 en la obra que Gabriel Naudé presentó bajo el título de Consideraciones políticas sobre los golpes de Estado. Naudé planteó el golpe de Estado como una forma, en el ámbito de la ilegalidad y el absolutismo, de defensa y protección del poder político desde el poder ejecutivo. Con el tiempo y la producción que tributa la teoría política, el concepto va recogiendo un sentido negativo hasta ser entendido como un ataque o trama conspirativa para acceder o remover al poder ejecutivo en formas ilegales, ello de parte de grupos políticos, élites de poder conservador ya sedimentado, o sectores sociales en control de los instrumentos coercitivos que constituyen la amenaza disuasiva y latente de uso de fuerza y violencia estatal. Después, a esa acción siguen los relatos que intentan otorgar un ropaje de legalidad y justificación de la acción golpista a la institucionalidad.
+De buena manera, la literatura que refiere a los golpes de Estado explica que estos se producen, organizan e implementan desde pequeños grupos –lo que denota su naturaleza conspirativa- que rápidamente buscan tomar control de los factores, siempre determinantes, de violencia coactiva, como son las instituciones armadas y de tuición de la seguridad interna de un país. El profesor Huntington&lt;sup&gt;
+&lt;a href=&#34;#2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, desde las Ciencias Sociales y la politología, afirmó de forma elocuente que los golpes de Estado solo pueden realizarse: «por un grupo que participa en el sistema político existente y que posee bases institucionales de poder dentro del sistema. En particular el grupo instigador necesita del apoyo de algunos elementos de las fuerzas armadas». En una perspectiva más vertical, William Randall Thompson&lt;sup&gt;
+&lt;a href=&#34;#3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, encuentra que los golpes de Estado tienen un componente de participación imprescindible de la institución militar cuando lo define como: «la sustitución o intento de sustitución del jefe ejecutivo del Estado por las fuerzas armadas regulares a través del uso o la amenaza de la fuerza».&lt;/p&gt;
+&lt;p&gt;Estas acciones que han sido categorizadas en la Ciencia Política como pretorianismo, toman posteriormente formas distintas y por ello, no menos efectivas, que se traducen en operaciones militares encubiertas, de baja violencia o amenaza de acciones disuasivas que se catalogan de “golpes de Estado blandos”. La profesora de Teoría Comparada, Rosemary O´Kane&lt;sup&gt;
+&lt;a href=&#34;#4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, nos dice que, todas aquellas cesaciones de mandato de titulares del poder ejecutivo, con perfiles de obligatoriedad ineludible, ante amenaza o sugerencia insalvable, resultante de un levantamiento o insurrección y con elementos presenciales de intromisión militar en la política se evalúa como golpe de Estado. Huntington resume y sintetiza cuando expresa que un golpe de Estado, constituye una acción de un grupo político y de poder que traza como objetivo un esfuerzo por desalojar ilegítima e ilegalmente a quien detenta y ocupa el poder, por medio de mecanismos violentos o amenaza de su utilización, y aunque la violencia sea menor o nula, sus actores individualizados y de grupo, preservan estamentos de poder institucional dentro del sistema político vigente donde se produce el hecho&lt;sup&gt;
+&lt;a href=&#34;#5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;En este abreviado repaso teórico respecto de la acción del golpe de Estado, observamos que la intencionalidad constante y transversal en el tiempo, refiere a una cuestión vinculada y relacionada al trato hacia el poder. En tiempos modernos y contemporáneos, ese enlace propone, de forma estricta, una alteración de la política estatal, del titular del poder ejecutivo en una intervención por fuera de la legalidad con justificación inmediata.(Si el factor militar, disuasivo o violento, presencial o amenazante, es una constante en los hechos entendidos como golpe de Estado, otros elementos se suman a ello en tiempos más recientes, como ser la justificación que preserve una sensación de necesidad y legalidad. Lo que se conoce hoy en la politología como neogolpismo, adiciona un módulo común de imponer y apretar con una legalidad incierta y cuestionable en lugar de aceptar la ilegalidad de los gastados y acabados modelos de golpe de Estado de otro tiempo. Otra particularidad que el neogolpismo incorpora refiere a acciones de sustitución y suplantación del poder ejecutivo con violencia física menor. En este sentido, sin expresar conceptualmente lo mismo, juicios políticos y golpes de Estado, conviven en una misma familia que prioriza la suplantación de la titularidad del poder político.
+Bajo estos señalados factores constituyentes de un golpe de Estado, los nuevos ataques al poder, los intentos de sustituirlo y buscar su recambio, muestran técnicas y metodologías adaptadas a formas discursivas conectadas con la democracia y la libertad. Esta intencionalidad de observar legalidad y no violencia como argumentos que solicitan la no aplicabilidad de la categoría “golpe de Estado” a una acción de sustitución del poder ejecutivo, no invalida que la usurpación golpeé la institucionalidad, los fundamentos del Estado de derecho, el respeto de la soberanía y las formas democráticas de poder.&lt;/p&gt;
+&lt;h3 id=&#34;notas&#34;&gt;Notas:&lt;/h3&gt;
+&lt;h4 id=&#34;1&#34;&gt;[1]&lt;/h4&gt;
+&lt;p&gt;“Pensar rápido, Pensar despacio” (Kahneman, D. 2018)&lt;/p&gt;
+&lt;h4 id=&#34;2&#34;&gt;[2]&lt;/h4&gt;
+&lt;p&gt;“The Soldier and the State. The Theory and Politics of Ciuil-military Relations” Huntington, S. (1957)&lt;/p&gt;
+&lt;h4 id=&#34;3&#34;&gt;[3]&lt;/h4&gt;
+&lt;p&gt;“Journal of Political and Military Sociology”. Thompson, W. (1979)&lt;/p&gt;
+&lt;h4 id=&#34;4&#34;&gt;[4]&lt;/h4&gt;
+&lt;p&gt;«A Probabilistic Approach to the Causes of Coups d’État» O´Kane, R. (1981)&lt;/p&gt;
+&lt;h4 id=&#34;5&#34;&gt;[5]&lt;/h4&gt;
+&lt;p&gt;“El orden político en las sociedades en cambio”. Huntington, S. (1996).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Términos y Condiciones</title>
+      <link>/terms/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;Definiciones.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;“Esta Licencia” se refiere a la versión 3 de la Licencia Pública General de GNU.&lt;/p&gt;
+&lt;p&gt;“Derechos de Autor (“Copyright”)” también incluye a las leyes similares a la de derechos de autor (“copyright”) que se apliquen a otro tipo de obras, tales como las máscaras usadas en la fabricación de semiconductores.&lt;/p&gt;
+&lt;p&gt;“El Programa” se refiere a cualquier obra con derechos de autor (“copyright”) bajo esta Licencia. Cada licenciatario es tratado como “usted”. Los “Licenciatarios” y los “destinatarios” pueden ser individuos u organizaciones.&lt;/p&gt;
+&lt;p&gt;“Modificar” una obra quiere decir copiar de ella o adaptar parte o la totalidad de la obra de una forma que se requieran permisos de derechos de autor (“copyright”), distintos de los de hacer una copia exacta. La obra resultante es llamada “versión modificada” de la obra previa o una obra “basada en” la obra previa.&lt;/p&gt;
+&lt;p&gt;Una “obra amparada” significa o el Programa sin modificar o una obra basada en el Programa.&lt;/p&gt;
+&lt;p&gt;“Difundir” una obra significa hacer cualquier cosa con ella que, sin permiso, le haría responsable de forma directa o indirecta de infringir la ley correspondiente de derechos de autor (“copyright”), excepto ejecutarla en un ordenador o modificar una copia privada. La difusión incluye copiar, la distribución (con o sin modificación), hacerla disponible para el público, y en algunos países también otras actividades.&lt;/p&gt;
+&lt;p&gt;“Transmitir” una obra quiere decir cualquier tipo de difusión que permita a otras partes hacer o recibir copias. La mera interacción con un usuario a través de una red informática, sin la transferencia de una copia, no es transmitir.&lt;/p&gt;
+&lt;p&gt;Una interfaz interactiva de usuario muestra “Avisos Legales Apropiados” en la medida que incluye una característica visible práctica y destacable que (1) muestra un aviso apropiado de derechos de autor (“copyright”), e (2) informa al usuario de que no hay garantía para la obra (excepto las garantías proporcionadas), que los licenciatarios pueden transmitir la obra bajo esta Licencia, y cómo ver una copia de esta Licencia. Si la interfaz presenta una lista de comandos de usuario u opciones, como un menú, un elemento destacado en la lista satisface este criterio.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Código Fuente.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;El “código fuente” de una obra significa la forma preferida de trabajo para hacerle modificaciones. “Código objeto” es cualquier forma no-fuente de una obra.&lt;/p&gt;
+&lt;p&gt;Una “Interfaz Estándar” significa una interfaz que es un estándar oficial definido por un cuerpo de estándares reconocido o, en el caso de interfaces especificadas para un lenguaje de programación en particular, una que es extensamente utilizada entre los desarrolladores que trabajan en ese lenguaje.&lt;/p&gt;
+&lt;p&gt;Las “Bibliotecas del Sistema” de una obra ejecutable incluyen cualquier cosa, diferente de la obra como un todo, que (a) están incluidas en la forma normal de paquetizado de un Componente Importante, y (b) sirve solo para habilitar el uso de la obra con ese Componente Importante, o para implementar una Interfaz Estándar para la cual la implementación está disponible para el público en forma de código fuente. Un “Componente Importante”, en este contexto, significa un componente esencial importante (kernel, sistema de ventanas, etcétera) del sistema operativo en concreto (si hubiese) en el cual el ejecutable funciona, o un compilador utilizado para producir la obra, o un intérprete de código objeto utilizado para hacerlo funcionar.&lt;/p&gt;
+&lt;p&gt;La “Fuente Correspondiente” de una obra en forma de código objeto significa todo el código fuente necesario para generar, instalar, y (para una obra ejecutable) hacer funcionar el código objeto y modificar la obra, incluyendo scripts para controlar dichas actividades. Sin embargo, ello no incluye la obra de las Bibliotecas del Sistema, o herramientas de propósito general o programas de libre disponibilidad general los cuales son usados sin modificaciones para la realización de dichas actividades, pero que no son parte de la obra. Por ejemplo, la Fuente Correspondiente incluye ficheros de definición de interfaces asociados a los ficheros fuente para la obra, y el código fuente para bibliotecas compartidas y subprogramas enlazados dinámicamente para los que la obra está específicamente diseñado para requerir, tales como comunicación de datos intrínseca o flujo de control entre aquellos subprogramas y otras partes de la obra.&lt;/p&gt;
+&lt;p&gt;La Fuente Correspondiente es necesario que no incluya nada que los usuarios puedan regenerar automáticamente desde otras partes de la Fuente Correspondiente.&lt;/p&gt;
+&lt;p&gt;La Fuente Correspondiente de una obra en forma de código fuente es la obra en sí.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Permisos básicos.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Todos los derechos concedidos bajo esta Licencia se conceden durante la duración de los derechos de autor (“copyright”) del Programa, y son irrevocables siempre que se cumplan las condiciones establecidas. Esta Licencia afirma explícitamente su ilimitado permiso para ejecutar el Programa sin modificar. La salida de la ejecución de una obra amparada está amparada por esta Licencia solo si la salida, dado su contenido, constituye una obra amparada. Esta Licencia reconoce sus derechos de uso razonable u otro equivalente, según lo establecido por la ley de derechos de autor (“copyright”).&lt;/p&gt;
+&lt;p&gt;Usted podrá realizar, ejecutar y difundir obras amparadas que usted no transmita, sin condición alguna, siempre y cuando no tenga otra licencia vigente. Podrá distribuir obras amparadas a terceros con el único propósito de que ellos hagan modificaciones exclusivamente para usted, o proporcionarle ayuda para ejecutar estas obras, siempre y cuando cumpla con los términos de esta Licencia en la transmisión de todo el material del cual usted no controle los derechos de autor (“copyright”). Aquellos que realicen o ejecuten las obras amparadas por usted, deben hacerlo exclusivamente en su nombre, bajo su dirección y control, en los términos que le prohiban realizar ninguna copia de su trabajo con derechos de autor (“copyright”) fuera de su relación con usted.&lt;/p&gt;
+&lt;p&gt;La transmisión bajo otras circunstancias se permite únicamente bajo las condiciones expuestas a continuación. No está permitido sublicenciar, la sección 10 hace que sea innecesario.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Protección de los Derechos Legales de los Usuarios frente a la Ley Antievasión.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ninguna obra amparada debe considerarse parte de una medida tecnológica efectiva, a tenor de lo establecido en cualquier ley aplicable que cumpla las obligaciones expresas en el artículo 11 del tratado de derechos de autor (“copyright”) de WIPO adoptado el 20 de diciembre de 1996, o leyes similares que prohiban o restrinjan la evasión de tales medidas.&lt;/p&gt;
+&lt;p&gt;Cuando transmita una obra amparada, renuncia a cualquier poder legal para prohibir la evasión de medidas tecnológicas mientras tales evasiones se realicen en ejercicio de derechos amparados por esta Licencia respecto a la obra amparada; además, usted renunciará a cualquier intención de limitar el uso o modificación del trabajo con el objetivo de imponer, contra el trabajo de los usuarios, sus derechos legales o los de terceros para prohibir la evasión de medidas tecnológicas.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Transmisión de copias literales.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Usted podrá distribuir copias literales del código fuente del Programa tal cual lo ha recibido, por cualquier medio, siempre que publique visible y apropiadamente en cada copia el correspondiente aviso de derechos de autor (“copyright”); mantenga intactos todos los avisos que establezcan que esta Licencia y cualquier cláusula no-permisiva añadida acorde con la cláusula 7 son aplicables al código; mantenga intactos todos los avisos de ausencia de garantía; y proporcione a todos los destinatarios una copia de esta Licencia junto con el Programa.&lt;/p&gt;
+&lt;p&gt;Usted podrá cobrar cualquier importe o no cobrar nada por cada copia que distribuya, y podrá ofrecer soporte o protección de garantía mediante un pago.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Transmisión de Versiones Modificadas de la Fuente.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Usted puede transmitir una obra basada en el Programa, o las modificaciones para generarla a partir del Programa, en la forma de código fuente bajo los términos de la sección 4, suponiendo que además cumpla las siguientes condiciones:&lt;/p&gt;
+&lt;p&gt;a)  La obra debe incluir avisos destacados indicando que usted la ha modificado y dando una fecha pertinente.&lt;/p&gt;
+&lt;p&gt;b)  La obra debe incluir avisos destacados indicando que está liberada bajo esta Licencia y cualquier otra condición añadida bajo la sección 7. Este requerimiento modifica los requerimientos de la sección 4 de “mantener intactos todos los avisos”.&lt;/p&gt;
+&lt;p&gt;c)  Usted debe licenciar la obra entera, como una unidad, bajo esta Licencia para cualquier persona que esté en posesión de una copia. Esta Licencia se aplicará por consiguiente, junto con cualquier término aplicable adicional de la sección 7, a la totalidad de la obra, y a todos sus componentes, independientemente de como estén empaquetados. Esta Licencia no da permiso para licenciar la obra de otra forma, pero no invalida esos permisos si usted los ha recibido de forma separada.&lt;/p&gt;
+&lt;p&gt;d)  Si la obra tiene interfaces de usuario interactivas, cada una debe mostrar los Avisos Legales Apropiados; sin embargo, si el Programa tiene interfaces interactivas que no muestren los Avisos Legales Apropiados, tampoco es necesario que su obra lo haga.&lt;/p&gt;
+&lt;p&gt;Una recopilación de una obra amparada con otras obras separadas e independientes, que no son por su naturaleza extensiones de la obra amparada, y que no se combinan con ella con el fin de formar un programa más grande, en o sobre un volumen de un medio de almacenamiento o distribución, es llamado un “agregado” si la recopilación y su resultante derechos de autor (“copyright”) no son usados para limitar el acceso o los derechos legales de los usuarios de la recopilación más allá de lo que las obras individuales permitan. La inclusión de una obra amparada en un agregado no provoca que esta Licencia se aplique a los otros componentes del agregado.&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Transmisión en Forma de No-Fuente.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Usted puede transmitir una obra amparada en forma de código objeto bajo los términos de las secciones 4 y 5, siempre que también transmita la Fuente Correspondiente legible por una máquina bajo los términos de esta Licencia, de una de las siguientes formas:&lt;/p&gt;
+&lt;p&gt;a) Transmitir el código objeto en, o embebido en, un producto físico (incluyendo medios de distribución físicos), acompañado de la Fuente Correspondiente en un medio físico duradero habitual para el intercambio de software.&lt;/p&gt;
+&lt;p&gt;b) Transmitir el código objeto en, o embebido en, un producto físico (incluyendo medios de distribución físicos), acompañado de un ofrecimiento escrito, válido durante al menos tres años y válido mientras usted ofrezca recambios o soporte para ese modelo de producto, de dar a cualquiera que posea el código objeto o (1) una copia de la Fuente Correspondiente de todo el software en el producto amparado por esta Licencia, en un medio físico duradero habitual para el intercambio de software, por un precio no más elevado que el coste razonable de la realización física de la transmisión de la fuente, o (2) acceso para copiar la Fuente Correspondiente de un servidor de red sin costo alguno.&lt;/p&gt;
+&lt;p&gt;c) Transmitir copias individuales del código objeto con una copia del ofrecimiento escrito de proveer la Fuente Correspondiente. Esta alternativa está permitida solo ocasionalmente sin fines comerciales, y solo si usted ha recibido el código objeto con ese ofrecimiento, de acuerdo con la subsección 6b.&lt;/p&gt;
+&lt;p&gt;d) Transmitir el código objeto ofreciendo acceso desde un lugar determinado (gratuitamente o mediante pago), y ofrecer acceso equivalente a la Fuente Correspondiente de la misma manera en el mismo lugar sin cargo adicional. No es necesario exigir a los destinatarios que copien la Fuente Correspondiente junto con el código objeto. Si el lugar para copiar el código objeto es un servidor de red, la Fuente Correspondiente puede estar en un servidor diferente (gestionado por usted o un tercero) que soporte facilidades de copia equivalentes, siempre que mantenga instrucciones claras junto al código objeto especificando dónde encontrar la Fuente Correspondiente. Independientemente de qué servidor albergue la Fuente Correspondiente, usted seguirá estando obligado a asegurar que está disponible durante el tiempo que sea necesario para satisfacer estos requisitos.&lt;/p&gt;
+&lt;p&gt;e) Transmitir el código objeto usando una transmisión peer-to-peer, siempre que informe a los otros usuarios donde se ofrece el código objeto y la Fuente Correspondiente de la obra al público general de forma gratuita bajo la subsección 6d.&lt;/p&gt;
+&lt;p&gt;Una porción separable del código objeto, cuyo código fuente está excluido de la Fuente Correspondiente, como una Biblioteca del Sistema, no necesita ser incluida en la distribución del código objeto de la obra.&lt;/p&gt;
+&lt;p&gt;Un “Producto de Usuario” es o (1) un “producto de consumo”, lo que significa cualquier propiedad tangible personal que es usada habitualmente con fines personales, familiares o domésticos, o (2) cualquier cosa diseñada o vendida para ser incorporada en una vivienda. A la hora de determinar cuando un producto es un producto de consumo, los casos dudosos serán resueltos en favor de la cobertura. Para un producto concreto recibido por un usuario concreto, “uso habitual” se refiere a un uso típico y común de esa clase de producto, sin tener en cuenta el estado del usuario concreto o la forma en la que el usuario concreto realmente use, o espera o se espera que use, el producto. Un producto es un producto de consumo independientemente de si el producto tiene usos esencialmente comerciales, industriales o no comerciales, a menos que dicho uso constituya el único modo de uso significativo del producto.&lt;/p&gt;
+&lt;p&gt;La “Información de Instalación” de un Producto de Usuario quiere decir cualquier método, procedimiento, clave de autorización, u otra información requerida para instalar y ejecutar versiones modificadas de la obra amparada en ese Producto de Usuario a partir de una versión modificada de su Fuente Correspondiente. La información debe ser suficiente para garantizar que el funcionamiento continuado del código fuente modificado no es prevenido o interferido por el simple hecho de que ha sido modificado.&lt;/p&gt;
+&lt;p&gt;Si usted transmite una obra en código objeto bajo esta sección en, o con, o específicamete para usar en, un Producto de Usuario, y la transmisión tiene lugar como parte de una transacción en la cual el derecho de posesión y uso de un Producto de Usuario es transferido a un destinatario en perpetuidad o por un periodo establecido (independientemente de cómo se caracterice la operación), la Fuente Correspondiente transmitida bajo esta sección debe estar acompañada de la Información de Instalación. Pero este requisito no se aplica si ni usted ni ningún tercero tiene la capacidad de instalar código objeto modificado en el Producto de Usuario (por ejemplo, la obra ha sido instalada en la ROM).&lt;/p&gt;
+&lt;p&gt;El requisito de proveer de la Información de Instalación no incluye el requisito de continuar proporcionando asistencia, garantía, o actualizaciones para una obra que ha sido modificada o instalada por el destinatario, o para un Producto de Usuario en el cual ha sido modificada o instalada. El acceso a una red puede ser denegado cuando la modificación en sí afecta materialmente y adversamente el funcionamiento de la red o viola las reglas y protocolos de comunicación de la red.&lt;/p&gt;
+&lt;p&gt;La Fuente Correspondiente transmitida, y la Información de Instalación proporcionada, de acuerdo con esta sección debe estar en un formato que sea documentado públicamente (y con una implementación disponible para el público en formato de código fuente), y no deben necesitar contraseñas o claves particulares para la extracción, lectura o copia.&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Términos adicionales.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Los “Permisos adicionales” son términos que se añaden a los términos de esta Licencia haciendo excepciones de una o más de una de sus condiciones. Los permisos adicionales que son aplicables al Programa entero deberán ser tratados como si estuvieran incluidos en esta Licencia, en la medida bajo la ley aplicable. Si los permisos adicionales solo son aplicables a parte del Programa, esa parte debe ser usada separadamente bajo esos permisos, pero el Programa completo queda bajo la autoridad de esta Licencia sin considerar los permisos adicionales.&lt;/p&gt;
+&lt;p&gt;Cuando se transmite una copia de una obra derivada, se puede opcionalmente quitar cualesquiera permisos adicionales de esa copia, o de cualquier parte de ella. Los permisos adicionales pueden ser escritos para requerir su propia eliminación bajo ciertos casos cuando se modifica la obra. Se pueden colocar permisos adicionales en material, añadidos a una obra derivada, para los cuales se establecen o se pueden establecer los permisos de derechos de autor (“copyright”) apropiados.&lt;/p&gt;
+&lt;p&gt;No obstante cualquier otra disposición de esta Licencia, para el material que se añada a una obra derivada, se puede (si está autorizado por los titulares de los derechos de autor (“copyright”) del material) añadir los términos de esta Licencia con los siguientes términos:&lt;/p&gt;
+&lt;p&gt;a)  Ausencia de garantía o limitación de responsabilidad diferente de los términos de las secciones 15 y 16 de esta Licencia; o&lt;/p&gt;
+&lt;p&gt;b)  Exigir la preservación de determinados avisos legales razonables o atribuciones de autor en ese material o en los Avisos Legales Apropiados mostrados por los obras que lo contengan; o&lt;/p&gt;
+&lt;p&gt;c)  Prohibir la tergiversación del origen de ese material, o requerir que las versiones modificadas del material se marquen de maneras razonables como diferentes de la versión original; o&lt;/p&gt;
+&lt;p&gt;d)  Limitar el uso con fines publicitarios de los nombres de los licenciantes o autores del material; o&lt;/p&gt;
+&lt;p&gt;e)  Negarse a ofrecer derechos concedidos por leyes de registro para el uso de alguno nombres comerciales, marcas registradas o marcas de servicio; o&lt;/p&gt;
+&lt;p&gt;f)  Exigir la compensación de los licenciantes y autores de ese material por cualquiera que distribuya el material (o versiones modificadas del mismo) estableciendo obligaciones contractuales de responsabilidad sobre el destinatario, por cualquier responsabilidad que estas obligaciones contractuales impongan directamente sobre los licenciantes y autores.&lt;/p&gt;
+&lt;p&gt;Todos los demás términos adicionales no permisivos son consideradas “restricciones extra” en el sentido de la sección 10. Si el Programa, tal cual se recibió, o cualquier parte del mismo, contiene un aviso indicando que se encuentra cubierto por esta Licencia junto con un término que es otra restricción, se puede quitar ese término. Si un documento de licencia contiene una restricción adicional, pero permite relicenciar o redistribuir bajo esta Licencia, se puede añadir a un material de la obra derivada bajo los términos de ese documento de licencia, a condición de que dicha restricción no sobreviva el relicenciamiento o redistribución.&lt;/p&gt;
+&lt;p&gt;Si se añaden términos a una obra derivada de acuerdo con esta sección, se debe colocar, en los archivos fuente involucrados, una declaración de los términos adicionales aplicables a esos archivos, o un aviso indicando donde encontrar los términos aplicables.&lt;/p&gt;
+&lt;p&gt;Las términos adicionales, permisivos o no permisivos, pueden aparecer en forma de una licencia escrita por separado, o figurar como excepciones; los requisitos anteriores son aplicables en cualquier forma.&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Conclusiones.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Usted no podrá propagar o modificar una obra amparada salvo lo expresamente permitido por esta Licencia. Cualquier intento diferente de propagación o modificación será considerado nulo y automáticamente se anularán sus derechos bajo esta Licencia (incluyendo las licencias de patentes concedidas bajo el tercer párrafo de la sección 11).&lt;/p&gt;
+&lt;p&gt;Sin embargo, si usted deja de violar esta Licencia, entonces su licencia de un titular de los derechos de autor (“copyright”) correspondiente será restituida (a) provisionalmente, a menos que y hasta que el titular de los derechos de autor (“copyright”) explícita y finalmente termine su licencia, y (b) permanentemente, si el titular del copyright no le ha notificado su violación por algún medio razonable antes de los 60 días siguientes a la cesación.&lt;/p&gt;
+&lt;p&gt;Además, su licencia de un titular de los derechos de autor (“copyright”) correspondiente será restituida permanentemente si el titular de los derechos de autor (“copyright”) le notifica la violación por algún medio razonable, siendo ésta la primera vez que recibe la notificación de violación de esta Licencia (para cualquier obra) de ese titular de los derechos de autor (“copyright”), y usted subsana la violación antes de 30 días después de la recepción de la notificación.&lt;/p&gt;
+&lt;p&gt;La cancelación de sus derechos bajo esta sección no da por canceladas las licencias de terceros que hayan recibido copias o derechos de usted bajo esta Licencia. Si sus derechos han sido cancelados y no fueran renovados de manera permanente, usted no cumple los requisitos para recibir nuevas licencias para el mismo material bajo la sección 10.&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;Aceptación No Obligatoria por Tenencia de Copias.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Usted no está obligado a aceptar esta Licencia por recibir o ejecutar una copia del Programa. La propagación adicional de una obra amparada surgida únicamente como consecuencia de usar una transmisión peer-to-peer para recibir una copia tampoco requiere aceptación. Sin embargo, esta Licencia solo le otorga permiso para propagar o modificar cualquier obra amparada. Estas acciones infringen los derechos de autor (“copyright”) si usted no acepta esta Licencia. Por lo tanto, al modificar o distribuir una obra amparada, usted indica que acepta esta Licencia para poder hacerlo.&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;Herencia Automática de Licencia para Destinatarios.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Cada vez que transmita una obra amparada, el destinatario recibirá automáticamente una licencia de los licenciadores originales, para ejecutar, modificar y distribuir esa obra, sujeto a esa Licencia. Usted no será responsable de asegurar el cumplimiento de esta Licencia por terceros.&lt;/p&gt;
+&lt;p&gt;Una “transacción de entidad” es una transacción que transfiere el control de una organización, o sustancialmente todos los bienes de una, o subdivide una organización, o fusiona organizaciones. Si la propagación de una obra amparada surge de una transacción de entidad, cada parte en esa transacción que reciba una copia de la obra también recibe todas las licencias de la obra que la parte interesada tuviese o pudiese ofrecer según el párrafo anterior, además del derecho a tomar posesión de las Fuentes Correspondientes de la obra a través del predecesor interesado, si el predecesor tiene o puede conseguirla con un esfuerzo razonable.&lt;/p&gt;
+&lt;p&gt;Usted no podrá imponer ninguna restricción posterior en el ejercicio de los derechos otorgados o concedidos bajo esta Licencia. Por ejemplo, usted no puede imponer un pago por licencia, derechos u otros cargos por el ejercicio de los derechos otorgados bajo esta Licencia, y no puede iniciar litigios (incluyendo demandas o contrademandas en pleitos) alegando cualquier reclamación de violación de patentes por cambiar, usar, vender, ofrecer en venta o importar el Programa o alguna parte del mismo.&lt;/p&gt;
+&lt;ol start=&#34;11&#34;&gt;
+&lt;li&gt;Patentes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Un “colaborador” es un titular de los derechos de autor (“copyright”) que autoriza, bajo los términos de la presente Licencia, el uso del Programa o una obra en la que se base el Programa. La obra así licenciada se denomina “versión en colaboración” del colaborador.&lt;/p&gt;
+&lt;p&gt;Las “demandas de patente esenciales” del colaborador son todas las reivindicaciones de patentes poseídas o controladas por el colaborador, ya se encuentren adquiridas o hayan sido adquiridas con posterioridad, que sean infringidas de alguna manera, permitidas por esta Licencia, al hacer, usar o vender la versión en colaboración, pero sin incluir demandas que solo sean infringidas como consecuencia de modificaciones posteriores de la versión en colaboración. Para los propósitos de esta definición, “control” incluye el derecho de conceder sublicencias de patente de forma consistente con los requisitos establecidos en la presente Licencia.&lt;/p&gt;
+&lt;p&gt;Cada colaborador le concede una licencia de la patente no-exclusiva, global y libre de regalías bajo las demandas de patente esenciales del colaborador, para hacer, usar, modificar, vender, ofrecer para venta, importar y otras formas de ejecución, modificación y difusión del contenido de la versión en colaboración.&lt;/p&gt;
+&lt;p&gt;En los siguientes tres párrafos, una “licencia de patente” se define como cualquier acuerdo o compromiso expreso, cualquiera que sea su denominación, que no imponga una patente (como el permiso expreso para ejecutar una patente o acuerdos para no imponer demandas por infracción de patente). “Conceder” una licencias de patente de este tipo a un tercero significa hacer tal tipo de acuerdo o compromiso que no imponga una patente al tercero.&lt;/p&gt;
+&lt;p&gt;Si usted transmite una obra amparada, conociendo que está amparada por una licencia de patente, y las Fuentes Correspondientes no se encuentran disponibles de forma pública para su copia, sin cargo alguno y bajo los términos de esta Licencia, ya sea a través de un servidor público o mediante cualquier otro medio, entonces usted deberá (1) hacer que las Fuentes Correspondientes sean públicas, o (2) tratar de eliminar los beneficios de la licencia de patente para esta obra en particular, o (3) tratar de extender, de manera compatible con los requisitos de esta Licencia, la licencia de patente a terceros. “Conocer que está afectado” significa que usted tiene conocimiento real de que, para la licencia de patente, la distribución de la obra amparada en un país, o el uso de la obra amparada por sus destinatarios en un país, infringiría una o más patentes existentes en ese país que usted considera válidas por algún motivo.&lt;/p&gt;
+&lt;p&gt;Si en virtud de o en conexión con alguna transacción o acuerdo, usted transmite, o difunde con fines de distribución, una obra amparada, y concede una licencia de patente para algún tercero que reciba la obra amparada, y les autorice a usar, transmitir, modificar o difundir una copia específica de la obra amparada, entonces la licencia de patente que usted otorgue se extiende automáticamente a todos los receptores de la obra amparada y cualquier obra basada en ella.&lt;/p&gt;
+&lt;p&gt;Una licencia de patente es “discriminatoria” si no incluye dentro de su ámbito de cobertura, prohibe el ejercicio de, o está condicionada a no ejercitar uno o más de los derechos que están específicamente otorgados por esta Licencia. Usted no debe transmitir una obra amparada si está implicado en un acuerdo con terceros que esté relacionado con el negocio de la distribución de software, en el que usted haga pagos a terceros relacionados con su actividad de distribución de la obra, bajo el que terceros conceden, a cualquier receptor de la obra amparada, una licencia de patente discriminatoria (a) en relación con las copias de la obra amparada transmitidas por usted (o copias hechas a partir de estas), o (b) principalmente para y en relación con productos específicos o compilaciones que contengan la obra amparada, a menos que usted forme parte del acuerdo, o que esa licencia de patente fuese concedida antes del 28 de marzo de 2007.&lt;/p&gt;
+&lt;p&gt;Ninguna cláusula de esta Licencia debe ser considerada como excluyente o limitante de cualquier otra licencia implicada u otras defensas legales a que pudiera tener derecho bajo la ley de propiedad intelectual vigente.&lt;/p&gt;
+&lt;ol start=&#34;12&#34;&gt;
+&lt;li&gt;No Abandonar la Libertad de Otros.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Si se le imponen condiciones (bien sea por orden judicial, acuerdo o de otra manera) que contradicen las condiciones de esta Licencia, estas no le eximen de las condiciones de esta Licencia. Si usted no puede transmitir una obra amparada de forma que pueda satisfacer simultáneamente sus obligaciones bajo esta Licencia y cualesquiera otras obligaciones pertinentes, entonces, como consecuencia, usted no puede transmitirla. Por ejemplo, si usted está de acuerdo con los términos que le obligan a cobrar una regalía por la transmisión a aquellos a los que transmite el Programa, la única forma en la que usted podría satisfacer tanto esos términos como esta Licencia sería abstenerse completamente de transmitir el Programa.&lt;/p&gt;
+&lt;ol start=&#34;13&#34;&gt;
+&lt;li&gt;Utilización con la Licencia Pública General Affero de GNU.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A pesar de cualquier otra disposición de esta Licencia, usted tiene permiso para enlazar o combinar cualquier obra amparada con una obra licenciada bajo la Licencia Pública General Affero de GNU en una única obra combinada, y para transmitir la obra resultante. Los términos de esta Licencia continuarán aplicándose a la parte que es la obra amparada, pero los requisitos particulares de la Licencia Pública General Affero de GNU, sección 13, concernientes a la interacción a través de una red se aplicarán a la combinación como tal.&lt;/p&gt;
+&lt;ol start=&#34;14&#34;&gt;
+&lt;li&gt;Versiones Revisadas de esta Licencia.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;La Free Software Foundation puede publicar versiones revisadas y/o nuevas de la Licencia General Pública de GNU de vez en cuando. Cada nueva versión será similar en espíritu a la versión actual, pero puede diferir en detalles para abordar nuevos problemas o preocupaciones.&lt;/p&gt;
+&lt;p&gt;Cada versión recibe un número de versión distintivo. Si el Programa especifica que cierta versión numerada de la Licencia General Pública de GNU “o cualquier versión posterior” se aplica a él, usted tiene la opción de seguir los términos y condiciones de esa versión numerada o de cualquier versión posterior publicada por la Free Software Foundation. Si el Programa no especifica un número de versión de la Licencia General Pública de GNU, usted puede escoger cualquier versión publicada por la Free Software Foundation.&lt;/p&gt;
+&lt;p&gt;Si el Programa escifica que un representante puede decidir que versiones futuras de la Licencia General Pública de GNU pueden ser utilizadas, la declaración pública del representante de aceptar una versión permanentemente le autoriza a usted a elegir esa versión para el Programa.&lt;/p&gt;
+&lt;p&gt;Las versiones posteriores de la licencia pueden darle permisos adicionales o diferentes. No obstante, no se impone a ningún autor o titular de los derechos de autor obligaciones adicionales como resultado de su elección de seguir una versión posterior.&lt;/p&gt;
+&lt;ol start=&#34;15&#34;&gt;
+&lt;li&gt;Descargo de Responsabilidad de Garantía.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;NO HAY GARANTÍA PARA EL PROGRAMA, PARA LA EXTENSIÓN PERMITIDA POR LA LEY APLICABLE. EXCEPTO CUANDO SE INDIQUE LO CONTRARIO POR ESCRITO, LOS TITULARES DE LOS DERECHOS DE AUTOR (“COPYRIGHT”) Y/O TERCEROS PROPORCIONAN EL PROGRAMA “TAL CUAL” SIN GARANTÍAS DE NINGÚN TIPO, BIEN SEAN EXPLÍCITAS O IMPLÍCITAS, INCLUYENDO, PERO NO LIMITADO A, LAS GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN Y APTITUD PARA UN PROPÓSITO PARTICULAR. EL RIESGO TOTAL EN CUANTO A CALIDAD Y RENDIMIENTO DEL PROGRAMA ES CON USTED. SI EL PROGRAMA PRESENTA ALGÚN DEFECTO, USTED ASUME EL COSTO DE TODAS LAS REVISIONES NECESARIAS, REPARACIONES O CORRECCIONES.
+Limitación de la responsabilidad.&lt;/p&gt;
+&lt;p&gt;EN NINGÚN CASO A MENOS QUE SEA REQUERIDO POR UNA LEY APLICABLE O ACUERDO ESCRITO NINGÚN TITULAR DE LOS DERECHOS DE AUTOR (“COPYRIGHT”), O NINGÚN TERCERO QUE MODIFIQUE Y/O TRANSMITA EL PROGRAMA COMO SE PERMITE ANTERIORMENTE, SERÁ RESPONSABLE ANTE USTED POR DAÑOS, INCLUYENDO CUALESQUIERA DAÑOS GENERALES, PARTICULARES, IMPREVISTOS O DERIVADOS DEL USO O IMPOSIBILIDAD DE USO DEL PROGRAMA (INCLUYENDO, PERO NO LIMITADO A, LA PÉRDIDA DE DATOS, DATOS GENERADOS INCORRECTOS, PÉRDIDAS SUFRIDAS POR USTED O POR TERCERAS PERSONAS, O LOS FALLOS DEL PROGRAMA PARA OPERAR CON OTROS PROGRAMAS), INCLUSO SI DICHO TITULAR O UN TERCERO HA SIDO ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS.
+Interpretación de las Secciones 15 y 16.&lt;/p&gt;
+&lt;p&gt;Si el descargo de responsabilidad de garantía y el límite de responsabilidad proporcionado anteriormente no tiene efectos legales de acuerdo a sus términos, los juzgados deberán aplicar la ley local que más se asemeje a una renuncia absoluta de la responsabilidad civil concerniente al Programa, a menos que una garantía o una asunción de responsabilidad acompañe a la copia del Programa como resultado del pago de una tasa.&lt;/p&gt;
+&lt;p&gt;Fin de los términos y condiciones&lt;/p&gt;
 </description>
     </item>
     
@@ -341,55 +285,6 @@ You found me!
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-jupyter lab index.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;---
-title: My post&#39;s title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Edit the metadata of your post, using the 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -476,6 +371,7 @@ Three
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
@@ -527,20 +423,22 @@ Three
     </item>
     
     <item>
-      <title>Privacy Policy</title>
+      <title>Políticas de Privacidad</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;compromiso-con-la-seguridad-y-la-privacidad&#34;&gt;Compromiso con la Seguridad y la Privacidad&lt;/h2&gt;
+&lt;p&gt;Tomamos todas las precauciones para proteger la información de nuestros usuarios. Cuando un usuario remite información confidencial a través de la página, la información está protegida tanto online como offline.
+Cuando nuestro formulario de contacto/pedido le solicita a los usuarios que ingresen información confidencial (como si fuese número de tarjeta de crédito), se codifica y protege a través del software de codificación de SSL. Toda la información de nuestros usuarios, no solo la información confidencial antedicha se restringe a nuestro colectivo. Únicamente el equipo que necesitan la información para realizar una tarea específica (por ejemplo un representante de servicios al cliente) tiene acceso a información identificable del cliente. Por último, los servidores en que almacenamos la información personal identificable, se guardan en un lugar blindado.&lt;/p&gt;
+&lt;p&gt;Si tiene preguntas respecto de la seguridad en nuestra página, envíenlas a través de nuestra página &amp;ldquo;Contacto&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;cookies&#34;&gt;Cookies&lt;/h2&gt;
+&lt;p&gt;Una cookie es un dato que se almacena en el disco duro del usuario que contiene información respecto del usuario, tal como la identificación del usuario para acceder a la página. Si un usuario rechaza la cookie, no podrán iniciar la sesión en nuestra página para tener acceso al contenido premium. No utilizamos cookies para almacenar información confidencial.&lt;/p&gt;
+&lt;h2 id=&#34;archivos-para-iniciar-la-sesión&#34;&gt;Archivos para Iniciar la Sesión&lt;/h2&gt;
+&lt;p&gt;Utilizamos direcciones del Internet Protocol (IP) para analizar tendencias, administrar la página, rastrear los movimientos del usuario en nuestra página, y reunir información demográfica amplia para uso conjunto.&lt;/p&gt;
+&lt;h2 id=&#34;vínculos&#34;&gt;Vínculos&lt;/h2&gt;
+&lt;p&gt;Esta página contiene vínculos a otras páginas. &amp;ldquo;Colectivo Kallpa Comunitaria&amp;rdquo; no es responsable por las prácticas de privacidad de otras páginas. Alentamos a nuestros usuarios a que sean concientes de cuando abandonen nuestra página, y lean las declaraciones de privacidad de cada página que recoja información personal identificable.&lt;/p&gt;
+&lt;p&gt;Notificación de Cambios
+&amp;ldquo;Colectivo Kallpa Comunitaria&amp;rdquo; se reserva los derechos de modificar su política de privacidad. Sin embargo, si decidiéramos modificar nuestra política, informaríamos de nuestros cambios claramente, por lo tanto, los usuarios siempre estarán concientes de la información que recogemos, cómo la usamos, y bajo qué circunstancias, de existir, la revelaremos. Si en algún momento decidiéramos utilizar información personalmente identificable, de un modo distinto al que afirmamos en el momento de recolectarla, notificaremos a los usuarios mediante correo electrónico.&lt;/p&gt;
 </description>
     </item>
     
@@ -566,146 +464,15 @@ Three
     </item>
     
     <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
-&lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 
-&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 
-&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👥 
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: 
-&lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@source_themes&lt;/a&gt; 
-&lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; 
-&lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
-&lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
-&lt;ul&gt;
-&lt;li&gt;☕️ 
-&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💵 
-&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🖼️ 
-&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👕 
-&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-
-
-  &lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
-&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and 
-&lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
-&lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, 
-&lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the 
-&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Then 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of 
-&lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present 
-&lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+      <title>San Juan -- masacre y memoria</title>
+      <link>/historia/san-juan/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/historia/san-juan/</guid>
+      <description>&lt;p&gt;Siglo XX hoy es uno de los distritos urbanos del Municipio de Llallagua (Norte de Potosí). Después de la llamada “relocalización”, ocurrida en 1986, su fisonomía de campamento minero –de cuando era propiedad de la Corporación Minera de Bolivia (Comibol)– recibió infinidad de retoques y añadidos, sin borrar sus espacios históricos. El teatro, la pulpería o la sede sindical siguen de pie, aunque deslucidas, cerradas o cumpliendo otras funciones. La Radio Pio XII continúa emitiendo sus señales junto a la parroquia de piedra. La bocamina o “Socavón Siglo XX” persiste, al igual que la Plaza del Minero con su regio monumento de bronce. Siglo XX es la constatación de cómo un territorio está siempre en movimientos, que los vaivenes de la historia lo transforman, aunque nunca del todo porque alguna huella del ayer, al menos, evade al olvido y hace memoria.&lt;/p&gt;
+&lt;p&gt;El inicio de cada invierno trae consigo una de esas huellas sobre aquel territorio minero, referida a la “Masacre de San Juan” que se produjo en la madrugada del 24 de junio de 1967, por orden del entonces presidente de la República, el Gral. René Barrientos, un hombre de la Agencia Central de Inteligencia (CIA) norteamericana. En 1964, siendo vicepresidente del Gobierno de Víctor Paz Estensoro, participó del golpe de Estado y formó parte de la Junta Militar que asumió el gobierno de facto, hasta que el 1966 fue posesionado como presidente constitucional producto de una elección nacional fraguada, llevada adelante después de que en 1965 terminó de sofocar al movimiento popular que se resistió al golpe de Estado. Así, el Ejército impuso la culminación del ciclo de la Revolución Nacional de 1952, acontecimiento en el que habían sido derrotados y diluidos. El periodista Carlos Gutiérrez escribió en aquella coyuntura que, al precio de 600 muertos, el sindicalismo boliviano descubrió la diferencia entre una revolución viciada de errores y una restauración contrarrevolucionaria.&lt;/p&gt;
+&lt;p&gt;Barrientos proscribió a las organizaciones sindicales, persiguió y apresó a los dirigentes, líderes y activistas sociales, acalló las radios mineras, rebajó el 50% de los magros salario a los trabajadores mineros, entre otras medidas nefastas. Para junio de 1967, los mineros habían previsto un ampliado nacional en Siglo XX, con la participación de otros sectores el país, en busca de debatir y exigir la reversión de dichas medidas; además, analizar la guerrilla del Che –localizada al suroeste del Oriente boliviano– con la que no estaban vinculados, pero había llamado su atención. Dicho ampliado debía llevarse, precisamente, al día siguiente de la Noche de San Juan, en la que, por usos y costumbres en Bolivia, se encendían fogatas en las puertas de cada hogar para disfrutar del calor durante el tiempo en que los leños y trastos se consumían; un verdadero momento de disfrute para chicos y grandes, mucho más si se está una región gélida.
+La masacre se desató después de la media noche. Por el oeste bajaron las tropas militares y por el este ingresó la Policía, tomando por sorpresa a una población indefensa y desprevenida que no había cometido delito alguno, tan solo constituirse en un eje de la resistencia a la restauración barrientista. Docenas de muertos y un centenar de heridos –entre mujeres y hombres; mayores, jóvenes y niños–, fue el saldo de un acto planificado, para escarmentar al movimiento minero y enviar un mensaje de desciplinamiento para todo aquel boliviano que osara rebelarse. En adelante, ninguna otra noche de San Juan fue la misma para los habitantes de Siglo XX. Las fogatas aún se encendieron para el esparcimiento colectivo, pero con la cualidad de un rito para honrar a los caídos, al son de la radio con la canción que Nilo Soruco escribió para ellos.&lt;/p&gt;
+&lt;p&gt;Quienes documentaron la “Masacre de San Juan” concluyen que fue la más premeditada en la historia boliviana. No obstante, como en todas, se trató de la escenificación cruel de los excesos a los que un régimen está dispuesto, para alcanzar sus objetivos y preservar su orden. Sucede que la masacre es un método de violencia extrema que los gobiernos fascistoides están siempre dispuestos a reeditar, con el acompañamiento de un discurso oficial en el que las víctimas serán responsabilizadas de su propia eliminación, por parte de los perpetradores. De ahí la importancia de documentar una masacre desde las huellas de quienes la sufrieron.&lt;/p&gt;
 </description>
     </item>
     
@@ -714,26 +481,6 @@ Three
       <link>/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

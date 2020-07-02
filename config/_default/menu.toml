@@ -10,22 +10,22 @@
 
 [[main]]
   name = "Análisis"
-  url = "#posts"
+  url = "#analisis"
   weight = 20
 
 [[main]]
   name = "Memoria histórica"
-  url = "#projects"
+  url = "#memoria-historica"
   weight = 30
 
 [[main]]
   name = "Noticias"
-  url = "#featured"
+  url = "#noticias"
   weight = 40
 
 [[main]]
   name = "Cultura"
-  url = "courses/"
+  url = "#cultura"
   weight = 50
 
 [[main]]

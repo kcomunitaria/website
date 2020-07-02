@@ -20,7 +20,7 @@
   
   
 
-  <meta name="author" content="Kallpa Comunitaria">
+  <meta name="author" content="José SagaZ">
 
   
   
@@ -42,6 +42,9 @@
   
 
   
+  
+  
+  <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -173,9 +176,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -272,6 +275,9 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@k_comunitaria">
+  <meta property="twitter:creator" content="@k_comunitaria">
+  
   <meta property="og:site_name" content="Kallpa Comunitaria">
   <meta property="og:url" content="/tag/demo/">
   <meta property="og:title" content="Demo | Kallpa Comunitaria">
@@ -293,7 +299,28 @@
 
 
 
-
+ 
+        <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+        <script type="text/javascript">
+        init_mathjax = function() {
+            if (window.MathJax) {
+                
+                MathJax.Hub.Config({
+                    tex2jax: {
+                        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                        displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+                    },
+                    displayAlign: 'left', 
+                    "HTML-CSS": {
+                        styles: {'.MathJax_Display': {"margin": 0}}
+                    }
+                });
+                MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+            }
+        }
+        init_mathjax();
+        </script>
+ 
 
   <title>Demo | Kallpa Comunitaria</title>
 
@@ -366,7 +393,7 @@
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -424,7 +451,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Análisis</span></a>
+          <a class="nav-link " href="/#analisis"><span>Análisis</span></a>
         </li>
 
         
@@ -453,7 +480,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Memoria histórica</span></a>
+          <a class="nav-link " href="/#memoria-historica"><span>Memoria histórica</span></a>
         </li>
 
         
@@ -482,7 +509,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Noticias</span></a>
+          <a class="nav-link " href="/#noticias"><span>Noticias</span></a>
         </li>
 
         
@@ -502,9 +529,16 @@
         
         
         
+          
+          
+          
+            
+          
+          
+        
 
         <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Cultura</span></a>
+          <a class="nav-link " href="/#cultura"><span>Cultura</span></a>
         </li>
 
         
@@ -555,7 +589,6 @@
       
       <li class="nav-item dropdown theme-dropdown">
         <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-palette" aria-hidden="true"></i>
         </a>
         <div class="dropdown-menu">
           <a href="#" class="dropdown-item js-set-theme-light">
@@ -645,6 +678,8 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
+      
 
       
         
@@ -722,6 +757,8 @@
 
     
     
+    <script id="dsq-count-scr" src="https://kallpacomunitaria.disqus.com/count.js" async></script>
+    
 
     
     
@@ -749,36 +786,14 @@
   
   
   <div class="container">
-    <footer class="site-footer">
-  
+    
+<footer class="site-footer">
+<hr style ="display: block; margin-before: 0.5em; margin-after: 0.5em; margin-start: auto; margin-end: auto; overflow: hidden; border-style: inset; border-width: 1px;"> 
   <p class="powered-by">
+    © Kallpa Comunitaria &middot; Desarrollado con  <span style="color: firebrick;font-size: 150%"><sub> ❤ </sub> </span> y `Software Libre´ &middot; La Paz -- Bolivia<br>
+    Plantilla <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic </a> de
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> &middot; Todos los derechos reservados.
     
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
-  
-
-  <p class="powered-by">
-    
-  </p>
-
-  
-  
-
-
-
-
-
-
-  <p class="powered-by">
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
     
     <span class="float-right" aria-hidden="true">
       <a href="#" class="back-to-top">
@@ -788,7 +803,78 @@
       </a>
     </span>
     
-  </p>
+<br>
+
+
+
+    
+    
+
+
+
+
+
+  
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <span class="powered-by copyright-license-text">
+    Este sitio web está bajo las licencias <a href="https://creativecommons.org/licenses/by-nc-sa/4.0" rel="noopener noreferrer" target="_blank">CC BY NC SA 4.0</a>
+  </span><br>
+  
+
+  <span class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0" rel="noopener noreferrer" target="_blank">
+      <img src="https://search.creativecommons.org/static/img/cc_icon.svg" alt="CC icon">
+      <img src="https://search.creativecommons.org/static/img/cc-by_icon.svg" alt="CC by icon">
+      
+        <img src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" alt="CC NC icon">
+      
+      
+        <img src="https://search.creativecommons.org/static/img/cc-sa_icon.svg" alt="CC SA icon">
+      
+    </a>
+  </span>
+
+
+
+
+
+  <span class="powered-by footer-license-icons">
+    <a href="https://app.netlify.com/sites/kcomunitaria/deploys" target="_blank" rel="noopener">
+      <img src="https://api.netlify.com/api/v1/badges/4a94cbb4-c96e-48c7-81a9-1fca25dc3be5/deploy-status" alt="Netlify Status"></a>
+  </span>
+
+  
+  
+  <span class="powered-by">
+    
+      <a href="/privacy/">Políticas de Privacidad</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Términos y Condiciones</a>
+    
+  </span>
+  
+  <br>
+  <span class="powered-by">
+    © 2020
+  </span>
+</p>
+
 </footer>
 
   </div>
