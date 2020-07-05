@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kallpa Comunitaria</title>
-    <link>/author/kallpa-comunitaria/</link>
-      <atom:link href="/author/kallpa-comunitaria/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/author/kallpa-comunitaria/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/author/kallpa-comunitaria/index.xml" rel="self" type="application/rss+xml" />
     <description>Kallpa Comunitaria</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kallpa Comunitaria</title>
-      <link>/author/kallpa-comunitaria/</link>
+      <link>https://kcomunitaria.netlify.app/author/kallpa-comunitaria/</link>
     </image>
     
     <item>
       <title>El pueblo unido jamás será vencido</title>
-      <link>/publication/el-pueblo-unido-jamas-sera-vencido/</link>
+      <link>https://kcomunitaria.netlify.app/publication/el-pueblo-unido-jamas-sera-vencido/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/el-pueblo-unido-jamas-sera-vencido/</guid>
+      <guid>https://kcomunitaria.netlify.app/publication/el-pueblo-unido-jamas-sera-vencido/</guid>
       <description>&lt;hr&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
+      <link>https://kcomunitaria.netlify.app/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>https://kcomunitaria.netlify.app/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

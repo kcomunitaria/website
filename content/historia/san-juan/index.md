@@ -13,7 +13,7 @@ slides:
 summary: Después de la llamada ‘relocalización’, ocurrida en 1986
 tags:
 - masacre san juan
-title: San Juan — masacre y memoria
+title: San Juan - masacre y memoria
 url_code: ""
 url_pdf: ""
 url_slides: ""

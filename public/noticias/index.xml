@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Kallpa Comunitaria</title>
-    <link>/noticias/</link>
-      <atom:link href="/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/noticias/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/noticias/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>/noticias/</link>
+      <link>https://kcomunitaria.netlify.app/noticias/</link>
     </image>
     
     <item>
       <title>Dictadura boliviana se dispone a detener a candidato del MAS</title>
-      <link>/noticias/dictadura-boliviana-se-dispone-/</link>
+      <link>https://kcomunitaria.netlify.app/noticias/dictadura-boliviana-se-dispone-/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/noticias/dictadura-boliviana-se-dispone-/</guid>
+      <guid>https://kcomunitaria.netlify.app/noticias/dictadura-boliviana-se-dispone-/</guid>
       <description>&lt;p&gt;A la presidenta de facto de Bolivia, Jeanine Áñez, se le cae cada día más la forzada careta de democracia que, con la complicidad de los Estados Unidos y la Unión Europea, se la tuvo que poner para justificar el derrocamiento violento de Evo Morales en noviembre del año pasado. Ahora, en una demostración flagrante de que en este país sudamericano no existen garantías constitucionales y que la regla es la persecución, &lt;strong&gt;se prepara un golpe contra el candidato a la presidencia del Movimiento Al Socialismo (MAS), Luis Arce&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;En una constatación de la vigencia del método del lawfare contra los líderes populares, la forma jurídica de esta decisión política antidemocrática es la denuncia penal interpuesta este martes ante el Ministerio Público en contra de Luis Arce por el supuesto daño económico que habría causado al Estado al poner en marcha la Gestora Pública para la administración de los aportes sociales de los trabajadores.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Esta no es la primera vez que se asume una actitud de agresión contra el candidato del MAS desde que retornó a Bolivia&lt;/strong&gt; tras permanecer un breve tiempo en México. El mismo día de su arribo a La Paz, el 28 de enero, en el aeropuerto de El Alto se le entregó una citación para declarar ante la justicia por el caso del Fondo Indígena. Este martes la acción es más perversa en un momento en que el exministro de Economía de Morales lidera toda la intención de voto para las elecciones del 6 de septiembre venidero.&lt;/p&gt;
