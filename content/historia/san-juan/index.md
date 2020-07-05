@@ -1,8 +1,8 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2020-07-05"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Foto del Periódico ‘la época’
   focal_point: Smart
 links:
 - icon: link
@@ -10,10 +10,10 @@ links:
   name: Fuente&#58; Periódico ‘la época’
   url: https://www.la-epoca.com.bo/2020/07/01/san-juan-masacre-y-memoria/
 slides: 
-summary: An example of using the in-built project page.
+summary: Después de la llamada ‘relocalización’, ocurrida en 1986
 tags:
 - masacre san juan
-title: San Juan -- masacre y memoria
+title: San Juan — masacre y memoria
 url_code: ""
 url_pdf: ""
 url_slides: ""
