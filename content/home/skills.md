@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Nuestros principios y ejes de trabajo"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,29 +15,42 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "bullhorn"
+  icon_pack = "fas"
+  name = "Promocionar"
+  description = "Promoción de valores comunitarios y principios socialistas desde el sur"
+  
+[[feature]]
+  icon = "pagelines"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Fundamentar"
+  description = "Fundamentos del vivir bien y del socialismo comunitario"  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "users"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Debatir"
+  description = "Abrir o facilitar el debate: naturaleza, tecnología, sociedad y “Desarrollo”"
 
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
+ # Uncomment to use emoji icons.
+ [[feature]]
+  icon = "pubmed"
+  icon_pack = "ai"
+  name = "Educar"
+  description = "Sistemas educativos para la emancipación y el Socialismo Comunitario"  
+
+[[feature]]
+  icon = "overleaf"
+  icon_pack = "ai"
+  name = "Solidaridad"
+  description = "Abrir o facilitar el debate: naturaleza, tecnología, sociedad y “Desarrollo”"
+
+[[feature]]
+  icon = "ideas-repec"
+  icon_pack = "ai"
+  name = "Internacionalismo"
+  description = "Abrir o facilitar el debate: naturaleza, tecnología, sociedad y “Desarrollo”"
+
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
