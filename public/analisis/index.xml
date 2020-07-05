@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analisis | Kallpa Comunitaria</title>
-    <link>/analisis/</link>
-      <atom:link href="/analisis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/analisis/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/analisis/index.xml" rel="self" type="application/rss+xml" />
     <description>Analisis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Fri, 26 Jun 2020 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Analisis</title>
-      <link>/analisis/</link>
+      <link>https://kcomunitaria.netlify.app/analisis/</link>
     </image>
     
     <item>
       <title>Anatomía de los golpes de Estado</title>
-      <link>/analisis/el-golpismo/</link>
+      <link>https://kcomunitaria.netlify.app/analisis/el-golpismo/</link>
       <pubDate>Fri, 26 Jun 2020 13:00:00 +0000</pubDate>
-      <guid>/analisis/el-golpismo/</guid>
+      <guid>https://kcomunitaria.netlify.app/analisis/el-golpismo/</guid>
       <description>&lt;p&gt;Se pronuncia la palabra golpe de Estado y el pensamiento rápido&lt;sup&gt;
 &lt;a href=&#34;#1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; imprime imágenes asociativas al hecho. Una plaza –ese modelo de disposición urbana para los asentamientos españoles en momentos de la colonia que simbolizaba el centro de la ciudad y expresó el domicilio del poder político- tomada por fuerzas militares, cortada en cada uno de sus ingresos por enormes maquinarias de guerra, y soldados y muchas, muchas armas en manos de ellos, para que horas después, se conozca el comunicado del gobierno de “unidad nacional”, ese que nos dice que el presidente ha sido cesado en sus funciones y los derechos políticos de todos quienes aquí habitan entran en restricción. En suma, un golpe de Estado se ha producido.
 En el imaginario de los bolivianos, 37 años de historia democrática dejan difusas nociones sobre estas categorías que, desde la politología, se trabajan esforzadamente por definirlas y comprenderlas. Las viejas y primarias formas de golpes de Estado van cediendo en el tiempo a renovadas maneras de asaltar el objetivo final, ese que sí resiste el avance de los siglos: tomar el poder político.&lt;/p&gt;
