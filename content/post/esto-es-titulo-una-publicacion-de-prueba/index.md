@@ -3,7 +3,7 @@ title: Esto es TITULO una publicacion de prueba
 subtitle: esto es el subtitulos
 date: 2020-07-06T10:36:45.292Z
 summary: El sumario del articulo/post
-draft: true
+draft: false
 featured: false
 authors:
   - admin
