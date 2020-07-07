@@ -74,7 +74,7 @@ collections:
         required: false
         widget: "list"
   - name: posts
-    label: Posts
+    label: Noticias
     label_singular: Post
     folder: 'content/noticias'
     path: '{{slug}}/index'
