@@ -78,27 +78,12 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-07-07T01:27:36+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/noticias/esto-es-titulo-una-publicacion-de-prueba/</loc>
-    <lastmod>2020-07-07T01:27:36+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/kallpa-comunitaria/</loc>
-    <lastmod>2020-07-07T01:27:36+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/noticias/</loc>
-    <lastmod>2020-07-07T01:27:36+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/agresion/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,12 +103,22 @@
   </url>
   
   <url>
+    <loc>/author/kallpa-comunitaria/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/movimiento-al-socialismo-mas/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/category/noticias/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/noticias/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
