@@ -8,19 +8,20 @@
   url = "#hero"
   weight = 10
 
-[[main]]
-  name = "Análisis"
-  url = "#analisis"
-  weight = 20
-
-[[main]]
-  name = "Memoria histórica"
-  url = "#memoria-historica"
-  weight = 30
 
 [[main]]
   name = "Noticias"
   url = "#noticias"
+  weight = 20
+
+[[main]]
+  name = "Artículos"
+  url = "#articulos"
+  weight = 30
+
+[[main]]
+  name = "Memoria histórica"
+  url = "#memoria-historica"
   weight = 40
 
 [[main]]

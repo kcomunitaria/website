@@ -1,12 +1,12 @@
 +++
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+headless = true     # This file represents a page section.
+active = true       # Activate this widget? true/false
+weight = 130        # Order that this section will appear.
 
-title = "Contact"
-subtitle = ""
+title = "Contacto"
+subtitle = "Envíanos un mensaje por correo electrónico llenando el formulario de Contacto"
 
 # Automatically link email and phone?
 autolink = true
@@ -16,5 +16,12 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 2
-+++
 
+
+[design.background]
+# Background gradient.
+gradient_start = "45deg, #ee7874"
+gradient_end = "#ffbdbe"
+
+
++++

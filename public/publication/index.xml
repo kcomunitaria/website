@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Kallpa Comunitaria</title>
-    <link>https://kcomunitaria.netlify.app/publication/</link>
-      <atom:link href="https://kcomunitaria.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright>
     <image>
-      <url>https://kcomunitaria.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://kcomunitaria.netlify.app/publication/</link>
+      <link>/publication/</link>
     </image>
     
   </channel>

@@ -31,7 +31,7 @@ title = 'Kallpa Comunitaria'
    image_darken = 0.4          # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"        # Options are `cover` (default), `contain`, or `actual` size.
    image_position = "bottom"   # Options include `left`, `center` (default), or `right`.
-   image_parallax = false       # Use a fun parallax-like fixed background effect? true/false
+   image_parallax = true       # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -39,16 +39,45 @@ title = 'Kallpa Comunitaria'
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "#"
-  label = "Documento completo en PDF"
-  icon_pack = "fas"
-  icon = "download"
+# [cta]
+#   url = "#"
+#   label = "Documento completo en PDF"
+#   icon_pack = "fas"
+#   icon = "download"
   
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a style="font-size: 0.8rem;" href="#">Otros documentos sobre nuestros principios  </a>'
+# [cta_note]
+#   label = '<a style="font-size: 0.8rem;" href="#">Otros documentos sobre nuestros principios  </a>'
 
 +++
+<br>
+<hr>
+Somos una “organización” política de mujeres y hombres, que promueve la comunidad como forma social donde se producen y reproducen practicas solidarias y sentidos de comunidad, principios democráticos de equidad e igualdad y democráticos, en pleno respeto a los Derechos Humanos y a toda forma de vida. Promovemos valores comunitarios y principios políticos socialistas, valorando la importancia de la soberanía, la identidad propia y comprendiendo que el internacionalismo es fundamental para hacer fuerza contra el sistema capitalista.
 
-Somos una “organización” política de mujeres y hombres, que promueve la comunidad como forma social donde se producen y reproducen practicas solidarias y sentidos de comunidad, principios democráticos de equidad e igualdad.
+
+<style>
+.separator {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.separator::before, .separator::after {
+    content: '';
+    flex: 1;
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: none;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+.separator::before {
+    margin-right: .25em;
+}
+.separator::after {
+    margin-left: .25em;
+}
+</style>
+<div class="separator"> &#x262D; </div>
+
+
+

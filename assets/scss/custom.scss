@@ -1,8 +1,19 @@
 .dark .navbar {
     box-shadow: 0 0.125rem 0.25rem 0 rgb(0, 25, 25);
 }
-
 .wg-hero.dark .hero-title, .wg-hero.dark .hero-lead, .wg-hero.dark .hero-cta-alt, .wg-hero.dark .hero-note > * {
     color: #fff;
     text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+}
+.gallery a[data-fancybox] img {
+    height: 80px;
+}
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+    color: #fff;
+}
+.section-heading p {
+    color: rgba(255,255,255,0.54);
+}
+.article-style aside, .alert-note {
+    background-color: #f6fbfe80;
 }
