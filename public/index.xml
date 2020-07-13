@@ -94,6 +94,15 @@
     </item>
     
     <item>
+      <title>Esto deberia ir a noticias</title>
+      <link>/noticias/esto-es-titulo-una-publicacion-de-prueba/</link>
+      <pubDate>Tue, 07 Jul 2020 01:27:36 +0000</pubDate>
+      <guid>/noticias/esto-es-titulo-una-publicacion-de-prueba/</guid>
+      <description>&lt;p&gt;solo prueba.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Golpe de Estado en Bolivia reabrió heridas raciales,</title>
       <link>/noticias/golpe-de-estado-reabrio-heridas/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
@@ -107,6 +116,15 @@
 &lt;p&gt;El catedrático explicó que el Estado Plurinacional de Bolivia es un proyecto de encuentro entre instancias del Estado, organizaciones y sectores sociales, tradicionalmente apartados de decisiones y beneficios de la civilización.&lt;/p&gt;
 &lt;p&gt;Entre estos últimos situó a los pueblos indígenas, afrobolivianos, mujeres, adultos mayores, personas con discapacidad, población LGBTI, personas que viven con VIH-SIDA, migrantes y otros grupos en situación de vulnerabilidad.&lt;/p&gt;
 &lt;p&gt;El candidato por el MAS criticó a Estados Unidos por el asesinato de George Floyd, que ‘puso de relieve la profunda desigualdad que se vive al interior de ese país, las mismas que imponen las políticas de su gobierno en los países a los que ataca, asfixia y presiona’.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Esto es TITULO una publicacion de prueba</title>
+      <link>/post/esto-es-titulo-una-publicacion-de-prueba/</link>
+      <pubDate>Mon, 06 Jul 2020 10:36:45 +0000</pubDate>
+      <guid>/post/esto-es-titulo-una-publicacion-de-prueba/</guid>
+      <description>&lt;p&gt;La parte &lt;strong&gt;principal&lt;/strong&gt; del text&lt;/p&gt;
 </description>
     </item>
     

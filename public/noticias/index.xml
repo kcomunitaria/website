@@ -5,12 +5,21 @@
     <link>/noticias/</link>
       <atom:link href="/noticias/index.xml" rel="self" type="application/rss+xml" />
     <description>Noticias</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Jul 2020 01:27:36 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Noticias</title>
       <link>/noticias/</link>
     </image>
+    
+    <item>
+      <title>Esto deberia ir a noticias</title>
+      <link>/noticias/esto-es-titulo-una-publicacion-de-prueba/</link>
+      <pubDate>Tue, 07 Jul 2020 01:27:36 +0000</pubDate>
+      <guid>/noticias/esto-es-titulo-una-publicacion-de-prueba/</guid>
+      <description>&lt;p&gt;solo prueba.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Golpe de Estado en Bolivia reabrió heridas raciales,</title>

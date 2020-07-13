@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
   branch: master
-publish_mode: editorial_workflow
 media_folder: 'static/img/'
 public_folder: 'img'
 collections:
@@ -75,9 +74,9 @@ collections:
         required: false
         widget: "list"
   - name: posts
-    label: Noticias
+    label: Posts
     label_singular: Post
-    folder: 'content/noticias'
+    folder: 'content/post'
     path: '{{slug}}/index'
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
