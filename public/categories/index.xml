@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Kallpa Comunitaria</title>
-    <link>https://kcomunitaria.netlify.app/categories/</link>
-      <atom:link href="https://kcomunitaria.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kcomunitaria.netlify.app/images/logo_huca47b57c2538c50d018d16a72d10c151_25085_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
       <title>Categories</title>
-      <link>https://kcomunitaria.netlify.app/categories/</link>
+      <link>/categories/</link>
     </image>
     
   </channel>

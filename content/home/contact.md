@@ -17,11 +17,12 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 
-
 [design.background]
+color = "#123045 !important"
+
 # Background gradient.
-gradient_start = "45deg, #ee7874"
-gradient_end = "#ffbdbe"
+# gradient_start = "45deg, #ee7874"
+# gradient_end = "#ffbdbe"
 
 
 +++

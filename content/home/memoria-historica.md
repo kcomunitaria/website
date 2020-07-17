@@ -29,6 +29,10 @@ subtitle = ""
     name = "masacre san juan"
     tag = "masacre san juan"
 
+[[content.filter_button]]
+    name = "dictadura Garcia Meza"
+    tag = "dictadura Garcia Meza"
+
   [[content.filter_button]]
     name = "Otro"
     tag = "Demo"
@@ -54,11 +58,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "#123045 !important"
 
   # Background gradient.
-  gradient_start = "45deg, #ee7874"
-  gradient_end = "#ffbdbe"
+  #gradient_start = "45deg, #ee7874"
+  #gradient_end = "#ffbdbe"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.

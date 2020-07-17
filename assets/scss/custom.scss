@@ -32,3 +32,16 @@ div.alert>div:first-child::before {
  color:#fff;
   content:'\f03a';
 }
+.btn-primary {
+    color: #fff;
+    background-color: #F96854;
+    border-color: #F96854;
+}
+.dark .btn-primary, .dark .btn.btn-primary.active {
+    color: white;
+}
+.btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
+    background-color: #F96854 !important;
+}
+
+

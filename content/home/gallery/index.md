@@ -7,6 +7,8 @@ weight = 131      # Order that this section will appear.
 
 title = " "
 subtitle = "Organizaciones | Medios | Instituciones | Campañas aliadas &#10139;"
+[design.background]
+color = "#F96854 !important"
 
 [[gallery_item]]
  album = "gallery"

@@ -10,10 +10,10 @@ image:
 #  name: Fuente&#58; Periódico ‘la época’
 #  url: https://www.la-epoca.com.bo/2020/07/01/san-juan-masacre-y-memoria/
 slides:
-summary: Durante los años 70' y 80' del siglo XX, Bolivia y países vecinos de Sudamérica padecieron las dictaduras más sangrientas de su historia
+summary: Durante los años 70' y 80' del siglo XX, Bolivia y países vecinos de Sudamérica padecieron las dictaduras
 tags:
-- golpe de Estado, dictadura
-title: A 40 años del golpe de Estado
+- dictadura Garcia Meza
+title: A 40 años de la dictadura de Garcia Meza
 url_code: ""
 url_pdf: ""
 url_slides: ""
