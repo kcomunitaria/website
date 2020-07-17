@@ -17,3 +17,18 @@
 .article-style aside, .alert-note {
     background-color: #f6fbfe80;
 }
+.navbar-brand img {
+    border-radius: 5px;
+}
+.article-style aside, .alert-note {
+    background-color: #F96854;
+}
+.article-style aside, .alert-note {
+    color: #fff;
+    border-color: #F96854;
+}
+.article-style aside p::before,
+div.alert>div:first-child::before {
+ color:#fff;
+  content:'\f03a';
+}

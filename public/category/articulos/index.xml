@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articulos | Kallpa Comunitaria</title>
-    <link>/category/articulos/</link>
-      <atom:link href="/category/articulos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/category/articulos/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/category/articulos/index.xml" rel="self" type="application/rss+xml" />
     <description>Articulos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/logo_huca47b57c2538c50d018d16a72d10c151_25085_300x300_fit_lanczos_2.png</url>
       <title>Articulos</title>
-      <link>/category/articulos/</link>
+      <link>https://kcomunitaria.netlify.app/category/articulos/</link>
     </image>
     
     <item>
       <title>Bolivia en disputa</title>
-      <link>/articulos/bolivia-en-disputa/</link>
+      <link>https://kcomunitaria.netlify.app/articulos/bolivia-en-disputa/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/articulos/bolivia-en-disputa/</guid>
+      <guid>https://kcomunitaria.netlify.app/articulos/bolivia-en-disputa/</guid>
       <description>&lt;p&gt;Estamos cada vez más cerca de las elecciones presidenciales en Bolivia. Una cita que se repite en menos de un año, en el que ha ocurrido absolutamente de todo: una nueva presidenta, sin votos, fruto de un golpe de Estado; gran convulsión política y social, Evo en el exilio, cambio del Órgano Electoral, muchas decisiones sustanciosas en materia económica e internacional, nuevas elecciones con muchas caras nuevas y, para colmo, una pandemia de grandes dimensiones.&lt;/p&gt;
 &lt;p&gt;Con tanta densidad de sucesos notables en tan corto periodo de tiempo, se torna realmente complicado caracterizar el actual escenario electoral. Casi ningún hecho ocurrido ha tenido aún el tiempo suficiente para dejar su propia huella. Se fueron solapando acontecimientos, unos tras otros, que hacen que estemos ante un momento altamente incierto, una suerte de tempo en disputa lleno de contradicciones, algunas creativas y otras destructivas, sin saber cuál será el sentido del reordenamiento político y electoral resultante de este magma boliviano.&lt;/p&gt;
 &lt;p&gt;La última encuesta de CELAG (2.000 casos, ámbito rural y urbana), sumada a otras cuatro realizadas en este último año, nos ayudan en parte a disponer de algunas pistas y hallazgos para descifrar el complejo puzzle político-electoral boliviano. He aquí algunos ejes claves:&lt;/p&gt;
@@ -26,6 +26,37 @@
 &lt;p&gt;4.- Ni el golpe de Estado, ni la represión ni la persecución judicial y mediática logran hacer desaparecer la principal fuerza política del país. A día de hoy, el candidato del MAS, Luis Arce, goza de un 41,9% de intención de voto proyectado (sobre válidos). Su principal adversario, Carlos Mesa, queda lejos, a 26,8%.&lt;/p&gt;
 &lt;p&gt;5.- El voto útil será nuevamente el gran actor en la próxima cita electoral. ¿Hacia qué dirección se decantará? ¿A qué candidato irá a parar este “voto en contra de”? Todo depende del eje plebiscitario que se imponga en este tramo final de campaña. Ciertamente, con números en la mano, Arce necesita mucho menos para ganar en primera vuelta de lo que precisa Mesa para forzar una segunda. Arce todavía podría llegar a convencer a un sector que no tiene valoración definida sobre él, y también podría atraer a los votantes del candidato Chi Hyun Chung, por su proximidad en cuanto a algunas ideas y propuestas. Tiene a su favor el voto útil para que no impere un modelo económico empobrecedor. En el otro lado estará Mesa, que procurará llamar al voto útil para que no gane el MAS. En la elección de octubre del año pasado le funcionó para crecer, pero no tanto como para forzar una segunda vuelta. Se quedó a 10,3 puntos de diferencia. Ahora puede repetirse una situación parecida, con la particularidad que existe Camacho, el candidato cruceño de ultraderecha, que podría granjear parte del voto en fuga de Áñez y que, además, es mucho más beligerante contra toda propuesta que venga del occidente del país, aunque venga de Mesa.&lt;/p&gt;
 &lt;p&gt;Queda poco tiempo de campaña electoral. Sin embargo, dado el ritmo de los sucesos en Bolivia, podemos afirmar que aún resta mucho. Todo está por verse. Lo claro es que la economía, en el sentido más cotidiano del término, será central. Y también es seguro que aquellos que fueron -por activa o por pasiva- responsables del golpe de Estado, no habrán remado tanto para dejar que vuelva a ganar el MAS tan fácilmente. Ojalá las elecciones sean limpias y sin proscripciones de ningún tipo. Veremos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anatomía de los golpes de Estado</title>
+      <link>https://kcomunitaria.netlify.app/articulos/el-golpismo/</link>
+      <pubDate>Fri, 26 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>https://kcomunitaria.netlify.app/articulos/el-golpismo/</guid>
+      <description>&lt;p&gt;Se pronuncia la palabra golpe de Estado y el pensamiento rápido&lt;sup&gt;
+&lt;a href=&#34;#1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; imprime imágenes asociativas al hecho. Una plaza –ese modelo de disposición urbana para los asentamientos españoles en momentos de la colonia que simbolizaba el centro de la ciudad y expresó el domicilio del poder político- tomada por fuerzas militares, cortada en cada uno de sus ingresos por enormes maquinarias de guerra, y soldados y muchas, muchas armas en manos de ellos, para que horas después, se conozca el comunicado del gobierno de “unidad nacional”, ese que nos dice que el presidente ha sido cesado en sus funciones y los derechos políticos de todos quienes aquí habitan entran en restricción. En suma, un golpe de Estado se ha producido.
+En el imaginario de los bolivianos, 37 años de historia democrática dejan difusas nociones sobre estas categorías que, desde la politología, se trabajan esforzadamente por definirlas y comprenderlas. Las viejas y primarias formas de golpes de Estado van cediendo en el tiempo a renovadas maneras de asaltar el objetivo final, ese que sí resiste el avance de los siglos: tomar el poder político.&lt;/p&gt;
+&lt;p&gt;La noción de golpe de Estado se lee originalmente en 1639 en la obra que Gabriel Naudé presentó bajo el título de Consideraciones políticas sobre los golpes de Estado. Naudé planteó el golpe de Estado como una forma, en el ámbito de la ilegalidad y el absolutismo, de defensa y protección del poder político desde el poder ejecutivo. Con el tiempo y la producción que tributa la teoría política, el concepto va recogiendo un sentido negativo hasta ser entendido como un ataque o trama conspirativa para acceder o remover al poder ejecutivo en formas ilegales, ello de parte de grupos políticos, élites de poder conservador ya sedimentado, o sectores sociales en control de los instrumentos coercitivos que constituyen la amenaza disuasiva y latente de uso de fuerza y violencia estatal. Después, a esa acción siguen los relatos que intentan otorgar un ropaje de legalidad y justificación de la acción golpista a la institucionalidad.
+De buena manera, la literatura que refiere a los golpes de Estado explica que estos se producen, organizan e implementan desde pequeños grupos –lo que denota su naturaleza conspirativa- que rápidamente buscan tomar control de los factores, siempre determinantes, de violencia coactiva, como son las instituciones armadas y de tuición de la seguridad interna de un país. El profesor Huntington&lt;sup&gt;
+&lt;a href=&#34;#2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, desde las Ciencias Sociales y la politología, afirmó de forma elocuente que los golpes de Estado solo pueden realizarse: «por un grupo que participa en el sistema político existente y que posee bases institucionales de poder dentro del sistema. En particular el grupo instigador necesita del apoyo de algunos elementos de las fuerzas armadas». En una perspectiva más vertical, William Randall Thompson&lt;sup&gt;
+&lt;a href=&#34;#3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, encuentra que los golpes de Estado tienen un componente de participación imprescindible de la institución militar cuando lo define como: «la sustitución o intento de sustitución del jefe ejecutivo del Estado por las fuerzas armadas regulares a través del uso o la amenaza de la fuerza».&lt;/p&gt;
+&lt;p&gt;Estas acciones que han sido categorizadas en la Ciencia Política como pretorianismo, toman posteriormente formas distintas y por ello, no menos efectivas, que se traducen en operaciones militares encubiertas, de baja violencia o amenaza de acciones disuasivas que se catalogan de “golpes de Estado blandos”. La profesora de Teoría Comparada, Rosemary O´Kane&lt;sup&gt;
+&lt;a href=&#34;#4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, nos dice que, todas aquellas cesaciones de mandato de titulares del poder ejecutivo, con perfiles de obligatoriedad ineludible, ante amenaza o sugerencia insalvable, resultante de un levantamiento o insurrección y con elementos presenciales de intromisión militar en la política se evalúa como golpe de Estado. Huntington resume y sintetiza cuando expresa que un golpe de Estado, constituye una acción de un grupo político y de poder que traza como objetivo un esfuerzo por desalojar ilegítima e ilegalmente a quien detenta y ocupa el poder, por medio de mecanismos violentos o amenaza de su utilización, y aunque la violencia sea menor o nula, sus actores individualizados y de grupo, preservan estamentos de poder institucional dentro del sistema político vigente donde se produce el hecho&lt;sup&gt;
+&lt;a href=&#34;#5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;En este abreviado repaso teórico respecto de la acción del golpe de Estado, observamos que la intencionalidad constante y transversal en el tiempo, refiere a una cuestión vinculada y relacionada al trato hacia el poder. En tiempos modernos y contemporáneos, ese enlace propone, de forma estricta, una alteración de la política estatal, del titular del poder ejecutivo en una intervención por fuera de la legalidad con justificación inmediata.(Si el factor militar, disuasivo o violento, presencial o amenazante, es una constante en los hechos entendidos como golpe de Estado, otros elementos se suman a ello en tiempos más recientes, como ser la justificación que preserve una sensación de necesidad y legalidad. Lo que se conoce hoy en la politología como neogolpismo, adiciona un módulo común de imponer y apretar con una legalidad incierta y cuestionable en lugar de aceptar la ilegalidad de los gastados y acabados modelos de golpe de Estado de otro tiempo. Otra particularidad que el neogolpismo incorpora refiere a acciones de sustitución y suplantación del poder ejecutivo con violencia física menor. En este sentido, sin expresar conceptualmente lo mismo, juicios políticos y golpes de Estado, conviven en una misma familia que prioriza la suplantación de la titularidad del poder político.
+Bajo estos señalados factores constituyentes de un golpe de Estado, los nuevos ataques al poder, los intentos de sustituirlo y buscar su recambio, muestran técnicas y metodologías adaptadas a formas discursivas conectadas con la democracia y la libertad. Esta intencionalidad de observar legalidad y no violencia como argumentos que solicitan la no aplicabilidad de la categoría “golpe de Estado” a una acción de sustitución del poder ejecutivo, no invalida que la usurpación golpeé la institucionalidad, los fundamentos del Estado de derecho, el respeto de la soberanía y las formas democráticas de poder.&lt;/p&gt;
+&lt;h3 id=&#34;notas&#34;&gt;Notas:&lt;/h3&gt;
+&lt;h4 id=&#34;1&#34;&gt;[1]&lt;/h4&gt;
+&lt;p&gt;“Pensar rápido, Pensar despacio” (Kahneman, D. 2018)&lt;/p&gt;
+&lt;h4 id=&#34;2&#34;&gt;[2]&lt;/h4&gt;
+&lt;p&gt;“The Soldier and the State. The Theory and Politics of Ciuil-military Relations” Huntington, S. (1957)&lt;/p&gt;
+&lt;h4 id=&#34;3&#34;&gt;[3]&lt;/h4&gt;
+&lt;p&gt;“Journal of Political and Military Sociology”. Thompson, W. (1979)&lt;/p&gt;
+&lt;h4 id=&#34;4&#34;&gt;[4]&lt;/h4&gt;
+&lt;p&gt;«A Probabilistic Approach to the Causes of Coups d’État» O´Kane, R. (1981)&lt;/p&gt;
+&lt;h4 id=&#34;5&#34;&gt;[5]&lt;/h4&gt;
+&lt;p&gt;“El orden político en las sociedades en cambio”. Huntington, S. (1996).&lt;/p&gt;
 </description>
     </item>
     

@@ -29,6 +29,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+categories: [Articulos]
 ---
 
 Se pronuncia la palabra golpe de Estado y el pensamiento rápido<sup>[1](#1)</sup> imprime imágenes asociativas al hecho. Una plaza –ese modelo de disposición urbana para los asentamientos españoles en momentos de la colonia que simbolizaba el centro de la ciudad y expresó el domicilio del poder político- tomada por fuerzas militares, cortada en cada uno de sus ingresos por enormes maquinarias de guerra, y soldados y muchas, muchas armas en manos de ellos, para que horas después, se conozca el comunicado del gobierno de “unidad nacional”, ese que nos dice que el presidente ha sido cesado en sus funciones y los derechos políticos de todos quienes aquí habitan entran en restricción. En suma, un golpe de Estado se ha producido.

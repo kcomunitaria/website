@@ -46,15 +46,15 @@ subtitle = "Selección de notas periodísticas veraces, claras y breves."
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   color = "#123045 !important"
 
   # Background gradient.
-  gradient_start = "45deg, #ee7874"
-  gradient_end = "#ffbdbe"
+  # gradient_start = "45deg, #ee7874"
+  # gradient_end = "#ffbdbe"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = "c-s.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
