@@ -27,7 +27,7 @@ title = 'Kallpa Comunitaria'
 
 
   # Background image.
-   image = "weave2.gif"        # Name of image in `static/img/`.
+   image = "whipala.jpg"        # Name of image in `static/img/`.
    image_darken = 0.4          # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"        # Options are `cover` (default), `contain`, or `actual` size.
    image_position = "bottom"   # Options include `left`, `center` (default), or `right`.
