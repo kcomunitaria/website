@@ -10,7 +10,7 @@ links:
   name: Fuente&#58; Periódico ‘la época’
   url: https://www.la-epoca.com.bo/2020/07/01/san-juan-masacre-y-memoria/
 slides: 
-summary: Después de la llamada ‘relocalización’, ocurrida en 1986
+summary: Siglo XX hoy es uno de los distritos urbanos del Municipio de Llallagua (Norte de Potosí).
 tags:
 - masacre san juan
 title: San Juan - masacre y memoria

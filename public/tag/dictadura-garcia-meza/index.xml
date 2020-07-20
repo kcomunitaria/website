@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dictadura Garcia Meza | Kallpa Comunitaria</title>
-    <link>/tag/dictadura-garcia-meza/</link>
-      <atom:link href="/tag/dictadura-garcia-meza/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/tag/dictadura-garcia-meza/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/tag/dictadura-garcia-meza/index.xml" rel="self" type="application/rss+xml" />
     <description>dictadura Garcia Meza</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
       <title>dictadura Garcia Meza</title>
-      <link>/tag/dictadura-garcia-meza/</link>
+      <link>https://kcomunitaria.netlify.app/tag/dictadura-garcia-meza/</link>
     </image>
     
     <item>
       <title>A 40 años de la dictadura de Garcia Meza</title>
-      <link>/historia/a-40-anios-del-golpe/</link>
+      <link>https://kcomunitaria.netlify.app/historia/a-40-anios-del-golpe/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/historia/a-40-anios-del-golpe/</guid>
+      <guid>https://kcomunitaria.netlify.app/historia/a-40-anios-del-golpe/</guid>
       <description>&lt;div class=&#34;article-header article-container featured-image-wrapper mt-4 mb-4&#34; style=&#34;max-width: 438px; max-height: 273px;&#34;&gt;
 &lt;div style=&#34;position: relative&#34;&gt;
-    &lt;img src=&#34;/historia/a-40-anios-del-golpe/golpe2019.jpg&#34; alt=&#34;&#34; class=&#34;featured-image&#34;&gt;
+    &lt;img src=&#34;https://kcomunitaria.netlify.app/historia/a-40-anios-del-golpe/golpe2019.jpg&#34; alt=&#34;&#34; class=&#34;featured-image&#34;&gt;
     &lt;span class=&#34;article-header-caption&#34;&gt;Golpe de Estado de 2019&lt;/span&gt;
   &lt;/div&gt;
   &lt;/div&gt;
