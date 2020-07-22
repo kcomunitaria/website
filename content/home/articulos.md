@@ -11,10 +11,6 @@ title = "Artículos"
 subtitle = "Selección de opiniones y/o posturas frente a la coyuntura política actual"
 
 
-
-
-
-
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "articulos"
@@ -58,7 +54,7 @@ subtitle = "Selección de opiniones y/o posturas frente a la coyuntura política
   # gradient_end = "SkyBlue"
 
   # Background image.
-  image = "marxism1.png"  # Name of image in `static/img/`.
+  image = "alandia1.jpg"  # Name of image in `static/img/`.
   image_darken = 0.4      # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).

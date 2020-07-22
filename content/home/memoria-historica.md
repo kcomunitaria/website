@@ -32,6 +32,10 @@ subtitle = ""
 [[content.filter_button]]
     name = "dictadura Garcia Meza"
     tag = "dictadura Garcia Meza"
+    
+[[content.filter_button]]
+    name = "Gualberto Villaroel"
+    tag = "Gualberto Villaroel"
 
   [[content.filter_button]]
     name = "Otro"

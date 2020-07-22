@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articulos | Kallpa Comunitaria</title>
-    <link>https://kcomunitaria.netlify.app/category/articulos/</link>
-      <atom:link href="https://kcomunitaria.netlify.app/category/articulos/index.xml" rel="self" type="application/rss+xml" />
+    <link>/category/articulos/</link>
+      <atom:link href="/category/articulos/index.xml" rel="self" type="application/rss+xml" />
     <description>Articulos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kcomunitaria.netlify.app/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
       <title>Articulos</title>
-      <link>https://kcomunitaria.netlify.app/category/articulos/</link>
+      <link>/category/articulos/</link>
     </image>
     
     <item>
       <title>Bolivia en disputa</title>
-      <link>https://kcomunitaria.netlify.app/articulos/bolivia-en-disputa/</link>
+      <link>/articulos/bolivia-en-disputa/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/articulos/bolivia-en-disputa/</guid>
+      <guid>/articulos/bolivia-en-disputa/</guid>
       <description>&lt;p&gt;Estamos cada vez más cerca de las elecciones presidenciales en Bolivia. Una cita que se repite en menos de un año, en el que ha ocurrido absolutamente de todo: una nueva presidenta, sin votos, fruto de un golpe de Estado; gran convulsión política y social, Evo en el exilio, cambio del Órgano Electoral, muchas decisiones sustanciosas en materia económica e internacional, nuevas elecciones con muchas caras nuevas y, para colmo, una pandemia de grandes dimensiones.&lt;/p&gt;
 &lt;p&gt;Con tanta densidad de sucesos notables en tan corto periodo de tiempo, se torna realmente complicado caracterizar el actual escenario electoral. Casi ningún hecho ocurrido ha tenido aún el tiempo suficiente para dejar su propia huella. Se fueron solapando acontecimientos, unos tras otros, que hacen que estemos ante un momento altamente incierto, una suerte de tempo en disputa lleno de contradicciones, algunas creativas y otras destructivas, sin saber cuál será el sentido del reordenamiento político y electoral resultante de este magma boliviano.&lt;/p&gt;
 &lt;p&gt;La última encuesta de CELAG (2.000 casos, ámbito rural y urbana), sumada a otras cuatro realizadas en este último año, nos ayudan en parte a disponer de algunas pistas y hallazgos para descifrar el complejo puzzle político-electoral boliviano. He aquí algunos ejes claves:&lt;/p&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>Anatomía de los golpes de Estado</title>
-      <link>https://kcomunitaria.netlify.app/articulos/el-golpismo/</link>
+      <link>/articulos/el-golpismo/</link>
       <pubDate>Fri, 26 Jun 2020 13:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/articulos/el-golpismo/</guid>
+      <guid>/articulos/el-golpismo/</guid>
       <description>&lt;p&gt;Se pronuncia la palabra golpe de Estado y el pensamiento rápido&lt;sup&gt;
 &lt;a href=&#34;#1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; imprime imágenes asociativas al hecho. Una plaza –ese modelo de disposición urbana para los asentamientos españoles en momentos de la colonia que simbolizaba el centro de la ciudad y expresó el domicilio del poder político- tomada por fuerzas militares, cortada en cada uno de sus ingresos por enormes maquinarias de guerra, y soldados y muchas, muchas armas en manos de ellos, para que horas después, se conozca el comunicado del gobierno de “unidad nacional”, ese que nos dice que el presidente ha sido cesado en sus funciones y los derechos políticos de todos quienes aquí habitan entran en restricción. En suma, un golpe de Estado se ha producido.
 En el imaginario de los bolivianos, 37 años de historia democrática dejan difusas nociones sobre estas categorías que, desde la politología, se trabajan esforzadamente por definirlas y comprenderlas. Las viejas y primarias formas de golpes de Estado van cediendo en el tiempo a renovadas maneras de asaltar el objetivo final, ese que sí resiste el avance de los siglos: tomar el poder político.&lt;/p&gt;
