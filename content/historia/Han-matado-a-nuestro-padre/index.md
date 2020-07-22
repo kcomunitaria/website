@@ -12,7 +12,7 @@ links:
 slides:
 summary: Una multitud se aproxima a la 
 tags:
-- Gualberto Villaroel
+- Gualberto Villarroel
 title: "Han matado a nuestro padre, Gualberto Villarroel"
 url_code: ""
 url_pdf: ""

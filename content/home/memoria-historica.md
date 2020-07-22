@@ -34,8 +34,8 @@ subtitle = ""
     tag = "dictadura Garcia Meza"
     
 [[content.filter_button]]
-    name = "Gualberto Villaroel"
-    tag = "Gualberto Villaroel"
+    name = "Gualberto Villarroel"
+    tag = "Gualberto Villarroel"
 
   [[content.filter_button]]
     name = "Otro"
