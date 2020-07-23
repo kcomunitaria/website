@@ -2,21 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kallpa Comunitaria</title>
-    <link>/author/kallpa-comunitaria/</link>
-      <atom:link href="/author/kallpa-comunitaria/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/author/kallpa-comunitaria/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/author/kallpa-comunitaria/index.xml" rel="self" type="application/rss+xml" />
     <description>Kallpa Comunitaria</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
       <title>Kallpa Comunitaria</title>
-      <link>/author/kallpa-comunitaria/</link>
+      <link>https://kcomunitaria.netlify.app/author/kallpa-comunitaria/</link>
     </image>
     
     <item>
+      <title>Viva los campesinos!</title>
+      <link>https://kcomunitaria.netlify.app/cultura/la-consigna-fsln/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://kcomunitaria.netlify.app/cultura/la-consigna-fsln/</guid>
+      <description>&lt;hr&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/90Ww1AWOouo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marcelo Quiroga Santa Cruz</title>
+      <link>https://kcomunitaria.netlify.app/cultura/a-pesar-de-la-ira/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://kcomunitaria.netlify.app/cultura/a-pesar-de-la-ira/</guid>
+      <description>&lt;p&gt;A 40 años de la desaparición física del líder socialista Marcelo Quiroga Santa Cruz, su ejemplo de lucha, convicción y acción permanece viva, mostrándonos el horizonte a recorrer.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;❝&lt;/span&gt; &amp;hellip; Sabemos, ¡que más pronto que tarde, se cobrarán esto que estamos haciendo! ¡Estamos dispuestos a pagar este precio! ¡Siempre estuvimos dispuestos! ¡Jamás vamos a rehuir el peligro, porque mucho más temible que ese enemigo que está buscando la manera de anularnos, aun físicamente, es una conciencia culpable! ¡Y no podríamos soportarnos a nosotros mismos si no cumpliéramos nuestro deber! &lt;span&gt;❞&lt;/span&gt; — MQSC&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;❝&lt;/span&gt;A pesar de la Ira&lt;span&gt;❞&lt;/span&gt; poema-canción en homenaje a Marcelo&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;❝&lt;/span&gt;Afírmalo país en tu memoria, ahora que se ha dormido en tu semilla&amp;hellip;&lt;span&gt;❞&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVHqC1T4YwM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Golpe de Estado en Bolivia reabrió heridas raciales,</title>
-      <link>/noticias/golpe-de-estado-reabrio-heridas/</link>
+      <link>https://kcomunitaria.netlify.app/noticias/golpe-de-estado-reabrio-heridas/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/noticias/golpe-de-estado-reabrio-heridas/</guid>
+      <guid>https://kcomunitaria.netlify.app/noticias/golpe-de-estado-reabrio-heridas/</guid>
       <description>&lt;p&gt;La Paz-. Las heridas raciales que la ciudadanía de Bolivia intentó cerrar se reabrieron cuando a fines de 2019 la derecha consumó el golpe de Estado contra el pueblo, afirmó hoy el candidato del Movimiento Al socialismo (MAS) Luis Arce.&lt;/p&gt;
 &lt;p&gt;Que la actual presidenta transitoria haya esgrimido la Biblia al igual que el cada vez más aislado presidente Donald Trump es sólo una demostración de la falta de originalidad de la derecha racista, escribió el aspirante a las elecciones de septiembre en un artículo en su blog en Internet.&lt;/p&gt;
 &lt;p&gt;‘Ninguno de los dos se detuvo en el mensaje de paz y amor por el prójimo del cristianismo, ni en la voluntad ecuménica de todas las razas oprimidas del mundo’, recordó Arce en su trabajo ‘El racismo es una justificación para la explotación’.&lt;/p&gt;
@@ -31,26 +65,26 @@
     
     <item>
       <title>Esto es TITULO una publicacion de prueba</title>
-      <link>/post/esto-es-titulo-una-publicacion-de-prueba/</link>
+      <link>https://kcomunitaria.netlify.app/post/esto-es-titulo-una-publicacion-de-prueba/</link>
       <pubDate>Mon, 06 Jul 2020 10:36:45 +0000</pubDate>
-      <guid>/post/esto-es-titulo-una-publicacion-de-prueba/</guid>
+      <guid>https://kcomunitaria.netlify.app/post/esto-es-titulo-una-publicacion-de-prueba/</guid>
       <description>&lt;p&gt;La parte &lt;strong&gt;principal&lt;/strong&gt; del text&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>El pueblo unido jamás será vencido</title>
-      <link>/cultura/el-pueblo-unido-jamas-sera-vencido/</link>
+      <link>https://kcomunitaria.netlify.app/cultura/el-pueblo-unido-jamas-sera-vencido/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/cultura/el-pueblo-unido-jamas-sera-vencido/</guid>
-      <description>&lt;hr&gt;
+      <guid>https://kcomunitaria.netlify.app/cultura/el-pueblo-unido-jamas-sera-vencido/</guid>
+      <description>&lt;p&gt;«&lt;strong&gt;El pueblo unido jamás será vencido&lt;/strong&gt;» es una canción protesta chilena, cuya música fue compuesta por Sergio Ortega Alvarado y el texto escrito en conjunto con la banda Quilapayún. Conocida en el mundo entero, es una de las más famosas canciones de protesta de la historia, y junto con el tema «Venceremos», también de Ortega, una de las más conocidas de la Nueva Canción Chilena. El tema tiene un ritmo de marcha, destacando su estribillo que es un grito o consigna sólo con percusión, lo que facilita su adaptación a cualquier idioma.&lt;/p&gt;
+&lt;hr&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/w8UGs0rdhq8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;hr&gt;
-&lt;p&gt;«&lt;strong&gt;El pueblo unido jamás será vencido&lt;/strong&gt;» es una canción protesta chilena, cuya música fue compuesta por Sergio Ortega Alvarado y el texto escrito en conjunto con la banda Quilapayún.1 Conocida en el mundo entero, es una de las más famosas canciones de protesta de la historia, y junto con el tema «Venceremos», también de Ortega, una de las más conocidas de la Nueva Canción Chilena.2 El tema tiene un ritmo de marcha, destacando su estribillo que es un grito o consigna sólo con percusión, lo que facilita su adaptación a cualquier idioma.2&lt;/p&gt;
 </description>
     </item>
     

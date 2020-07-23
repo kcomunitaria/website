@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Historia | Kallpa Comunitaria</title>
-    <link>/historia/</link>
-      <atom:link href="/historia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/historia/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/historia/index.xml" rel="self" type="application/rss+xml" />
     <description>Historia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
       <title>Historia</title>
-      <link>/historia/</link>
+      <link>https://kcomunitaria.netlify.app/historia/</link>
     </image>
     
     <item>
       <title>Han matado a nuestro padre, Gualberto Villarroel</title>
-      <link>/historia/han-matado-a-nuestro-padre/</link>
+      <link>https://kcomunitaria.netlify.app/historia/han-matado-a-nuestro-padre/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/historia/han-matado-a-nuestro-padre/</guid>
+      <guid>https://kcomunitaria.netlify.app/historia/han-matado-a-nuestro-padre/</guid>
       <description>&lt;p&gt;Una multitud se aproxima a la Plaza Murillo donde se encuentra el palacio de gobierno boliviano. En el interior el presidente y algunos de sus colaboradores esperan decidido a morir en su lugar. La multitud forma parte de un &lt;em&gt;“Frente democrático”&lt;/em&gt; que exige &lt;em&gt;“libertades”&lt;/em&gt; contra el &lt;em&gt;“dictador”&lt;/em&gt; que se quiere perpetuar en el poder. Es una multitud urbana, hay muchos estudiantes, comerciantes, empleados. El gobierno norteamericano los acicata impunemente. Las fuerzas militares abandonan al presidente, algunos de los mismos oficiales que decían ser leales a él se pasan del lado de los insurrectos. Horas después la muchedumbre entra al Palacio del Quemado, allí los espera el presidente, impasible como asumiendo un destino ya escrito. Es vejado, arrastrado por las calles y colgado junto con dos de sus más cercanos colaboradores en un farol de la Plaza. Sus cuerpos expuestos son testimonió de odios que expresan mas que un crimen. Muestra odios de una nación que no consigue constituirse como tal, en donde una parte no acepta al resto&lt;/p&gt;
 &lt;p&gt;No, no es un destino alternativo de Evo Morales que estamos ficcionando. Es el trágico fin del Coronel Gualberto Villarroel presidente de Bolivia entre 1943 y 1946. El coronel era el líder de la logia Razón de Patria, una organización militar nacionalista paralela al &lt;strong&gt;GOU&lt;/strong&gt; de nuestro país. Esta logia profundamente antioligárquica y nacionalista era heredera del nacionalismo social militar surgido en la oficialidad del ejército boliviano luego de la derrota en la guerra del Chaco entre 1932 y 1935. Los oficiales nacionalistas consideraban culpables de la derrota a los intereses mineros asociados a la oligarquía terrateniente semifeudal que eran dueños incontestables del Estado (la Rosca) y a los petroleros de la Stándar Oil. Los coroneles David Toro y Germán Busch e iniciaron un proceso de reformas que fue rápidamente abortado y terminó con la dudosa muerte de Busch, un duro héroe de guerra.&lt;/p&gt;
 &lt;p&gt;La historia moderna boliviana comienza en este periodo cuando se dan los primeros pasos de lo que será después la Revolución Nacional de 1952. Con la guerra del Chaco el estado oligárquico entre en crisis y su resistencia a ser superado se manifiesta en sus violentas reacciones contra los militares nacionalistas, condenados por &lt;em&gt;“tiranos”&lt;/em&gt;, &lt;em&gt;“fascistas”&lt;/em&gt; etc. y asesinados.&lt;/p&gt;
@@ -37,12 +37,12 @@
     
     <item>
       <title>A 40 años de la dictadura de Garcia Meza</title>
-      <link>/historia/a-40-anios-del-golpe/</link>
+      <link>https://kcomunitaria.netlify.app/historia/a-40-anios-del-golpe/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/historia/a-40-anios-del-golpe/</guid>
+      <guid>https://kcomunitaria.netlify.app/historia/a-40-anios-del-golpe/</guid>
       <description>&lt;div class=&#34;article-header article-container featured-image-wrapper mt-4 mb-4&#34; style=&#34;max-width: 438px; max-height: 273px;&#34;&gt;
 &lt;div style=&#34;position: relative&#34;&gt;
-    &lt;img src=&#34;/historia/a-40-anios-del-golpe/golpe2019.jpg&#34; alt=&#34;&#34; class=&#34;featured-image&#34;&gt;
+    &lt;img src=&#34;https://kcomunitaria.netlify.app/historia/a-40-anios-del-golpe/golpe2019.jpg&#34; alt=&#34;&#34; class=&#34;featured-image&#34;&gt;
     &lt;span class=&#34;article-header-caption&#34;&gt;Golpe de Estado de 2019&lt;/span&gt;
   &lt;/div&gt;
   &lt;/div&gt;
@@ -64,9 +64,9 @@ El Plan Cóndor fue el ejemplo claro del direccionamiento de los gobiernos milit
     
     <item>
       <title>San Juan - masacre y memoria</title>
-      <link>/historia/san-juan/</link>
+      <link>https://kcomunitaria.netlify.app/historia/san-juan/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/historia/san-juan/</guid>
+      <guid>https://kcomunitaria.netlify.app/historia/san-juan/</guid>
       <description>&lt;p&gt;Siglo XX hoy es uno de los distritos urbanos del Municipio de Llallagua (Norte de Potosí). Después de la llamada “relocalización”, ocurrida en 1986, su fisonomía de campamento minero –de cuando era propiedad de la Corporación Minera de Bolivia (Comibol)– recibió infinidad de retoques y añadidos, sin borrar sus espacios históricos. El teatro, la pulpería o la sede sindical siguen de pie, aunque deslucidas, cerradas o cumpliendo otras funciones. La Radio Pio XII continúa emitiendo sus señales junto a la parroquia de piedra. La bocamina o “Socavón Siglo XX” persiste, al igual que la Plaza del Minero con su regio monumento de bronce. Siglo XX es la constatación de cómo un territorio está siempre en movimientos, que los vaivenes de la historia lo transforman, aunque nunca del todo porque alguna huella del ayer, al menos, evade al olvido y hace memoria.&lt;/p&gt;
 &lt;p&gt;El inicio de cada invierno trae consigo una de esas huellas sobre aquel territorio minero, referida a la “Masacre de San Juan” que se produjo en la madrugada del 24 de junio de 1967, por orden del entonces presidente de la República, el Gral. René Barrientos, un hombre de la Agencia Central de Inteligencia (CIA) norteamericana. En 1964, siendo vicepresidente del Gobierno de Víctor Paz Estensoro, participó del golpe de Estado y formó parte de la Junta Militar que asumió el gobierno de facto, hasta que el 1966 fue posesionado como presidente constitucional producto de una elección nacional fraguada, llevada adelante después de que en 1965 terminó de sofocar al movimiento popular que se resistió al golpe de Estado. Así, el Ejército impuso la culminación del ciclo de la Revolución Nacional de 1952, acontecimiento en el que habían sido derrotados y diluidos. El periodista Carlos Gutiérrez escribió en aquella coyuntura que, al precio de 600 muertos, el sindicalismo boliviano descubrió la diferencia entre una revolución viciada de errores y una restauración contrarrevolucionaria.&lt;/p&gt;
 &lt;p&gt;Barrientos proscribió a las organizaciones sindicales, persiguió y apresó a los dirigentes, líderes y activistas sociales, acalló las radios mineras, rebajó el 50% de los magros salario a los trabajadores mineros, entre otras medidas nefastas. Para junio de 1967, los mineros habían previsto un ampliado nacional en Siglo XX, con la participación de otros sectores el país, en busca de debatir y exigir la reversión de dichas medidas; además, analizar la guerrilla del Che –localizada al suroeste del Oriente boliviano– con la que no estaban vinculados, pero había llamado su atención. Dicho ampliado debía llevarse, precisamente, al día siguiente de la Noche de San Juan, en la que, por usos y costumbres en Bolivia, se encendían fogatas en las puertas de cada hogar para disfrutar del calor durante el tiempo en que los leños y trastos se consumían; un verdadero momento de disfrute para chicos y grandes, mucho más si se está una región gélida.
