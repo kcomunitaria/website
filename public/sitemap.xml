@@ -34,21 +34,46 @@
   
   <url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/cultura/26-de-julio/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <loc>/noticias/advierten-proceso-penal-contra/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kallpa-comunitaria/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/noticias/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/noticias/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cultura/26-de-julio/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,16 +84,6 @@
   
   <url>
     <loc>/category/cultura/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/kallpa-comunitaria/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,16 +193,6 @@
   </url>
   
   <url>
-    <loc>/category/noticias/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/noticias/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/esto-es-titulo-una-publicacion-de-prueba/</loc>
     <lastmod>2020-07-06T10:36:45+00:00</lastmod>
   </url>
@@ -225,6 +230,21 @@
   <url>
     <loc>/articulos/el-golpismo/</loc>
     <lastmod>2020-06-26T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/biblioteca/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/historia/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/biblioteca/operacion-condor/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>

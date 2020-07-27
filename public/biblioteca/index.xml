@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibliotecas | Kallpa Comunitaria</title>
+    <link>/biblioteca/</link>
+      <atom:link href="/biblioteca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bibliotecas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
+      <title>Bibliotecas</title>
+      <link>/biblioteca/</link>
+    </image>
+    
+    <item>
+      <title>Operación Condor, pacto criminal</title>
+      <link>/biblioteca/operacion-condor/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/biblioteca/operacion-condor/</guid>
+      <description>&lt;h3 id=&#34;prólogo&#34;&gt;Prólogo&lt;/h3&gt;
+&lt;p&gt;En estos días comienzan a emerger desde la oscuridad documentos
+y testimonios sobre los años oscuros del terror que asolaron
+la vida de los pueblos de América Latina y que están desterrando
+largos años de silencio, complicidades e impunidad. Es un hecho
+importante, cuando la falta de coherencia en los gobernantes y
+en la actividad política han llevado al descreimiento y la apatía a
+grandes sectores de la sociedad.&lt;/p&gt;
+&lt;p&gt;La detención en Londres del exdictador de Chile, Augusto
+Pinochet, en 1998, así como los juicios que se llevan adelante en
+España, Italia, Francia, Suecia, Alemania contra las dictaduras del
+Cono Sur; las causas judiciales abiertas por las Abuelas de Plaza
+de Mayo en la Argentina, en un intento de hacer justicia y encontrar
+a los responsables del “&lt;strong&gt;experimento&lt;/strong&gt;” de apropiarse de niños
+nacidos en cautiverio, después de asesinar a sus padres, están llevando
+hacia la verdad.&lt;/p&gt;
+&lt;div class=&#34;btn-links mb-3&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1zl1-Rf_q2Am8F6xJQAARomc7wmlmqFu-/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
