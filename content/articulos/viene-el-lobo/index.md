@@ -15,8 +15,8 @@ links:
 - icon: link
   icon_pack: fas
   name:  Por&#58; Paola Bolívar
-  url: https://rebelion.org/anatomia-de-los-golpes-de-estado/
-location: Source Themes HQ
+  url: 
+location: Kallpa Comunitaria
 math: true
 # projects:
 # - internal-project
