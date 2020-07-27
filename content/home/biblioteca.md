@@ -26,16 +26,16 @@ subtitle = "Por mas aperturismo ideológico"
     tag = "*"
   
   [[content.filter_button]]
-    name = "José Martí"
-    tag = "coleccion1"
+    name = "Historia"
+    tag = "historia"
   
   [[content.filter_button]]
-  name = "Leer en libertad"
-    tag = "brigada"
+  name = "Poesia"
+    tag = "poesia"
     
 [[content.filter_button]]
-  name = "Casa de las Américas"
-    tag = "coleccion3"
+  name = "Marxismo"
+    tag = "marxismo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
