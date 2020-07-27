@@ -18,7 +18,7 @@ publishDate: "2020-07-09"
 tags: [elecciones presidenciales, Bolivia, política, Evo]
 title: Bolivia en disputa
 categories: [Articulos]
-
+comments: true
 ---
 
 Estamos cada vez más cerca de las elecciones presidenciales en Bolivia. Una cita que se repite en menos de un año, en el que ha ocurrido absolutamente de todo: una nueva presidenta, sin votos, fruto de un golpe de Estado; gran convulsión política y social, Evo en el exilio, cambio del Órgano Electoral, muchas decisiones sustanciosas en materia económica e internacional, nuevas elecciones con muchas caras nuevas y, para colmo, una pandemia de grandes dimensiones.
@@ -39,4 +39,23 @@ La última encuesta de CELAG (2.000 casos, ámbito rural y urbana), sumada a otr
 
 Queda poco tiempo de campaña electoral. Sin embargo, dado el ritmo de los sucesos en Bolivia, podemos afirmar que aún resta mucho. Todo está por verse. Lo claro es que la economía, en el sentido más cotidiano del término, será central. Y también es seguro que aquellos que fueron -por activa o por pasiva- responsables del golpe de Estado, no habrán remado tanto para dejar que vuelva a ganar el MAS tan fácilmente. Ojalá las elecciones sean limpias y sin proscripciones de ningún tipo. Veremos.
 
+
+
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-kcomunitaria-netlify-app.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
 

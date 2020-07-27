@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Kallpa Comunitaria</title>
-    <link>https://kcomunitaria.netlify.app/post/</link>
-      <atom:link href="https://kcomunitaria.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Mon, 06 Jul 2020 10:36:45 +0000</lastBuildDate>
     <image>
-      <url>https://kcomunitaria.netlify.app/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
       <title>Posts</title>
-      <link>https://kcomunitaria.netlify.app/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
       <title>Esto es TITULO una publicacion de prueba</title>
-      <link>https://kcomunitaria.netlify.app/post/esto-es-titulo-una-publicacion-de-prueba/</link>
+      <link>/post/esto-es-titulo-una-publicacion-de-prueba/</link>
       <pubDate>Mon, 06 Jul 2020 10:36:45 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/post/esto-es-titulo-una-publicacion-de-prueba/</guid>
+      <guid>/post/esto-es-titulo-una-publicacion-de-prueba/</guid>
       <description>&lt;p&gt;La parte &lt;strong&gt;principal&lt;/strong&gt; del text&lt;/p&gt;
 </description>
     </item>

@@ -25,9 +25,22 @@
   weight = 40
 
 [[main]]
+  identifier = "cultura"
   name = "Cultura"
   url = "#cultura"
   weight = 50
+
+[[main]]
+  parent = "cultura"
+  name = "Books"
+  url = "#cultura"
+  weight = 1
+
+[[main]]
+  parent = "cultura"
+  name = "Music/Videos"
+  url = "#cultura"
+  weight = 2
 
 [[main]]
   name = "Contacto"

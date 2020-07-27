@@ -51,8 +51,8 @@ title = 'Kallpa Comunitaria'
 
 +++
 <br>
-<hr>
-Somos una “organización” política de mujeres y hombres, que promueve la comunidad como forma social donde se producen y reproducen practicas solidarias y sentidos de comunidad, principios democráticos de equidad e igualdad, en pleno respeto a los Derechos Humanos y a toda forma de vida. Promovemos valores comunitarios y principios políticos socialistas, valorando la importancia de la soberanía, la identidad propia y comprendiendo que el internacionalismo es fundamental para hacer fuerza contra el sistema capitalista.
+
+Somos una “organización” política de mujeres y hombres, que promueve la comunidad como forma social donde se producen y reproducen practicas solidarias y sentidos de comunidad, principios de equidad e igualdad y democráticos, en pleno respeto a los Derechos Humanos y a toda forma de vida. Promovemos valores comunitarios y principios políticos socialistas, valorando la importancia de la soberanía, la identidad propia y comprendiendo que el internacionalismo es fundamental para hacer fuerza contra el sistema capitalista.
 
 
 <style>
