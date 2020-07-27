@@ -48,15 +48,15 @@ Y así, mientras nos atemorizan con el cuento de que ahí viene el lobo, no comp
 
 <hr>
 
-<p id="1"><sup>1</sup><i> Fecha al 16 de Julio. Tomado del portal Statista. Número de pruebas médicas de coronavirus (COVID-19) realizadas en América Latina al 16 de julio de 2020, por país. Julio de 2020. Disponible en línea: https://es.statista.com/estadisticas/1110532/covid-19-numero-de-pruebas-en-paises-latinoamericanos/
+<p id="1"><sup>1</sup><i>
+Fecha al 16 de Julio. Tomado del portal Statista. Número de pruebas médicas de coronavirus (COVID-19) realizadas en América Latina al 16 de julio de 2020, por país. Julio de 2020. Disponible en línea: <a href="https://es.statista.com/estadisticas/1110532/covid-19-numero-de-pruebas-en-paises-latinoamericanos/" target="_blank" rel="noopener">es.statista.com</a>
 
-<p id="2"><sup>2</sup><i> Página Siete. Las pruebas privadas de Covid-19 en Bolivia, entre las más caras de la región. 20 de mayo de 2020. Disponible en línea en: https://www.paginasiete.bo/sociedad/2020/5/20/las-pruebas-privadas-de-covid-19-en-bolivia-entre-las-mas-caras-de-la-region-256030.html
+<p id="2"><sup>2</sup><i> Página Siete. Las pruebas privadas de Covid-19 en Bolivia, entre las más caras de la región. 20 de mayo de 2020. Disponible en línea en: <a href="https://www.paginasiete.bo/sociedad/2020/5/20/las-pruebas-privadas-de-covid-19-en-bolivia-entre-las-mas-caras-de-la-region-256030.html" target="_blank" rel="noopener">paginasiete.bo</a>
 
-<p id="3"><sup>3</sup><i> Erbol.  24 de junio de 2020. Disponible en: https://erbol.com.bo/nacional/cenetrop-revela-que-lleva-20-d%C3%ADas-de-retraso-en-procesar-pruebas-covid-por-la-falta-de 
- 
- 
-<p id="4"><sup>4</sup><i> Bolivia verifica. Radiografía de la entrevista a Jeanine Áñez: la realidad detrás de las cifras. 20 de julio de 2020. Disponible en línea en: https://boliviaverifica.bo/radiografia-de-la-entrevista-a-jeanine-anez-la-realidad-detras-de-las-cifras/?fbclid=IwAR3wfnEsUpKnhB6zXEabC5rBy7-oApuoE3shB5VsJb1n7apitrMR-wUSB5c
-  
-<p id="5"><sup>5</sup><i> Pamela Pomacahua. Felcc hizo levantamiento de 86 cadáveres en un solo día. Página Siete. 25 de julio de 2020. Disponible en línea en: https://www.paginasiete.bo/seguridad/2020/7/25/felcc-hizo-levantamiento-de-86-cadaveres-en-un-solo-dia-262416.html 
-   
-<p id="6"><sup>6</sup><i> CEPAL. Enfrentar los efectos cada vez mayores del COVID-19 para una reactivación con igualdad: nuevas proyecciones. Nº 5 COVID-19 Informe Especial. Disponible en línea en: https://repositorio.cepal.org/bitstream/handle/11362/45782/1/S2000471_es.pdf
+<p id="3"><sup>3</sup><i> Erbol.  24 de junio de 2020. Disponible en: <a href="https://erbol.com.bo/nacional/cenetrop-revela-que-lleva-20-d%C3%ADas-de-retraso-en-procesar-pruebas-covid-por-la-falta-de" target="_blank" rel="noopener">erbol.com</a>
+
+<p id="4"><sup>4</sup><i> Bolivia verifica. Radiografía de la entrevista a Jeanine Áñez: la realidad detrás de las cifras. 20 de julio de 2020. Disponible en línea en: <a href="https://boliviaverifica.bo/radiografia-de-la-entrevista-a-jeanine-anez-la-realidad-detras-de-las-cifras/?fbclid=IwAR3wfnEsUpKnhB6zXEabC5rBy7-oApuoE3shB5VsJb1n7apitrMR-wUSB5c" target="_blank" rel="noopener">boliviaverifica.bo</a>
+
+<p id="5"><sup>5</sup><i> Pamela Pomacahua. Felcc hizo levantamiento de 86 cadáveres en un solo día. Página Siete. 25 de julio de 2020. Disponible en línea en: <a href="https://www.paginasiete.bo/seguridad/2020/7/25/felcc-hizo-levantamiento-de-86-cadaveres-en-un-solo-dia-262416.html" target="_blank" rel="noopener">paginasiete.bo</a>
+
+<p id="6"><sup>6</sup><i> CEPAL. Enfrentar los efectos cada vez mayores del COVID-19 para una reactivación con igualdad: nuevas proyecciones. Nº 5 COVID-19 Informe Especial. Disponible en línea en: <a href="https://repositorio.cepal.org/bitstream/handle/11362/45782/1/S2000471_es.pdf" target="_blank" rel="noopener">cepal.org</a>
