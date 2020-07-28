@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>/historia/cumpleanios-chavez/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
@@ -58,12 +63,32 @@
   </url>
   
   <url>
+    <loc>/historia/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/historia/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kallpa-comunitaria/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/noticias/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/category/noticias/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/otros/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,11 +109,6 @@
   
   <url>
     <loc>/noticias/advierten-proceso-penal-contra/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/kallpa-comunitaria/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -149,11 +169,6 @@
   
   <url>
     <loc>/historia/han-matado-a-nuestro-padre/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/historia/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url>
   

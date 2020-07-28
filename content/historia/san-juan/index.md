@@ -14,10 +14,8 @@ summary: Siglo XX hoy es uno de los distritos urbanos del Municipio de Llallagua
 tags:
 - masacre san juan
 title: San Juan - masacre y memoria
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+categories:
+  - historia
 ---
 
 Siglo XX hoy es uno de los distritos urbanos del Municipio de Llallagua (Norte de Potosí). Después de la llamada “relocalización”, ocurrida en 1986, su fisonomía de campamento minero –de cuando era propiedad de la Corporación Minera de Bolivia (Comibol)– recibió infinidad de retoques y añadidos, sin borrar sus espacios históricos. El teatro, la pulpería o la sede sindical siguen de pie, aunque deslucidas, cerradas o cumpliendo otras funciones. La Radio Pio XII continúa emitiendo sus señales junto a la parroquia de piedra. La bocamina o “Socavón Siglo XX” persiste, al igual que la Plaza del Minero con su regio monumento de bronce. Siglo XX es la constatación de cómo un territorio está siempre en movimientos, que los vaivenes de la historia lo transforman, aunque nunca del todo porque alguna huella del ayer, al menos, evade al olvido y hace memoria.

@@ -18,6 +18,9 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+categories:
+  - historia
+
 ---
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 438px; max-height: 273px;">
 <div style="position: relative">

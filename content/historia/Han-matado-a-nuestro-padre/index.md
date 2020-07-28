@@ -14,10 +14,8 @@ summary: Una multitud se aproxima a la
 tags:
 - Gualberto Villarroel
 title: "Han matado a nuestro padre, Gualberto Villarroel"
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+categories:
+  - historia
 ---
 Una multitud se aproxima a la Plaza Murillo donde se encuentra el palacio de gobierno boliviano. En el interior el presidente y algunos de sus colaboradores esperan decidido a morir en su lugar. La multitud forma parte de un *“Frente democrático”* que exige *“libertades”* contra el *“dictador”* que se quiere perpetuar en el poder. Es una multitud urbana, hay muchos estudiantes, comerciantes, empleados. El gobierno norteamericano los acicata impunemente. Las fuerzas militares abandonan al presidente, algunos de los mismos oficiales que decían ser leales a él se pasan del lado de los insurrectos. Horas después la muchedumbre entra al Palacio del Quemado, allí los espera el presidente, impasible como asumiendo un destino ya escrito. Es vejado, arrastrado por las calles y colgado junto con dos de sus más cercanos colaboradores en un farol de la Plaza. Sus cuerpos expuestos son testimonió de odios que expresan mas que un crimen. Muestra odios de una nación que no consigue constituirse como tal, en donde una parte no acepta al resto
 
