@@ -5,12 +5,34 @@
     <link>/biblioteca/</link>
       <atom:link href="/biblioteca/index.xml" rel="self" type="application/rss+xml" />
     <description>Bibliotecas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hub5da53c2c40fa403e1691567c9b54fd0_124676_300x300_fit_lanczos_2.png</url>
       <title>Bibliotecas</title>
       <link>/biblioteca/</link>
     </image>
+    
+    <item>
+      <title>Rosa Luxemburgo</title>
+      <link>/biblioteca/rosa-luxemburgo/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/biblioteca/rosa-luxemburgo/</guid>
+      <description>&lt;p&gt;Rosa Luxemburgo nació en 1871, pocos días antes de que los obreros franceses
+proclamaran la Comuna de París. Murió poco más de un año después de la conquista del
+poder por los bolcheviques rusos en la Revolución de Octubre. Por lo tanto, su vida abarcó
+una gran época histórica, las cinco décadas que se abrieron con el primer ensayo general de
+revolución socialista y se cerraron con el nacimiento de una nueva era para la humanidad.&lt;/p&gt;
+&lt;p&gt;Durante toda su vida -desde su despertar político cuando iba a la escuela en Varsovia
+hasta su asesinato en Berlín en 1919&amp;ndash; Rosa Luxemburgo dedicó su tremenda energía,
+capacidad y fuerza intelectual a la revolución socialista mundial. Comprendió que había
+mucho en juego, que se jugaba el destino de la humanidad y, mujer de acción, se entregó
+totalmente a la gran batalla histórica.&lt;/p&gt;
+&lt;div class=&#34;btn-links mb-3&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1JhQj_X-SOyvq4OG36HYuCXaWlT9-8o64/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Entre los poetas míos</title>

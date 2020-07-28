@@ -34,7 +34,52 @@
   
   <url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cob-huelga-general-elecciones/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/noticias/cob-decide-huelga-general/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/noticias/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/noticias/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/prensa-erbol/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,32 +88,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/kallpa-comunitaria/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/noticias/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/noticias/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,12 +123,17 @@
   </url>
   
   <url>
-    <loc>/tag/cancion-latinoamericana-protesta/</loc>
-    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+    <loc>/slides/pronunciamientos/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/slides/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cancion-latinoamericana-protesta/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -170,6 +195,21 @@
   <url>
     <loc>/tag/politica/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/biblioteca/</loc>
+    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/marxismo/</loc>
+    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/biblioteca/rosa-luxemburgo/</loc>
+    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -238,11 +278,6 @@
   </url>
   
   <url>
-    <loc>/biblioteca/</loc>
-    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/biblioteca/entre-los-poetas-mios/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
@@ -270,11 +305,6 @@
   <url>
     <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>

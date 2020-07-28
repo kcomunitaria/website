@@ -6,7 +6,7 @@ active = true         # Activate this widget? true/false
 weight = 100          # Order that this section will appear.
 
 title = "Biblioteca Popular"
-subtitle = "Por mas aperturismo ideológico"
+subtitle = "difusión del saber entre la mayoría"
 
 [content]
   # Page type to display. E.g. project.
