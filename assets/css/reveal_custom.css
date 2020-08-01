@@ -1,3 +1,11 @@
 .reveal .slide-number {
     right: 50%;
+    color: darkturquoise;
+    background-color: #002B36;
+}
+body {
+    background-image: url(logo.png);
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: 3% 96%;
 }

@@ -2,14 +2,14 @@
 date: "2020-06-08"
 external_link: ""
 image:
-  caption: Cubierta de Entre los poetas míos
+  caption: Cubierta de Óscar Alfaro
   focal_point: Smart
 links: 
 slides: 
-summary: iniciamos la publicación, en el mundo virtual, de una colección de cuadernos monográficos con los que deseamos contribuir
+summary: Profesor, poeta y periodista boliviano, Óscar González Alfaro nació el 5 de septiembre de 1921
 tags:
 - poesia
-title: Entre los poetas míos
+title: Óscar Alfaro
 url_code: ""
 url_pdf: "https://drive.google.com/file/d/1Jp_f68Tw8MirTwJxREq7lFgSR-rabzd8/view?usp=sharing"
 url_slides: ""
