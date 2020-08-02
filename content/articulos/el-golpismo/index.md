@@ -20,9 +20,9 @@ location: Source Themes HQ
 math: true
 # projects:
 # - internal-project
-publishDate: "2020-06-26T00:00:00Z"
+publishDate: "2020-06-26"
 slides: 
-summary: Un abreviado repaso teórico respecto de la acción del golpe de Estado. observamos que la intencionalidad constante y transversal en el tiempo, refiere a una cuestión vinculada y relacionada al trato hacia el poder. 
+summary: Un abreviado repaso teórico respecto de la acción del golpe de Estado. observamos que la intencionalidad constante y transversal en el tiempo, refiere a una cuestión vinculada y relacionada al trato
 tags: []
 title: Anatomía de los golpes de Estado
 url_code: ""
