@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kallpa Comunitaria</title>
-    <link>https://kcomunitaria.netlify.app/</link>
-      <atom:link href="https://kcomunitaria.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Kallpa Comunitaria</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kcomunitaria.netlify.app/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
       <title>Kallpa Comunitaria</title>
-      <link>https://kcomunitaria.netlify.app/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://kcomunitaria.netlify.app/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://kcomunitaria.netlify.app/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://kcomunitaria.netlify.app/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://kcomunitaria.netlify.app/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://kcomunitaria.netlify.app/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,9 +78,9 @@
     
     <item>
       <title>66 Años del nacimiento del comandante Chávez</title>
-      <link>https://kcomunitaria.netlify.app/historia/cumpleanios-chavez/</link>
+      <link>/historia/cumpleanios-chavez/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/historia/cumpleanios-chavez/</guid>
+      <guid>/historia/cumpleanios-chavez/</guid>
       <description>&lt;p&gt;El Colectivo Kallpa Comunitaria se une al pueblo de Venezuela, a todas las personas y organizaciones progresistas de todo el mundo para conmemorar el 66 aniversario del nacimiento del ex presidente y líder de la Revolución Bolivariana, comandante Hugo Chávez Frías.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/YU26zskkekH48_xTrWCu7C7BKfOjkc-GCNGlWkT2q5Z6TjlalRZOb_yaFY-yFSETjUDgK-R7mnW0NNZjuw_eB-ypv1dUE0U_Fi0SjXqeadG1ykfnSQlagbccaENuzKLKnGVSqIsI=w2400&#34; alt=&#34;Hugo y Fidel&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hugo Chávez pasará a la historia por iniciar un nuevo proceso emancipatorio en todo el continente. Su muerte fue un duro golpe para los que hemos luchando por la Patria Grande que soñaron Bolívar, San Martín y el Che.&lt;/p&gt;
@@ -93,9 +93,9 @@
     
     <item>
       <title>COB decide huelga general indefinida en demanda de elecciones el 6 de septiembre</title>
-      <link>https://kcomunitaria.netlify.app/noticias/cob-decide-huelga-general/</link>
+      <link>/noticias/cob-decide-huelga-general/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/noticias/cob-decide-huelga-general/</guid>
+      <guid>/noticias/cob-decide-huelga-general/</guid>
       <description>&lt;p&gt;En Cabildo realizado en El Alto, el ejecutivo de la Central Obrera Boliviana (COB); Juan Carlos Huarachi, anunció que desde este martes se declara huelga general indefinida con movilizaciones en los nueve departamentos, en demanda de que el Tribunal Supremo Electoral (TSE) haga las elecciones el 6 de septiembre y se retracte de postergarlas.&lt;/p&gt;
 &lt;p&gt;Si bien en un principio la decisión era dar un plazo de 72 horas al TSE y empezar la huelga con bloqueos desde el lunes 3 de agosto, Huarachi fue presionado por varios asistentes al Cabildo para que las medidas se presión comiencen en el día.&lt;/p&gt;
 &lt;p&gt;Huarachi dijo que la huelga será desde este martes, a pedido de organizaciones como la Federación Túpac Katari, ayllus del Norte Potosí, fabriles, constructores, padres de familia y jóvenes.&lt;/p&gt;
@@ -109,9 +109,9 @@
     
     <item>
       <title>Advierten de proceso penal contra órgano electoral boliviano</title>
-      <link>https://kcomunitaria.netlify.app/noticias/advierten-proceso-penal-contra/</link>
+      <link>/noticias/advierten-proceso-penal-contra/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/noticias/advierten-proceso-penal-contra/</guid>
+      <guid>/noticias/advierten-proceso-penal-contra/</guid>
       <description>&lt;p&gt;El diputado del Movimiento Al Socialismo (MAS) Edgar Montaño advirtió hoy que el órgano electoral boliviano pudiera enfrentar un proceso penal por ‘usurpación de funciones’, de mantener la decisión de postergar los comicios hasta octubre.&lt;/p&gt;
 &lt;p&gt;Montaño aseguró que un eventual juicio penal sería planteado contra el presidente del Tribunal Supremo Electoral (TSE), Salvador Romero, y cuatro vocales más que apoyaron aplazar los comicios, divulgó el diario digital Oxígeno.bo.&lt;/p&gt;
 &lt;p&gt;El diputado del MAS recordó que otros dos vocales del TSE expresaron su desacuerdo con la postergación de las elecciones y pidieron a la Asamblea Legislativa Plurinacional la modificación de la Ley 1304, para ratificar el cambio de fecha.&lt;/p&gt;
@@ -123,9 +123,9 @@
     
     <item>
       <title>26 de julio, día de la rebeldía nacional en Cuba</title>
-      <link>https://kcomunitaria.netlify.app/cultura/26-de-julio/</link>
+      <link>/cultura/26-de-julio/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/cultura/26-de-julio/</guid>
+      <guid>/cultura/26-de-julio/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://www.rcm.cu/wp-content/uploads/2016/07/moncada-bohemia.jpg&#34; alt=&#34;Preparativos del asalto&#34;&gt;
 &lt;em&gt;Fidel Castro Ruz (al centro) con un grupo de compañeros en Los Palos, provincia de La Habana, durante los preparativos del asalto al cuartel Moncada: Ñico López, Abel Santamaría, José Luis Tassende y Ernesto Tizol, entre otros. (Foto: Revista Bohemia)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://www.rcm.cu/wp-content/uploads/2016/07/3596073580_1860271237_o.jpg&#34; alt=&#34;Defensa del Cuartel Moncada&#34;&gt;
@@ -159,38 +159,47 @@
     
     <item>
       <title>Jeanine y el lobo</title>
-      <link>https://kcomunitaria.netlify.app/articulos/viene-el-lobo/</link>
+      <link>/articulos/viene-el-lobo/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/articulos/viene-el-lobo/</guid>
+      <guid>/articulos/viene-el-lobo/</guid>
       <description>&lt;p&gt;El carácter accidental del Gobierno de Jeanine Añez se sustenta en dos principios legales: la sucesión Constitucional, de la entonces Senadora por el Beni, y la convocatoria a elecciones en un plazo de 90 días. Desde que Añez se autoproclamara Presidente, han transcurrido 9 meses y medio y el plazo para la convocatoria a elecciones se ha modificado tres veces.&lt;/p&gt;
 &lt;p&gt;La primera fecha para elecciones se definió para 3 de mayo –fecha que contemplaba una ampliación de mandato del Gobierno interino y la Asamblea Legislativa-, ese plazo se amplió nuevamente por 90 días, después el plazo volvió a modificarse hasta el 6 de septiembre y ahora, hay un nuevo plazo fijado para el 19 de octubre. Estas ampliaciones se dan en el marco de la pandemia, ante el temor de alcanzar “el pico máximo de contagios” que nos anunciaron que llegaría en mayo, luego en agosto, luego en septiembre, algo así como el cuento del niño que gritaba que venía el lobo.&lt;/p&gt;
-&lt;p&gt;Pero ¿cómo determinar este pico con las cifras oficiales si Bolivia es uno de los países en la región que realiza menos pruebas por habitantes? Mientras que en Brasil se realizaron 4&#39;911.063 pruebas y en Perú se realizaron 1’983.932 pruebas, en Bolivia se realizaron apenas 114.270
-&lt;a href=&#34;#1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;, muchas de las cuales se realizan en laboratorios privados dónde una prueba puede llegar a costar hasta 1.000 Bs
-&lt;a href=&#34;#2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; y dónde los laboratorios tienen  un rezago en el procesamiento de pruebas de hasta 20 días
-&lt;a href=&#34;#3&#34;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;A pesar de que transcurrieron casi 5 meses desde el primer caso confirmado, Bolivia no ha asumió las acciones para encarar esta crisis sanitaria. De las 1.200 camas de terapia intensiva que la OMS recomienda tener, Bolivia cuenta apenas con 301 camas funcionales
-&lt;a href=&#34;#4&#34;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;, la cuarta parte. Ante la dificultad del acceso a pruebas y el colapso de los hospitales, los contagiados deben enfrentar al coronavirus en sus hogares, por lo que muchos recurren a la automedicación, prolifera el mercado negro de dióxido de cloro, plasma y oxígeno y la FELCC tiene que levantar de 86 cadáveres en un solo día de personas que mueren sin confirmación de su enfermedad
-&lt;a href=&#34;#5&#34;&gt;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Y, mientras el Gobierno interino enfrenta acusaciones de corrupción en la compra de respiradores y gases lacrimógenos y malos manejos dentro de algunas instituciones como &lt;strong&gt;ENTEL&lt;/strong&gt; y &lt;strong&gt;YPFB&lt;/strong&gt;, Bolivia comienza a sentir otro de los efectos de la pandemia del coronavirus: la crisis económica. De acuerdo a la &lt;strong&gt;CEPAL&lt;/strong&gt;, la pobreza extrema se incrementará en Bolivia en 3,8 puntos porcentuales, con respecto al año pasado así como incrementará en desempleo y la precarización del trabajo
-&lt;a href=&#34;#6&#34;&gt;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pero ¿cómo determinar este pico con las cifras oficiales si Bolivia es uno de los países en la región que realiza menos pruebas por habitantes? Mientras que en Brasil se realizaron 4&#39;911.063 pruebas y en Perú se realizaron 1’983.932 pruebas, en Bolivia se realizaron apenas 114.270&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, muchas de las cuales se realizan en laboratorios privados dónde una prueba puede llegar a costar hasta 1.000 Bs&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; y dónde los laboratorios tienen  un rezago en el procesamiento de pruebas de hasta 20 días&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;A pesar de que transcurrieron casi 5 meses desde el primer caso confirmado, Bolivia no ha asumió las acciones para encarar esta crisis sanitaria. De las 1.200 camas de terapia intensiva que la OMS recomienda tener, Bolivia cuenta apenas con 301 camas funcionales&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, la cuarta parte. Ante la dificultad del acceso a pruebas y el colapso de los hospitales, los contagiados deben enfrentar al coronavirus en sus hogares, por lo que muchos recurren a la automedicación, prolifera el mercado negro de dióxido de cloro, plasma y oxígeno y la FELCC tiene que levantar de 86 cadáveres en un solo día de personas que mueren sin confirmación de su enfermedad&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Y, mientras el Gobierno interino enfrenta acusaciones de corrupción en la compra de respiradores y gases lacrimógenos y malos manejos dentro de algunas instituciones como &lt;strong&gt;ENTEL&lt;/strong&gt; y &lt;strong&gt;YPFB&lt;/strong&gt;, Bolivia comienza a sentir otro de los efectos de la pandemia del coronavirus: la crisis económica. De acuerdo a la &lt;strong&gt;CEPAL&lt;/strong&gt;, la pobreza extrema se incrementará en Bolivia en 3,8 puntos porcentuales, con respecto al año pasado así como incrementará en desempleo y la precarización del trabajo&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;p&gt;Sin embargo, la lentitud en la reacción en temas de salud contrasta con la eficiente acción en otros asuntos. El Gobierno interino es muy prolífico en la promulgación de Decretos Supremos, entre los que destacan los derogados DS 4078 que eximía de responsabilidad penal a las Fuerzas Armadas (&lt;strong&gt;FFAA&lt;/strong&gt;) y el “decreto mordaza” D.S. 4231 o el vigente DS 4232 que autoriza realizar procedimientos abreviados para la evaluación del maíz, caña de azúcar, algodón, trigo y soya, genéticamente modificados. O la toma de decisiones que competirían asumir a un Gobierno electo, como el cierre de los Ministerios de culturas y el Ministerio de deportes, la ruptura de relaciones con el Gobierno de Cuba, el cierre de las embajadas de Bolivia en Irán y Nicaragua o la salida de Bolivia de &lt;strong&gt;UNASUR&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Y así, mientras nos atemorizan con el cuento de que ahí viene el lobo, no comprendemos que ya caímos en sus fauces, entre la pandemia y la inacción de las autoridades. Ante esta coyuntura, la respuesta no es postergar nuevamente las elecciones. Lo que necesitamos es un Gobierno legítimo, capaz de encarar la crisis sanitaria y económica; un gobierno, cuyo mandato emane de las urnas.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
-&lt;p id=&#34;1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;i&gt;
-Fecha al 16 de Julio. Tomado del portal Statista. Número de pruebas médicas de coronavirus (COVID-19) realizadas en América Latina al 16 de julio de 2020, por país. Julio de 2020. Disponible en línea: &lt;a href=&#34;https://es.statista.com/estadisticas/1110532/covid-19-numero-de-pruebas-en-paises-latinoamericanos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;es.statista.com&lt;/a&gt;
-&lt;p id=&#34;2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;i&gt; Página Siete. Las pruebas privadas de Covid-19 en Bolivia, entre las más caras de la región. 20 de mayo de 2020. Disponible en línea en: &lt;a href=&#34;https://www.paginasiete.bo/sociedad/2020/5/20/las-pruebas-privadas-de-covid-19-en-bolivia-entre-las-mas-caras-de-la-region-256030.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paginasiete.bo&lt;/a&gt;
-&lt;p id=&#34;3&#34;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;i&gt; Erbol.  24 de junio de 2020. Disponible en: &lt;a href=&#34;https://erbol.com.bo/nacional/cenetrop-revela-que-lleva-20-d%C3%ADas-de-retraso-en-procesar-pruebas-covid-por-la-falta-de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;erbol.com&lt;/a&gt;
-&lt;p id=&#34;4&#34;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;i&gt; Bolivia verifica. Radiografía de la entrevista a Jeanine Áñez: la realidad detrás de las cifras. 20 de julio de 2020. Disponible en línea en: &lt;a href=&#34;https://boliviaverifica.bo/radiografia-de-la-entrevista-a-jeanine-anez-la-realidad-detras-de-las-cifras/?fbclid=IwAR3wfnEsUpKnhB6zXEabC5rBy7-oApuoE3shB5VsJb1n7apitrMR-wUSB5c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;boliviaverifica.bo&lt;/a&gt;
-&lt;p id=&#34;5&#34;&gt;&lt;sup&gt;5&lt;/sup&gt;&lt;i&gt; Pamela Pomacahua. Felcc hizo levantamiento de 86 cadáveres en un solo día. Página Siete. 25 de julio de 2020. Disponible en línea en: &lt;a href=&#34;https://www.paginasiete.bo/seguridad/2020/7/25/felcc-hizo-levantamiento-de-86-cadaveres-en-un-solo-dia-262416.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paginasiete.bo&lt;/a&gt;
-&lt;p id=&#34;6&#34;&gt;&lt;sup&gt;6&lt;/sup&gt;&lt;i&gt; CEPAL. Enfrentar los efectos cada vez mayores del COVID-19 para una reactivación con igualdad: nuevas proyecciones. Nº 5 COVID-19 Informe Especial. Disponible en línea en: &lt;a href=&#34;https://repositorio.cepal.org/bitstream/handle/11362/45782/1/S2000471_es.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cepal.org&lt;/a&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://es.statista.com/estadisticas/1110532/covid-19-numero-de-pruebas-en-paises-latinoamericanos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fecha al 16 de Julio &amp;ndash; es.statista.com&lt;/a&gt;. Tomado del portal Statista. Número de pruebas médicas de coronavirus (COVID-19) realizadas en América Latina al 16 de julio de 2020, por país. Julio de 2020. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.paginasiete.bo/sociedad/2020/5/20/las-pruebas-privadas-de-covid-19-en-bolivia-entre-las-mas-caras-de-la-region-256030.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Página Siete&lt;/a&gt;. Las pruebas privadas de Covid-19 en Bolivia, entre las más caras de la región. 20 de mayo de 2020. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://erbol.com.bo/nacional/cenetrop-revela-que-lleva-20-d%C3%ADas-de-retraso-en-procesar-pruebas-covid-por-la-falta-de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erbol&lt;/a&gt;.  24 de junio de 2020. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://boliviaverifica.bo/radiografia-de-la-entrevista-a-jeanine-anez-la-realidad-detras-de-las-cifras/?fbclid=IwAR3wfnEsUpKnhB6zXEabC5rBy7-oApuoE3shB5VsJb1n7apitrMR-wUSB5c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bolivia verifica&lt;/a&gt;. Radiografía de la entrevista a Jeanine Áñez: la realidad detrás de las cifras. 20 de julio de 2020. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.paginasiete.bo/seguridad/2020/7/25/felcc-hizo-levantamiento-de-86-cadaveres-en-un-solo-dia-262416.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pamela Pomacahua&lt;/a&gt;. Felcc hizo levantamiento de 86 cadáveres en un solo día. Página Siete. 25 de julio de 2020. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://repositorio.cepal.org/bitstream/handle/11362/45782/1/S2000471_es.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEPAL&lt;/a&gt;. Enfrentar los efectos cada vez mayores del COVID-19 para una reactivación con igualdad: nuevas proyecciones. Nº 5 COVID-19 Informe Especial. &lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
     <item>
       <title>LA LUCHA CONTINUA</title>
-      <link>https://kcomunitaria.netlify.app/slides/pronunciamientos/</link>
+      <link>/slides/pronunciamientos/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/slides/pronunciamientos/</guid>
+      <guid>/slides/pronunciamientos/</guid>
       <description>&lt;h1 id=&#34;la-lucha-continúa&#34;&gt;La lucha continúa&lt;/h1&gt;
 &lt;h2 id=&#34;tods-contra-la-dictadura&#34;&gt;Tod@s contra la dictadura&lt;/h2&gt;
 &lt;hr&gt;
@@ -220,9 +229,9 @@ Al verdadero pueblo de Bolivia no le queda otro camino que el de la movilizació
     
     <item>
       <title>Viva los campesinos!</title>
-      <link>https://kcomunitaria.netlify.app/cultura/la-consigna-fsln/</link>
+      <link>/cultura/la-consigna-fsln/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/cultura/la-consigna-fsln/</guid>
+      <guid>/cultura/la-consigna-fsln/</guid>
       <description>&lt;hr&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -235,9 +244,9 @@ Al verdadero pueblo de Bolivia no le queda otro camino que el de la movilizació
     
     <item>
       <title>Han matado a nuestro padre, Gualberto Villarroel</title>
-      <link>https://kcomunitaria.netlify.app/historia/han-matado-a-nuestro-padre/</link>
+      <link>/historia/han-matado-a-nuestro-padre/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/historia/han-matado-a-nuestro-padre/</guid>
+      <guid>/historia/han-matado-a-nuestro-padre/</guid>
       <description>&lt;p&gt;Una multitud se aproxima a la Plaza Murillo donde se encuentra el palacio de gobierno boliviano. En el interior el presidente y algunos de sus colaboradores esperan decidido a morir en su lugar. La multitud forma parte de un &lt;em&gt;“Frente democrático”&lt;/em&gt; que exige &lt;em&gt;“libertades”&lt;/em&gt; contra el &lt;em&gt;“dictador”&lt;/em&gt; que se quiere perpetuar en el poder. Es una multitud urbana, hay muchos estudiantes, comerciantes, empleados. El gobierno norteamericano los acicata impunemente. Las fuerzas militares abandonan al presidente, algunos de los mismos oficiales que decían ser leales a él se pasan del lado de los insurrectos. Horas después la muchedumbre entra al Palacio del Quemado, allí los espera el presidente, impasible como asumiendo un destino ya escrito. Es vejado, arrastrado por las calles y colgado junto con dos de sus más cercanos colaboradores en un farol de la Plaza. Sus cuerpos expuestos son testimonió de odios que expresan mas que un crimen. Muestra odios de una nación que no consigue constituirse como tal, en donde una parte no acepta al resto&lt;/p&gt;
 &lt;p&gt;No, no es un destino alternativo de Evo Morales que estamos ficcionando. Es el trágico fin del Coronel Gualberto Villarroel presidente de Bolivia entre 1943 y 1946. El coronel era el líder de la logia Razón de Patria, una organización militar nacionalista paralela al &lt;strong&gt;GOU&lt;/strong&gt; de nuestro país. Esta logia profundamente antioligárquica y nacionalista era heredera del nacionalismo social militar surgido en la oficialidad del ejército boliviano luego de la derrota en la guerra del Chaco entre 1932 y 1935. Los oficiales nacionalistas consideraban culpables de la derrota a los intereses mineros asociados a la oligarquía terrateniente semifeudal que eran dueños incontestables del Estado (la Rosca) y a los petroleros de la Stándar Oil. Los coroneles David Toro y Germán Busch e iniciaron un proceso de reformas que fue rápidamente abortado y terminó con la dudosa muerte de Busch, un duro héroe de guerra.&lt;/p&gt;
 &lt;p&gt;La historia moderna boliviana comienza en este periodo cuando se dan los primeros pasos de lo que será después la Revolución Nacional de 1952. Con la guerra del Chaco el estado oligárquico entre en crisis y su resistencia a ser superado se manifiesta en sus violentas reacciones contra los militares nacionalistas, condenados por &lt;em&gt;“tiranos”&lt;/em&gt;, &lt;em&gt;“fascistas”&lt;/em&gt; etc. y asesinados.&lt;/p&gt;
@@ -258,9 +267,9 @@ Al verdadero pueblo de Bolivia no le queda otro camino que el de la movilizació
     
     <item>
       <title>Marcelo Quiroga Santa Cruz</title>
-      <link>https://kcomunitaria.netlify.app/cultura/a-pesar-de-la-ira/</link>
+      <link>/cultura/a-pesar-de-la-ira/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/cultura/a-pesar-de-la-ira/</guid>
+      <guid>/cultura/a-pesar-de-la-ira/</guid>
       <description>&lt;p&gt;A 40 años de la desaparición física del líder socialista Marcelo Quiroga Santa Cruz, su ejemplo de lucha, convicción y acción permanece viva, mostrándonos el horizonte a recorrer.&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;❝&lt;/span&gt; &amp;hellip; Sabemos, ¡que más pronto que tarde, se cobrarán esto que estamos haciendo! ¡Estamos dispuestos a pagar este precio! ¡Siempre estuvimos dispuestos! ¡Jamás vamos a rehuir el peligro, porque mucho más temible que ese enemigo que está buscando la manera de anularnos, aun físicamente, es una conciencia culpable! ¡Y no podríamos soportarnos a nosotros mismos si no cumpliéramos nuestro deber! &lt;span&gt;❞&lt;/span&gt; — MQSC&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;❝&lt;/span&gt;A pesar de la Ira&lt;span&gt;❞&lt;/span&gt; poema-canción en homenaje a Marcelo&amp;hellip;&lt;/p&gt;
@@ -277,12 +286,12 @@ Al verdadero pueblo de Bolivia no le queda otro camino que el de la movilizació
     
     <item>
       <title>A 40 años de la dictadura de Garcia Meza</title>
-      <link>https://kcomunitaria.netlify.app/historia/a-40-anios-del-golpe/</link>
+      <link>/historia/a-40-anios-del-golpe/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/historia/a-40-anios-del-golpe/</guid>
+      <guid>/historia/a-40-anios-del-golpe/</guid>
       <description>&lt;div class=&#34;article-header article-container featured-image-wrapper mt-4 mb-4&#34; style=&#34;max-width: 438px; max-height: 273px;&#34;&gt;
 &lt;div style=&#34;position: relative&#34;&gt;
-    &lt;img src=&#34;https://kcomunitaria.netlify.app/historia/a-40-anios-del-golpe/golpe2019.jpg&#34; alt=&#34;&#34; class=&#34;featured-image&#34;&gt;
+    &lt;img src=&#34;/historia/a-40-anios-del-golpe/golpe2019.jpg&#34; alt=&#34;&#34; class=&#34;featured-image&#34;&gt;
     &lt;span class=&#34;article-header-caption&#34;&gt;Golpe de Estado de 2019&lt;/span&gt;
   &lt;/div&gt;
   &lt;/div&gt;
@@ -304,9 +313,9 @@ El Plan Cóndor fue el ejemplo claro del direccionamiento de los gobiernos milit
     
     <item>
       <title>Bolivia en disputa</title>
-      <link>https://kcomunitaria.netlify.app/articulos/bolivia-en-disputa/</link>
+      <link>/articulos/bolivia-en-disputa/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/articulos/bolivia-en-disputa/</guid>
+      <guid>/articulos/bolivia-en-disputa/</guid>
       <description>&lt;p&gt;Estamos cada vez más cerca de las elecciones presidenciales en Bolivia. Una cita que se repite en menos de un año, en el que ha ocurrido absolutamente de todo: una nueva presidenta, sin votos, fruto de un golpe de Estado; gran convulsión política y social, Evo en el exilio, cambio del Órgano Electoral, muchas decisiones sustanciosas en materia económica e internacional, nuevas elecciones con muchas caras nuevas y, para colmo, una pandemia de grandes dimensiones.&lt;/p&gt;
 &lt;p&gt;Con tanta densidad de sucesos notables en tan corto periodo de tiempo, se torna realmente complicado caracterizar el actual escenario electoral. Casi ningún hecho ocurrido ha tenido aún el tiempo suficiente para dejar su propia huella. Se fueron solapando acontecimientos, unos tras otros, que hacen que estemos ante un momento altamente incierto, una suerte de tempo en disputa lleno de contradicciones, algunas creativas y otras destructivas, sin saber cuál será el sentido del reordenamiento político y electoral resultante de este magma boliviano.&lt;/p&gt;
 &lt;p&gt;La última encuesta de CELAG (2.000 casos, ámbito rural y urbana), sumada a otras cuatro realizadas en este último año, nos ayudan en parte a disponer de algunas pistas y hallazgos para descifrar el complejo puzzle político-electoral boliviano. He aquí algunos ejes claves:&lt;/p&gt;
@@ -335,9 +344,9 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     
     <item>
       <title>Rosa Luxemburgo</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/rosa-luxemburgo/</link>
+      <link>/biblioteca/rosa-luxemburgo/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/rosa-luxemburgo/</guid>
+      <guid>/biblioteca/rosa-luxemburgo/</guid>
       <description>&lt;p&gt;Rosa Luxemburgo nació en 1871, pocos días antes de que los obreros franceses
 proclamaran la Comuna de París. Murió poco más de un año después de la conquista del
 poder por los bolcheviques rusos en la Revolución de Octubre. Por lo tanto, su vida abarcó
@@ -357,9 +366,9 @@ totalmente a la gran batalla histórica.&lt;/p&gt;
     
     <item>
       <title>Golpe de Estado en Bolivia reabrió heridas raciales,</title>
-      <link>https://kcomunitaria.netlify.app/noticias/golpe-de-estado-reabrio-heridas/</link>
+      <link>/noticias/golpe-de-estado-reabrio-heridas/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/noticias/golpe-de-estado-reabrio-heridas/</guid>
+      <guid>/noticias/golpe-de-estado-reabrio-heridas/</guid>
       <description>&lt;p&gt;La Paz-. Las heridas raciales que la ciudadanía de Bolivia intentó cerrar se reabrieron cuando a fines de 2019 la derecha consumó el golpe de Estado contra el pueblo, afirmó hoy el candidato del Movimiento Al socialismo (MAS) Luis Arce.&lt;/p&gt;
 &lt;p&gt;Que la actual presidenta transitoria haya esgrimido la Biblia al igual que el cada vez más aislado presidente Donald Trump es sólo una demostración de la falta de originalidad de la derecha racista, escribió el aspirante a las elecciones de septiembre en un artículo en su blog en Internet.&lt;/p&gt;
 &lt;p&gt;‘Ninguno de los dos se detuvo en el mensaje de paz y amor por el prójimo del cristianismo, ni en la voluntad ecuménica de todas las razas oprimidas del mundo’, recordó Arce en su trabajo ‘El racismo es una justificación para la explotación’.&lt;/p&gt;
@@ -374,18 +383,18 @@ totalmente a la gran batalla histórica.&lt;/p&gt;
     
     <item>
       <title>Esto es TITULO una publicacion de prueba</title>
-      <link>https://kcomunitaria.netlify.app/post/esto-es-titulo-una-publicacion-de-prueba/</link>
+      <link>/post/esto-es-titulo-una-publicacion-de-prueba/</link>
       <pubDate>Mon, 06 Jul 2020 10:36:45 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/post/esto-es-titulo-una-publicacion-de-prueba/</guid>
+      <guid>/post/esto-es-titulo-una-publicacion-de-prueba/</guid>
       <description>&lt;p&gt;La parte &lt;strong&gt;principal&lt;/strong&gt; del text&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>San Juan - masacre y memoria</title>
-      <link>https://kcomunitaria.netlify.app/historia/san-juan/</link>
+      <link>/historia/san-juan/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/historia/san-juan/</guid>
+      <guid>/historia/san-juan/</guid>
       <description>&lt;p&gt;Siglo XX hoy es uno de los distritos urbanos del Municipio de Llallagua (Norte de Potosí). Después de la llamada “relocalización”, ocurrida en 1986, su fisonomía de campamento minero –de cuando era propiedad de la Corporación Minera de Bolivia (Comibol)– recibió infinidad de retoques y añadidos, sin borrar sus espacios históricos. El teatro, la pulpería o la sede sindical siguen de pie, aunque deslucidas, cerradas o cumpliendo otras funciones. La Radio Pio XII continúa emitiendo sus señales junto a la parroquia de piedra. La bocamina o “Socavón Siglo XX” persiste, al igual que la Plaza del Minero con su regio monumento de bronce. Siglo XX es la constatación de cómo un territorio está siempre en movimientos, que los vaivenes de la historia lo transforman, aunque nunca del todo porque alguna huella del ayer, al menos, evade al olvido y hace memoria.&lt;/p&gt;
 &lt;p&gt;El inicio de cada invierno trae consigo una de esas huellas sobre aquel territorio minero, referida a la “Masacre de San Juan” que se produjo en la madrugada del 24 de junio de 1967, por orden del entonces presidente de la República, el Gral. René Barrientos, un hombre de la Agencia Central de Inteligencia (CIA) norteamericana. En 1964, siendo vicepresidente del Gobierno de Víctor Paz Estensoro, participó del golpe de Estado y formó parte de la Junta Militar que asumió el gobierno de facto, hasta que el 1966 fue posesionado como presidente constitucional producto de una elección nacional fraguada, llevada adelante después de que en 1965 terminó de sofocar al movimiento popular que se resistió al golpe de Estado. Así, el Ejército impuso la culminación del ciclo de la Revolución Nacional de 1952, acontecimiento en el que habían sido derrotados y diluidos. El periodista Carlos Gutiérrez escribió en aquella coyuntura que, al precio de 600 muertos, el sindicalismo boliviano descubrió la diferencia entre una revolución viciada de errores y una restauración contrarrevolucionaria.&lt;/p&gt;
 &lt;p&gt;Barrientos proscribió a las organizaciones sindicales, persiguió y apresó a los dirigentes, líderes y activistas sociales, acalló las radios mineras, rebajó el 50% de los magros salario a los trabajadores mineros, entre otras medidas nefastas. Para junio de 1967, los mineros habían previsto un ampliado nacional en Siglo XX, con la participación de otros sectores el país, en busca de debatir y exigir la reversión de dichas medidas; además, analizar la guerrilla del Che –localizada al suroeste del Oriente boliviano– con la que no estaban vinculados, pero había llamado su atención. Dicho ampliado debía llevarse, precisamente, al día siguiente de la Noche de San Juan, en la que, por usos y costumbres en Bolivia, se encendían fogatas en las puertas de cada hogar para disfrutar del calor durante el tiempo en que los leños y trastos se consumían; un verdadero momento de disfrute para chicos y grandes, mucho más si se está una región gélida.
@@ -396,9 +405,9 @@ La masacre se desató después de la media noche. Por el oeste bajaron las tropa
     
     <item>
       <title>El pueblo unido jamás será vencido</title>
-      <link>https://kcomunitaria.netlify.app/cultura/el-pueblo-unido-jamas-sera-vencido/</link>
+      <link>/cultura/el-pueblo-unido-jamas-sera-vencido/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/cultura/el-pueblo-unido-jamas-sera-vencido/</guid>
+      <guid>/cultura/el-pueblo-unido-jamas-sera-vencido/</guid>
       <description>&lt;p&gt;«&lt;strong&gt;El pueblo unido jamás será vencido&lt;/strong&gt;» es una canción protesta chilena, cuya música fue compuesta por Sergio Ortega Alvarado y el texto escrito en conjunto con la banda Quilapayún. Conocida en el mundo entero, es una de las más famosas canciones de protesta de la historia, y junto con el tema «Venceremos», también de Ortega, una de las más conocidas de la Nueva Canción Chilena. El tema tiene un ritmo de marcha, destacando su estribillo que es un grito o consigna sólo con percusión, lo que facilita su adaptación a cualquier idioma.&lt;/p&gt;
 &lt;hr&gt;
 
@@ -412,9 +421,9 @@ La masacre se desató después de la media noche. Por el oeste bajaron las tropa
     
     <item>
       <title>Dictadura boliviana se dispone a detener a candidato del MAS</title>
-      <link>https://kcomunitaria.netlify.app/noticias/dictadura-boliviana-se-dispone-/</link>
+      <link>/noticias/dictadura-boliviana-se-dispone-/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/noticias/dictadura-boliviana-se-dispone-/</guid>
+      <guid>/noticias/dictadura-boliviana-se-dispone-/</guid>
       <description>&lt;p&gt;A la presidenta de facto de Bolivia, Jeanine Áñez, se le cae cada día más la forzada careta de democracia que, con la complicidad de los Estados Unidos y la Unión Europea, se la tuvo que poner para justificar el derrocamiento violento de Evo Morales en noviembre del año pasado. Ahora, en una demostración flagrante de que en este país sudamericano no existen garantías constitucionales y que la regla es la persecución, &lt;strong&gt;se prepara un golpe contra el candidato a la presidencia del Movimiento Al Socialismo (MAS), Luis Arce&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;En una constatación de la vigencia del método del lawfare contra los líderes populares, la forma jurídica de esta decisión política antidemocrática es la denuncia penal interpuesta este martes ante el Ministerio Público en contra de Luis Arce por el supuesto daño económico que habría causado al Estado al poner en marcha la Gestora Pública para la administración de los aportes sociales de los trabajadores.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Esta no es la primera vez que se asume una actitud de agresión contra el candidato del MAS desde que retornó a Bolivia&lt;/strong&gt; tras permanecer un breve tiempo en México. El mismo día de su arribo a La Paz, el 28 de enero, en el aeropuerto de El Alto se le entregó una citación para declarar ante la justicia por el caso del Fondo Indígena. Este martes la acción es más perversa en un momento en que el exministro de Economía de Morales lidera toda la intención de voto para las elecciones del 6 de septiembre venidero.&lt;/p&gt;
@@ -427,9 +436,9 @@ La masacre se desató después de la media noche. Por el oeste bajaron las tropa
     
     <item>
       <title>Anatomía de los golpes de Estado</title>
-      <link>https://kcomunitaria.netlify.app/articulos/el-golpismo/</link>
+      <link>/articulos/el-golpismo/</link>
       <pubDate>Fri, 26 Jun 2020 13:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/articulos/el-golpismo/</guid>
+      <guid>/articulos/el-golpismo/</guid>
       <description>&lt;p&gt;Se pronuncia la palabra golpe de Estado y el pensamiento rápido&lt;sup&gt;
 &lt;a href=&#34;#1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; imprime imágenes asociativas al hecho. Una plaza –ese modelo de disposición urbana para los asentamientos españoles en momentos de la colonia que simbolizaba el centro de la ciudad y expresó el domicilio del poder político- tomada por fuerzas militares, cortada en cada uno de sus ingresos por enormes maquinarias de guerra, y soldados y muchas, muchas armas en manos de ellos, para que horas después, se conozca el comunicado del gobierno de “unidad nacional”, ese que nos dice que el presidente ha sido cesado en sus funciones y los derechos políticos de todos quienes aquí habitan entran en restricción. En suma, un golpe de Estado se ha producido.
 En el imaginario de los bolivianos, 37 años de historia democrática dejan difusas nociones sobre estas categorías que, desde la politología, se trabajan esforzadamente por definirlas y comprenderlas. Las viejas y primarias formas de golpes de Estado van cediendo en el tiempo a renovadas maneras de asaltar el objetivo final, ese que sí resiste el avance de los siglos: tomar el poder político.&lt;/p&gt;
@@ -458,9 +467,9 @@ Bajo estos señalados factores constituyentes de un golpe de Estado, los nuevos 
     
     <item>
       <title>Contra el Trotskismo</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/contra-el-trotskismo/</link>
+      <link>/biblioteca/contra-el-trotskismo/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/contra-el-trotskismo/</guid>
+      <guid>/biblioteca/contra-el-trotskismo/</guid>
       <description>&lt;p&gt;Las obras de Lenin y las resoluciones de los congresos y conferencias del Partido Bolchevique, así como de las sesiones plenarias de su Comité Central, que figuran en la presente recopilación (íntegras o extractadas), definen la esencia del trotskismo como una corriente antimarxista y oportunista, muestran su labor de zapa contra el Partido Comunista y denuncian sus vínculos con los líderes oportunistas de la II Internacional, con losgrupos y corrientes revisionistas y antisoviéticos en los partidos obreros de diversos países. Las resoluciones de las organizaciones locales del partido recalcan la unidad de éste en la lucha contra el trotskismo.&lt;/p&gt;
 &lt;div class=&#34;btn-links mb-3&#34;&gt;
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1NX9TcneikYd9fiZWKwOJpre-PfEkXwx_/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
@@ -471,9 +480,9 @@ Bajo estos señalados factores constituyentes de un golpe de Estado, los nuevos 
     
     <item>
       <title>La formación de los intelectuales</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/antonio-gramsci/</link>
+      <link>/biblioteca/antonio-gramsci/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/antonio-gramsci/</guid>
+      <guid>/biblioteca/antonio-gramsci/</guid>
       <description>&lt;p&gt;¿Los intelectuales son un grupo social autónomo e independiente, o por el contrario cada grupo social tiene una categoría propia y especializada de intelectuales? El problema es complejo por las formas variadas que ha asumido hasta hoy el proceso histórico real de formación de las diversas categorías intelectuales.&lt;/p&gt;
 &lt;div class=&#34;btn-links mb-3&#34;&gt;
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1OnKdVv5dX8fFeDFbROpwffl_0gWoFLf9/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
@@ -484,9 +493,9 @@ Bajo estos señalados factores constituyentes de un golpe de Estado, los nuevos 
     
     <item>
       <title>Operación Condor, pacto criminal</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/operacion-condor/</link>
+      <link>/biblioteca/operacion-condor/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/operacion-condor/</guid>
+      <guid>/biblioteca/operacion-condor/</guid>
       <description>&lt;h3 id=&#34;prólogo&#34;&gt;Prólogo&lt;/h3&gt;
 &lt;p&gt;En estos días comienzan a emerger desde la oscuridad documentos
 y testimonios sobre los años oscuros del terror que asolaron
@@ -512,9 +521,9 @@ hacia la verdad.&lt;/p&gt;
     
     <item>
       <title>Roque Dalton</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/poetas-mios-roque-dalton/</link>
+      <link>/biblioteca/poetas-mios-roque-dalton/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/poetas-mios-roque-dalton/</guid>
+      <guid>/biblioteca/poetas-mios-roque-dalton/</guid>
       <description>&lt;p&gt;Roque Dalton nació en San Salvador el 14 de mayo de 1935, hijo de
 padre norteamericano y madre salvadoreña. Se educó en el Colegio
 Jesuita de San José. Posteriormente viajó a Santiago, ingresando en la&lt;/p&gt;
@@ -532,9 +541,9 @@ Fonseca, Miguel Ángel Asturias, Juan Gelman y Nazim Hikmet.&lt;/p&gt;
     
     <item>
       <title>Óscar Alfaro</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/poetas-mios-oscar-alfaro/</link>
+      <link>/biblioteca/poetas-mios-oscar-alfaro/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/poetas-mios-oscar-alfaro/</guid>
+      <guid>/biblioteca/poetas-mios-oscar-alfaro/</guid>
       <description>&lt;p&gt;Con el título genérico “Entre los poetas míos” iniciamos la publicación, en el mundo virtual, de una colección de cuadernos monográficos con los que deseamos contribuir a la divulgación de una poesía crítica que, con diversas denominaciones (“&lt;strong&gt;poesía social&lt;/strong&gt;”, “&lt;strong&gt;poesía comprometida&lt;/strong&gt;”, “&lt;strong&gt;poesía de la conciencia&lt;/strong&gt;” &amp;hellip; ) se caracteriza por centrar su temática en los seres humanos, bien sea para ensalzar sus valores genéricos, o bien para denunciar los atropellos, injusticias y abusos cometidos por quienes detentan el Poder en cual-quiera de sus formas.&lt;/p&gt;
 &lt;p&gt;Poesía ésta que no se evade de la realidad, sino que incide en ella con intención transformadora. Se entiende por ello que tal producción y sus autores hayan sido frecuentemente acallados, desprestigiados, censurados e incluso perseguidos por dichos poderes dominantes.&lt;/p&gt;
 &lt;p&gt;Se trata, en fin, de una poesía no neutral, teñida por el compromiso ético de sus autores.
@@ -548,10 +557,145 @@ La edición digitalizada de estos cuadernos poéticos carece de toda finalidad e
     </item>
     
     <item>
+      <title>Términos y Condiciones</title>
+      <link>/terms/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;Definiciones.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;“Esta Licencia” se refiere a la versión 3 de la Licencia Pública General de GNU.&lt;/p&gt;
+&lt;p&gt;“Derechos de Autor (“Copyright”)” también incluye a las leyes similares a la de derechos de autor (“copyright”) que se apliquen a otro tipo de obras, tales como las máscaras usadas en la fabricación de semiconductores.&lt;/p&gt;
+&lt;p&gt;“El Programa” se refiere a cualquier obra con derechos de autor (“copyright”) bajo esta Licencia. Cada licenciatario es tratado como “usted”. Los “Licenciatarios” y los “destinatarios” pueden ser individuos u organizaciones.&lt;/p&gt;
+&lt;p&gt;“Modificar” una obra quiere decir copiar de ella o adaptar parte o la totalidad de la obra de una forma que se requieran permisos de derechos de autor (“copyright”), distintos de los de hacer una copia exacta. La obra resultante es llamada “versión modificada” de la obra previa o una obra “basada en” la obra previa.&lt;/p&gt;
+&lt;p&gt;Una “obra amparada” significa o el Programa sin modificar o una obra basada en el Programa.&lt;/p&gt;
+&lt;p&gt;“Difundir” una obra significa hacer cualquier cosa con ella que, sin permiso, le haría responsable de forma directa o indirecta de infringir la ley correspondiente de derechos de autor (“copyright”), excepto ejecutarla en un ordenador o modificar una copia privada. La difusión incluye copiar, la distribución (con o sin modificación), hacerla disponible para el público, y en algunos países también otras actividades.&lt;/p&gt;
+&lt;p&gt;“Transmitir” una obra quiere decir cualquier tipo de difusión que permita a otras partes hacer o recibir copias. La mera interacción con un usuario a través de una red informática, sin la transferencia de una copia, no es transmitir.&lt;/p&gt;
+&lt;p&gt;Una interfaz interactiva de usuario muestra “Avisos Legales Apropiados” en la medida que incluye una característica visible práctica y destacable que (1) muestra un aviso apropiado de derechos de autor (“copyright”), e (2) informa al usuario de que no hay garantía para la obra (excepto las garantías proporcionadas), que los licenciatarios pueden transmitir la obra bajo esta Licencia, y cómo ver una copia de esta Licencia. Si la interfaz presenta una lista de comandos de usuario u opciones, como un menú, un elemento destacado en la lista satisface este criterio.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Código Fuente.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;El “código fuente” de una obra significa la forma preferida de trabajo para hacerle modificaciones. “Código objeto” es cualquier forma no-fuente de una obra.&lt;/p&gt;
+&lt;p&gt;Una “Interfaz Estándar” significa una interfaz que es un estándar oficial definido por un cuerpo de estándares reconocido o, en el caso de interfaces especificadas para un lenguaje de programación en particular, una que es extensamente utilizada entre los desarrolladores que trabajan en ese lenguaje.&lt;/p&gt;
+&lt;p&gt;Las “Bibliotecas del Sistema” de una obra ejecutable incluyen cualquier cosa, diferente de la obra como un todo, que (a) están incluidas en la forma normal de paquetizado de un Componente Importante, y (b) sirve solo para habilitar el uso de la obra con ese Componente Importante, o para implementar una Interfaz Estándar para la cual la implementación está disponible para el público en forma de código fuente. Un “Componente Importante”, en este contexto, significa un componente esencial importante (kernel, sistema de ventanas, etcétera) del sistema operativo en concreto (si hubiese) en el cual el ejecutable funciona, o un compilador utilizado para producir la obra, o un intérprete de código objeto utilizado para hacerlo funcionar.&lt;/p&gt;
+&lt;p&gt;La “Fuente Correspondiente” de una obra en forma de código objeto significa todo el código fuente necesario para generar, instalar, y (para una obra ejecutable) hacer funcionar el código objeto y modificar la obra, incluyendo scripts para controlar dichas actividades. Sin embargo, ello no incluye la obra de las Bibliotecas del Sistema, o herramientas de propósito general o programas de libre disponibilidad general los cuales son usados sin modificaciones para la realización de dichas actividades, pero que no son parte de la obra. Por ejemplo, la Fuente Correspondiente incluye ficheros de definición de interfaces asociados a los ficheros fuente para la obra, y el código fuente para bibliotecas compartidas y subprogramas enlazados dinámicamente para los que la obra está específicamente diseñado para requerir, tales como comunicación de datos intrínseca o flujo de control entre aquellos subprogramas y otras partes de la obra.&lt;/p&gt;
+&lt;p&gt;La Fuente Correspondiente es necesario que no incluya nada que los usuarios puedan regenerar automáticamente desde otras partes de la Fuente Correspondiente.&lt;/p&gt;
+&lt;p&gt;La Fuente Correspondiente de una obra en forma de código fuente es la obra en sí.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Permisos básicos.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Todos los derechos concedidos bajo esta Licencia se conceden durante la duración de los derechos de autor (“copyright”) del Programa, y son irrevocables siempre que se cumplan las condiciones establecidas. Esta Licencia afirma explícitamente su ilimitado permiso para ejecutar el Programa sin modificar. La salida de la ejecución de una obra amparada está amparada por esta Licencia solo si la salida, dado su contenido, constituye una obra amparada. Esta Licencia reconoce sus derechos de uso razonable u otro equivalente, según lo establecido por la ley de derechos de autor (“copyright”).&lt;/p&gt;
+&lt;p&gt;Usted podrá realizar, ejecutar y difundir obras amparadas que usted no transmita, sin condición alguna, siempre y cuando no tenga otra licencia vigente. Podrá distribuir obras amparadas a terceros con el único propósito de que ellos hagan modificaciones exclusivamente para usted, o proporcionarle ayuda para ejecutar estas obras, siempre y cuando cumpla con los términos de esta Licencia en la transmisión de todo el material del cual usted no controle los derechos de autor (“copyright”). Aquellos que realicen o ejecuten las obras amparadas por usted, deben hacerlo exclusivamente en su nombre, bajo su dirección y control, en los términos que le prohiban realizar ninguna copia de su trabajo con derechos de autor (“copyright”) fuera de su relación con usted.&lt;/p&gt;
+&lt;p&gt;La transmisión bajo otras circunstancias se permite únicamente bajo las condiciones expuestas a continuación. No está permitido sublicenciar, la sección 10 hace que sea innecesario.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Protección de los Derechos Legales de los Usuarios frente a la Ley Antievasión.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ninguna obra amparada debe considerarse parte de una medida tecnológica efectiva, a tenor de lo establecido en cualquier ley aplicable que cumpla las obligaciones expresas en el artículo 11 del tratado de derechos de autor (“copyright”) de WIPO adoptado el 20 de diciembre de 1996, o leyes similares que prohiban o restrinjan la evasión de tales medidas.&lt;/p&gt;
+&lt;p&gt;Cuando transmita una obra amparada, renuncia a cualquier poder legal para prohibir la evasión de medidas tecnológicas mientras tales evasiones se realicen en ejercicio de derechos amparados por esta Licencia respecto a la obra amparada; además, usted renunciará a cualquier intención de limitar el uso o modificación del trabajo con el objetivo de imponer, contra el trabajo de los usuarios, sus derechos legales o los de terceros para prohibir la evasión de medidas tecnológicas.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Transmisión de copias literales.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Usted podrá distribuir copias literales del código fuente del Programa tal cual lo ha recibido, por cualquier medio, siempre que publique visible y apropiadamente en cada copia el correspondiente aviso de derechos de autor (“copyright”); mantenga intactos todos los avisos que establezcan que esta Licencia y cualquier cláusula no-permisiva añadida acorde con la cláusula 7 son aplicables al código; mantenga intactos todos los avisos de ausencia de garantía; y proporcione a todos los destinatarios una copia de esta Licencia junto con el Programa.&lt;/p&gt;
+&lt;p&gt;Usted podrá cobrar cualquier importe o no cobrar nada por cada copia que distribuya, y podrá ofrecer soporte o protección de garantía mediante un pago.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Transmisión de Versiones Modificadas de la Fuente.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Usted puede transmitir una obra basada en el Programa, o las modificaciones para generarla a partir del Programa, en la forma de código fuente bajo los términos de la sección 4, suponiendo que además cumpla las siguientes condiciones:&lt;/p&gt;
+&lt;p&gt;a)  La obra debe incluir avisos destacados indicando que usted la ha modificado y dando una fecha pertinente.&lt;/p&gt;
+&lt;p&gt;b)  La obra debe incluir avisos destacados indicando que está liberada bajo esta Licencia y cualquier otra condición añadida bajo la sección 7. Este requerimiento modifica los requerimientos de la sección 4 de “mantener intactos todos los avisos”.&lt;/p&gt;
+&lt;p&gt;c)  Usted debe licenciar la obra entera, como una unidad, bajo esta Licencia para cualquier persona que esté en posesión de una copia. Esta Licencia se aplicará por consiguiente, junto con cualquier término aplicable adicional de la sección 7, a la totalidad de la obra, y a todos sus componentes, independientemente de como estén empaquetados. Esta Licencia no da permiso para licenciar la obra de otra forma, pero no invalida esos permisos si usted los ha recibido de forma separada.&lt;/p&gt;
+&lt;p&gt;d)  Si la obra tiene interfaces de usuario interactivas, cada una debe mostrar los Avisos Legales Apropiados; sin embargo, si el Programa tiene interfaces interactivas que no muestren los Avisos Legales Apropiados, tampoco es necesario que su obra lo haga.&lt;/p&gt;
+&lt;p&gt;Una recopilación de una obra amparada con otras obras separadas e independientes, que no son por su naturaleza extensiones de la obra amparada, y que no se combinan con ella con el fin de formar un programa más grande, en o sobre un volumen de un medio de almacenamiento o distribución, es llamado un “agregado” si la recopilación y su resultante derechos de autor (“copyright”) no son usados para limitar el acceso o los derechos legales de los usuarios de la recopilación más allá de lo que las obras individuales permitan. La inclusión de una obra amparada en un agregado no provoca que esta Licencia se aplique a los otros componentes del agregado.&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Transmisión en Forma de No-Fuente.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Usted puede transmitir una obra amparada en forma de código objeto bajo los términos de las secciones 4 y 5, siempre que también transmita la Fuente Correspondiente legible por una máquina bajo los términos de esta Licencia, de una de las siguientes formas:&lt;/p&gt;
+&lt;p&gt;a) Transmitir el código objeto en, o embebido en, un producto físico (incluyendo medios de distribución físicos), acompañado de la Fuente Correspondiente en un medio físico duradero habitual para el intercambio de software.&lt;/p&gt;
+&lt;p&gt;b) Transmitir el código objeto en, o embebido en, un producto físico (incluyendo medios de distribución físicos), acompañado de un ofrecimiento escrito, válido durante al menos tres años y válido mientras usted ofrezca recambios o soporte para ese modelo de producto, de dar a cualquiera que posea el código objeto o (1) una copia de la Fuente Correspondiente de todo el software en el producto amparado por esta Licencia, en un medio físico duradero habitual para el intercambio de software, por un precio no más elevado que el coste razonable de la realización física de la transmisión de la fuente, o (2) acceso para copiar la Fuente Correspondiente de un servidor de red sin costo alguno.&lt;/p&gt;
+&lt;p&gt;c) Transmitir copias individuales del código objeto con una copia del ofrecimiento escrito de proveer la Fuente Correspondiente. Esta alternativa está permitida solo ocasionalmente sin fines comerciales, y solo si usted ha recibido el código objeto con ese ofrecimiento, de acuerdo con la subsección 6b.&lt;/p&gt;
+&lt;p&gt;d) Transmitir el código objeto ofreciendo acceso desde un lugar determinado (gratuitamente o mediante pago), y ofrecer acceso equivalente a la Fuente Correspondiente de la misma manera en el mismo lugar sin cargo adicional. No es necesario exigir a los destinatarios que copien la Fuente Correspondiente junto con el código objeto. Si el lugar para copiar el código objeto es un servidor de red, la Fuente Correspondiente puede estar en un servidor diferente (gestionado por usted o un tercero) que soporte facilidades de copia equivalentes, siempre que mantenga instrucciones claras junto al código objeto especificando dónde encontrar la Fuente Correspondiente. Independientemente de qué servidor albergue la Fuente Correspondiente, usted seguirá estando obligado a asegurar que está disponible durante el tiempo que sea necesario para satisfacer estos requisitos.&lt;/p&gt;
+&lt;p&gt;e) Transmitir el código objeto usando una transmisión peer-to-peer, siempre que informe a los otros usuarios donde se ofrece el código objeto y la Fuente Correspondiente de la obra al público general de forma gratuita bajo la subsección 6d.&lt;/p&gt;
+&lt;p&gt;Una porción separable del código objeto, cuyo código fuente está excluido de la Fuente Correspondiente, como una Biblioteca del Sistema, no necesita ser incluida en la distribución del código objeto de la obra.&lt;/p&gt;
+&lt;p&gt;Un “Producto de Usuario” es o (1) un “producto de consumo”, lo que significa cualquier propiedad tangible personal que es usada habitualmente con fines personales, familiares o domésticos, o (2) cualquier cosa diseñada o vendida para ser incorporada en una vivienda. A la hora de determinar cuando un producto es un producto de consumo, los casos dudosos serán resueltos en favor de la cobertura. Para un producto concreto recibido por un usuario concreto, “uso habitual” se refiere a un uso típico y común de esa clase de producto, sin tener en cuenta el estado del usuario concreto o la forma en la que el usuario concreto realmente use, o espera o se espera que use, el producto. Un producto es un producto de consumo independientemente de si el producto tiene usos esencialmente comerciales, industriales o no comerciales, a menos que dicho uso constituya el único modo de uso significativo del producto.&lt;/p&gt;
+&lt;p&gt;La “Información de Instalación” de un Producto de Usuario quiere decir cualquier método, procedimiento, clave de autorización, u otra información requerida para instalar y ejecutar versiones modificadas de la obra amparada en ese Producto de Usuario a partir de una versión modificada de su Fuente Correspondiente. La información debe ser suficiente para garantizar que el funcionamiento continuado del código fuente modificado no es prevenido o interferido por el simple hecho de que ha sido modificado.&lt;/p&gt;
+&lt;p&gt;Si usted transmite una obra en código objeto bajo esta sección en, o con, o específicamete para usar en, un Producto de Usuario, y la transmisión tiene lugar como parte de una transacción en la cual el derecho de posesión y uso de un Producto de Usuario es transferido a un destinatario en perpetuidad o por un periodo establecido (independientemente de cómo se caracterice la operación), la Fuente Correspondiente transmitida bajo esta sección debe estar acompañada de la Información de Instalación. Pero este requisito no se aplica si ni usted ni ningún tercero tiene la capacidad de instalar código objeto modificado en el Producto de Usuario (por ejemplo, la obra ha sido instalada en la ROM).&lt;/p&gt;
+&lt;p&gt;El requisito de proveer de la Información de Instalación no incluye el requisito de continuar proporcionando asistencia, garantía, o actualizaciones para una obra que ha sido modificada o instalada por el destinatario, o para un Producto de Usuario en el cual ha sido modificada o instalada. El acceso a una red puede ser denegado cuando la modificación en sí afecta materialmente y adversamente el funcionamiento de la red o viola las reglas y protocolos de comunicación de la red.&lt;/p&gt;
+&lt;p&gt;La Fuente Correspondiente transmitida, y la Información de Instalación proporcionada, de acuerdo con esta sección debe estar en un formato que sea documentado públicamente (y con una implementación disponible para el público en formato de código fuente), y no deben necesitar contraseñas o claves particulares para la extracción, lectura o copia.&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Términos adicionales.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Los “Permisos adicionales” son términos que se añaden a los términos de esta Licencia haciendo excepciones de una o más de una de sus condiciones. Los permisos adicionales que son aplicables al Programa entero deberán ser tratados como si estuvieran incluidos en esta Licencia, en la medida bajo la ley aplicable. Si los permisos adicionales solo son aplicables a parte del Programa, esa parte debe ser usada separadamente bajo esos permisos, pero el Programa completo queda bajo la autoridad de esta Licencia sin considerar los permisos adicionales.&lt;/p&gt;
+&lt;p&gt;Cuando se transmite una copia de una obra derivada, se puede opcionalmente quitar cualesquiera permisos adicionales de esa copia, o de cualquier parte de ella. Los permisos adicionales pueden ser escritos para requerir su propia eliminación bajo ciertos casos cuando se modifica la obra. Se pueden colocar permisos adicionales en material, añadidos a una obra derivada, para los cuales se establecen o se pueden establecer los permisos de derechos de autor (“copyright”) apropiados.&lt;/p&gt;
+&lt;p&gt;No obstante cualquier otra disposición de esta Licencia, para el material que se añada a una obra derivada, se puede (si está autorizado por los titulares de los derechos de autor (“copyright”) del material) añadir los términos de esta Licencia con los siguientes términos:&lt;/p&gt;
+&lt;p&gt;a)  Ausencia de garantía o limitación de responsabilidad diferente de los términos de las secciones 15 y 16 de esta Licencia; o&lt;/p&gt;
+&lt;p&gt;b)  Exigir la preservación de determinados avisos legales razonables o atribuciones de autor en ese material o en los Avisos Legales Apropiados mostrados por los obras que lo contengan; o&lt;/p&gt;
+&lt;p&gt;c)  Prohibir la tergiversación del origen de ese material, o requerir que las versiones modificadas del material se marquen de maneras razonables como diferentes de la versión original; o&lt;/p&gt;
+&lt;p&gt;d)  Limitar el uso con fines publicitarios de los nombres de los licenciantes o autores del material; o&lt;/p&gt;
+&lt;p&gt;e)  Negarse a ofrecer derechos concedidos por leyes de registro para el uso de alguno nombres comerciales, marcas registradas o marcas de servicio; o&lt;/p&gt;
+&lt;p&gt;f)  Exigir la compensación de los licenciantes y autores de ese material por cualquiera que distribuya el material (o versiones modificadas del mismo) estableciendo obligaciones contractuales de responsabilidad sobre el destinatario, por cualquier responsabilidad que estas obligaciones contractuales impongan directamente sobre los licenciantes y autores.&lt;/p&gt;
+&lt;p&gt;Todos los demás términos adicionales no permisivos son consideradas “restricciones extra” en el sentido de la sección 10. Si el Programa, tal cual se recibió, o cualquier parte del mismo, contiene un aviso indicando que se encuentra cubierto por esta Licencia junto con un término que es otra restricción, se puede quitar ese término. Si un documento de licencia contiene una restricción adicional, pero permite relicenciar o redistribuir bajo esta Licencia, se puede añadir a un material de la obra derivada bajo los términos de ese documento de licencia, a condición de que dicha restricción no sobreviva el relicenciamiento o redistribución.&lt;/p&gt;
+&lt;p&gt;Si se añaden términos a una obra derivada de acuerdo con esta sección, se debe colocar, en los archivos fuente involucrados, una declaración de los términos adicionales aplicables a esos archivos, o un aviso indicando donde encontrar los términos aplicables.&lt;/p&gt;
+&lt;p&gt;Las términos adicionales, permisivos o no permisivos, pueden aparecer en forma de una licencia escrita por separado, o figurar como excepciones; los requisitos anteriores son aplicables en cualquier forma.&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Conclusiones.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Usted no podrá propagar o modificar una obra amparada salvo lo expresamente permitido por esta Licencia. Cualquier intento diferente de propagación o modificación será considerado nulo y automáticamente se anularán sus derechos bajo esta Licencia (incluyendo las licencias de patentes concedidas bajo el tercer párrafo de la sección 11).&lt;/p&gt;
+&lt;p&gt;Sin embargo, si usted deja de violar esta Licencia, entonces su licencia de un titular de los derechos de autor (“copyright”) correspondiente será restituida (a) provisionalmente, a menos que y hasta que el titular de los derechos de autor (“copyright”) explícita y finalmente termine su licencia, y (b) permanentemente, si el titular del copyright no le ha notificado su violación por algún medio razonable antes de los 60 días siguientes a la cesación.&lt;/p&gt;
+&lt;p&gt;Además, su licencia de un titular de los derechos de autor (“copyright”) correspondiente será restituida permanentemente si el titular de los derechos de autor (“copyright”) le notifica la violación por algún medio razonable, siendo ésta la primera vez que recibe la notificación de violación de esta Licencia (para cualquier obra) de ese titular de los derechos de autor (“copyright”), y usted subsana la violación antes de 30 días después de la recepción de la notificación.&lt;/p&gt;
+&lt;p&gt;La cancelación de sus derechos bajo esta sección no da por canceladas las licencias de terceros que hayan recibido copias o derechos de usted bajo esta Licencia. Si sus derechos han sido cancelados y no fueran renovados de manera permanente, usted no cumple los requisitos para recibir nuevas licencias para el mismo material bajo la sección 10.&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;Aceptación No Obligatoria por Tenencia de Copias.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Usted no está obligado a aceptar esta Licencia por recibir o ejecutar una copia del Programa. La propagación adicional de una obra amparada surgida únicamente como consecuencia de usar una transmisión peer-to-peer para recibir una copia tampoco requiere aceptación. Sin embargo, esta Licencia solo le otorga permiso para propagar o modificar cualquier obra amparada. Estas acciones infringen los derechos de autor (“copyright”) si usted no acepta esta Licencia. Por lo tanto, al modificar o distribuir una obra amparada, usted indica que acepta esta Licencia para poder hacerlo.&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;Herencia Automática de Licencia para Destinatarios.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Cada vez que transmita una obra amparada, el destinatario recibirá automáticamente una licencia de los licenciadores originales, para ejecutar, modificar y distribuir esa obra, sujeto a esa Licencia. Usted no será responsable de asegurar el cumplimiento de esta Licencia por terceros.&lt;/p&gt;
+&lt;p&gt;Una “transacción de entidad” es una transacción que transfiere el control de una organización, o sustancialmente todos los bienes de una, o subdivide una organización, o fusiona organizaciones. Si la propagación de una obra amparada surge de una transacción de entidad, cada parte en esa transacción que reciba una copia de la obra también recibe todas las licencias de la obra que la parte interesada tuviese o pudiese ofrecer según el párrafo anterior, además del derecho a tomar posesión de las Fuentes Correspondientes de la obra a través del predecesor interesado, si el predecesor tiene o puede conseguirla con un esfuerzo razonable.&lt;/p&gt;
+&lt;p&gt;Usted no podrá imponer ninguna restricción posterior en el ejercicio de los derechos otorgados o concedidos bajo esta Licencia. Por ejemplo, usted no puede imponer un pago por licencia, derechos u otros cargos por el ejercicio de los derechos otorgados bajo esta Licencia, y no puede iniciar litigios (incluyendo demandas o contrademandas en pleitos) alegando cualquier reclamación de violación de patentes por cambiar, usar, vender, ofrecer en venta o importar el Programa o alguna parte del mismo.&lt;/p&gt;
+&lt;ol start=&#34;11&#34;&gt;
+&lt;li&gt;Patentes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Un “colaborador” es un titular de los derechos de autor (“copyright”) que autoriza, bajo los términos de la presente Licencia, el uso del Programa o una obra en la que se base el Programa. La obra así licenciada se denomina “versión en colaboración” del colaborador.&lt;/p&gt;
+&lt;p&gt;Las “demandas de patente esenciales” del colaborador son todas las reivindicaciones de patentes poseídas o controladas por el colaborador, ya se encuentren adquiridas o hayan sido adquiridas con posterioridad, que sean infringidas de alguna manera, permitidas por esta Licencia, al hacer, usar o vender la versión en colaboración, pero sin incluir demandas que solo sean infringidas como consecuencia de modificaciones posteriores de la versión en colaboración. Para los propósitos de esta definición, “control” incluye el derecho de conceder sublicencias de patente de forma consistente con los requisitos establecidos en la presente Licencia.&lt;/p&gt;
+&lt;p&gt;Cada colaborador le concede una licencia de la patente no-exclusiva, global y libre de regalías bajo las demandas de patente esenciales del colaborador, para hacer, usar, modificar, vender, ofrecer para venta, importar y otras formas de ejecución, modificación y difusión del contenido de la versión en colaboración.&lt;/p&gt;
+&lt;p&gt;En los siguientes tres párrafos, una “licencia de patente” se define como cualquier acuerdo o compromiso expreso, cualquiera que sea su denominación, que no imponga una patente (como el permiso expreso para ejecutar una patente o acuerdos para no imponer demandas por infracción de patente). “Conceder” una licencias de patente de este tipo a un tercero significa hacer tal tipo de acuerdo o compromiso que no imponga una patente al tercero.&lt;/p&gt;
+&lt;p&gt;Si usted transmite una obra amparada, conociendo que está amparada por una licencia de patente, y las Fuentes Correspondientes no se encuentran disponibles de forma pública para su copia, sin cargo alguno y bajo los términos de esta Licencia, ya sea a través de un servidor público o mediante cualquier otro medio, entonces usted deberá (1) hacer que las Fuentes Correspondientes sean públicas, o (2) tratar de eliminar los beneficios de la licencia de patente para esta obra en particular, o (3) tratar de extender, de manera compatible con los requisitos de esta Licencia, la licencia de patente a terceros. “Conocer que está afectado” significa que usted tiene conocimiento real de que, para la licencia de patente, la distribución de la obra amparada en un país, o el uso de la obra amparada por sus destinatarios en un país, infringiría una o más patentes existentes en ese país que usted considera válidas por algún motivo.&lt;/p&gt;
+&lt;p&gt;Si en virtud de o en conexión con alguna transacción o acuerdo, usted transmite, o difunde con fines de distribución, una obra amparada, y concede una licencia de patente para algún tercero que reciba la obra amparada, y les autorice a usar, transmitir, modificar o difundir una copia específica de la obra amparada, entonces la licencia de patente que usted otorgue se extiende automáticamente a todos los receptores de la obra amparada y cualquier obra basada en ella.&lt;/p&gt;
+&lt;p&gt;Una licencia de patente es “discriminatoria” si no incluye dentro de su ámbito de cobertura, prohibe el ejercicio de, o está condicionada a no ejercitar uno o más de los derechos que están específicamente otorgados por esta Licencia. Usted no debe transmitir una obra amparada si está implicado en un acuerdo con terceros que esté relacionado con el negocio de la distribución de software, en el que usted haga pagos a terceros relacionados con su actividad de distribución de la obra, bajo el que terceros conceden, a cualquier receptor de la obra amparada, una licencia de patente discriminatoria (a) en relación con las copias de la obra amparada transmitidas por usted (o copias hechas a partir de estas), o (b) principalmente para y en relación con productos específicos o compilaciones que contengan la obra amparada, a menos que usted forme parte del acuerdo, o que esa licencia de patente fuese concedida antes del 28 de marzo de 2007.&lt;/p&gt;
+&lt;p&gt;Ninguna cláusula de esta Licencia debe ser considerada como excluyente o limitante de cualquier otra licencia implicada u otras defensas legales a que pudiera tener derecho bajo la ley de propiedad intelectual vigente.&lt;/p&gt;
+&lt;ol start=&#34;12&#34;&gt;
+&lt;li&gt;No Abandonar la Libertad de Otros.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Si se le imponen condiciones (bien sea por orden judicial, acuerdo o de otra manera) que contradicen las condiciones de esta Licencia, estas no le eximen de las condiciones de esta Licencia. Si usted no puede transmitir una obra amparada de forma que pueda satisfacer simultáneamente sus obligaciones bajo esta Licencia y cualesquiera otras obligaciones pertinentes, entonces, como consecuencia, usted no puede transmitirla. Por ejemplo, si usted está de acuerdo con los términos que le obligan a cobrar una regalía por la transmisión a aquellos a los que transmite el Programa, la única forma en la que usted podría satisfacer tanto esos términos como esta Licencia sería abstenerse completamente de transmitir el Programa.&lt;/p&gt;
+&lt;ol start=&#34;13&#34;&gt;
+&lt;li&gt;Utilización con la Licencia Pública General Affero de GNU.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A pesar de cualquier otra disposición de esta Licencia, usted tiene permiso para enlazar o combinar cualquier obra amparada con una obra licenciada bajo la Licencia Pública General Affero de GNU en una única obra combinada, y para transmitir la obra resultante. Los términos de esta Licencia continuarán aplicándose a la parte que es la obra amparada, pero los requisitos particulares de la Licencia Pública General Affero de GNU, sección 13, concernientes a la interacción a través de una red se aplicarán a la combinación como tal.&lt;/p&gt;
+&lt;ol start=&#34;14&#34;&gt;
+&lt;li&gt;Versiones Revisadas de esta Licencia.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;La Free Software Foundation puede publicar versiones revisadas y/o nuevas de la Licencia General Pública de GNU de vez en cuando. Cada nueva versión será similar en espíritu a la versión actual, pero puede diferir en detalles para abordar nuevos problemas o preocupaciones.&lt;/p&gt;
+&lt;p&gt;Cada versión recibe un número de versión distintivo. Si el Programa especifica que cierta versión numerada de la Licencia General Pública de GNU “o cualquier versión posterior” se aplica a él, usted tiene la opción de seguir los términos y condiciones de esa versión numerada o de cualquier versión posterior publicada por la Free Software Foundation. Si el Programa no especifica un número de versión de la Licencia General Pública de GNU, usted puede escoger cualquier versión publicada por la Free Software Foundation.&lt;/p&gt;
+&lt;p&gt;Si el Programa escifica que un representante puede decidir que versiones futuras de la Licencia General Pública de GNU pueden ser utilizadas, la declaración pública del representante de aceptar una versión permanentemente le autoriza a usted a elegir esa versión para el Programa.&lt;/p&gt;
+&lt;p&gt;Las versiones posteriores de la licencia pueden darle permisos adicionales o diferentes. No obstante, no se impone a ningún autor o titular de los derechos de autor obligaciones adicionales como resultado de su elección de seguir una versión posterior.&lt;/p&gt;
+&lt;ol start=&#34;15&#34;&gt;
+&lt;li&gt;Descargo de Responsabilidad de Garantía.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;NO HAY GARANTÍA PARA EL PROGRAMA, PARA LA EXTENSIÓN PERMITIDA POR LA LEY APLICABLE. EXCEPTO CUANDO SE INDIQUE LO CONTRARIO POR ESCRITO, LOS TITULARES DE LOS DERECHOS DE AUTOR (“COPYRIGHT”) Y/O TERCEROS PROPORCIONAN EL PROGRAMA “TAL CUAL” SIN GARANTÍAS DE NINGÚN TIPO, BIEN SEAN EXPLÍCITAS O IMPLÍCITAS, INCLUYENDO, PERO NO LIMITADO A, LAS GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN Y APTITUD PARA UN PROPÓSITO PARTICULAR. EL RIESGO TOTAL EN CUANTO A CALIDAD Y RENDIMIENTO DEL PROGRAMA ES CON USTED. SI EL PROGRAMA PRESENTA ALGÚN DEFECTO, USTED ASUME EL COSTO DE TODAS LAS REVISIONES NECESARIAS, REPARACIONES O CORRECCIONES.
+Limitación de la responsabilidad.&lt;/p&gt;
+&lt;p&gt;EN NINGÚN CASO A MENOS QUE SEA REQUERIDO POR UNA LEY APLICABLE O ACUERDO ESCRITO NINGÚN TITULAR DE LOS DERECHOS DE AUTOR (“COPYRIGHT”), O NINGÚN TERCERO QUE MODIFIQUE Y/O TRANSMITA EL PROGRAMA COMO SE PERMITE ANTERIORMENTE, SERÁ RESPONSABLE ANTE USTED POR DAÑOS, INCLUYENDO CUALESQUIERA DAÑOS GENERALES, PARTICULARES, IMPREVISTOS O DERIVADOS DEL USO O IMPOSIBILIDAD DE USO DEL PROGRAMA (INCLUYENDO, PERO NO LIMITADO A, LA PÉRDIDA DE DATOS, DATOS GENERADOS INCORRECTOS, PÉRDIDAS SUFRIDAS POR USTED O POR TERCERAS PERSONAS, O LOS FALLOS DEL PROGRAMA PARA OPERAR CON OTROS PROGRAMAS), INCLUSO SI DICHO TITULAR O UN TERCERO HA SIDO ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS.
+Interpretación de las Secciones 15 y 16.&lt;/p&gt;
+&lt;p&gt;Si el descargo de responsabilidad de garantía y el límite de responsabilidad proporcionado anteriormente no tiene efectos legales de acuerdo a sus términos, los juzgados deberán aplicar la ley local que más se asemeje a una renuncia absoluta de la responsabilidad civil concerniente al Programa, a menos que una garantía o una asunción de responsabilidad acompañe a la copia del Programa como resultado del pago de una tasa.&lt;/p&gt;
+&lt;p&gt;Fin de los términos y condiciones&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Slides</title>
-      <link>https://kcomunitaria.netlify.app/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -682,18 +826,38 @@ Three
     </item>
     
     <item>
+      <title>Políticas de Privacidad</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;h2 id=&#34;compromiso-con-la-seguridad-y-la-privacidad&#34;&gt;Compromiso con la Seguridad y la Privacidad&lt;/h2&gt;
+&lt;p&gt;Tomamos todas las precauciones para proteger la información de nuestros usuarios. Cuando un usuario remite información confidencial a través de la página, la información está protegida tanto online como offline.
+Cuando nuestro formulario de contacto/pedido le solicita a los usuarios que ingresen información confidencial (como si fuese número de tarjeta de crédito), se codifica y protege a través del software de codificación de SSL. Toda la información de nuestros usuarios, no solo la información confidencial antedicha se restringe a nuestro colectivo. Únicamente el equipo que necesitan la información para realizar una tarea específica (por ejemplo un representante de servicios al cliente) tiene acceso a información identificable del cliente. Por último, los servidores en que almacenamos la información personal identificable, se guardan en un lugar blindado.&lt;/p&gt;
+&lt;p&gt;Si tiene preguntas respecto de la seguridad en nuestra página, envíenlas a través de nuestra página &amp;ldquo;Contacto&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;cookies&#34;&gt;Cookies&lt;/h2&gt;
+&lt;p&gt;Una cookie es un dato que se almacena en el disco duro del usuario que contiene información respecto del usuario, tal como la identificación del usuario para acceder a la página. Si un usuario rechaza la cookie, no podrán iniciar la sesión en nuestra página para tener acceso al contenido premium. No utilizamos cookies para almacenar información confidencial.&lt;/p&gt;
+&lt;h2 id=&#34;archivos-para-iniciar-la-sesión&#34;&gt;Archivos para Iniciar la Sesión&lt;/h2&gt;
+&lt;p&gt;Utilizamos direcciones del Internet Protocol (IP) para analizar tendencias, administrar la página, rastrear los movimientos del usuario en nuestra página, y reunir información demográfica amplia para uso conjunto.&lt;/p&gt;
+&lt;h2 id=&#34;vínculos&#34;&gt;Vínculos&lt;/h2&gt;
+&lt;p&gt;Esta página contiene vínculos a otras páginas. &amp;ldquo;Colectivo Kallpa Comunitaria&amp;rdquo; no es responsable por las prácticas de privacidad de otras páginas. Alentamos a nuestros usuarios a que sean concientes de cuando abandonen nuestra página, y lean las declaraciones de privacidad de cada página que recoja información personal identificable.&lt;/p&gt;
+&lt;p&gt;Notificación de Cambios
+&amp;ldquo;Colectivo Kallpa Comunitaria&amp;rdquo; se reserva los derechos de modificar su política de privacidad. Sin embargo, si decidiéramos modificar nuestra política, informaríamos de nuestros cambios claramente, por lo tanto, los usuarios siempre estarán concientes de la información que recogemos, cómo la usamos, y bajo qué circunstancias, de existir, la revelaremos. Si en algún momento decidiéramos utilizar información personalmente identificable, de un modo distinto al que afirmamos en el momento de recolectarla, notificaremos a los usuarios mediante correo electrónico.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>External Project</title>
-      <link>https://kcomunitaria.netlify.app/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://kcomunitaria.netlify.app/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;

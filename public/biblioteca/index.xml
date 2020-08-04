@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bibliotecas | Kallpa Comunitaria</title>
-    <link>https://kcomunitaria.netlify.app/biblioteca/</link>
-      <atom:link href="https://kcomunitaria.netlify.app/biblioteca/index.xml" rel="self" type="application/rss+xml" />
+    <link>/biblioteca/</link>
+      <atom:link href="/biblioteca/index.xml" rel="self" type="application/rss+xml" />
     <description>Bibliotecas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kcomunitaria.netlify.app/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
       <title>Bibliotecas</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/</link>
+      <link>/biblioteca/</link>
     </image>
     
     <item>
       <title>Rosa Luxemburgo</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/rosa-luxemburgo/</link>
+      <link>/biblioteca/rosa-luxemburgo/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/rosa-luxemburgo/</guid>
+      <guid>/biblioteca/rosa-luxemburgo/</guid>
       <description>&lt;p&gt;Rosa Luxemburgo nació en 1871, pocos días antes de que los obreros franceses
 proclamaran la Comuna de París. Murió poco más de un año después de la conquista del
 poder por los bolcheviques rusos en la Revolución de Octubre. Por lo tanto, su vida abarcó
@@ -36,9 +36,9 @@ totalmente a la gran batalla histórica.&lt;/p&gt;
     
     <item>
       <title>Contra el Trotskismo</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/contra-el-trotskismo/</link>
+      <link>/biblioteca/contra-el-trotskismo/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/contra-el-trotskismo/</guid>
+      <guid>/biblioteca/contra-el-trotskismo/</guid>
       <description>&lt;p&gt;Las obras de Lenin y las resoluciones de los congresos y conferencias del Partido Bolchevique, así como de las sesiones plenarias de su Comité Central, que figuran en la presente recopilación (íntegras o extractadas), definen la esencia del trotskismo como una corriente antimarxista y oportunista, muestran su labor de zapa contra el Partido Comunista y denuncian sus vínculos con los líderes oportunistas de la II Internacional, con losgrupos y corrientes revisionistas y antisoviéticos en los partidos obreros de diversos países. Las resoluciones de las organizaciones locales del partido recalcan la unidad de éste en la lucha contra el trotskismo.&lt;/p&gt;
 &lt;div class=&#34;btn-links mb-3&#34;&gt;
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1NX9TcneikYd9fiZWKwOJpre-PfEkXwx_/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
@@ -49,9 +49,9 @@ totalmente a la gran batalla histórica.&lt;/p&gt;
     
     <item>
       <title>La formación de los intelectuales</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/antonio-gramsci/</link>
+      <link>/biblioteca/antonio-gramsci/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/antonio-gramsci/</guid>
+      <guid>/biblioteca/antonio-gramsci/</guid>
       <description>&lt;p&gt;¿Los intelectuales son un grupo social autónomo e independiente, o por el contrario cada grupo social tiene una categoría propia y especializada de intelectuales? El problema es complejo por las formas variadas que ha asumido hasta hoy el proceso histórico real de formación de las diversas categorías intelectuales.&lt;/p&gt;
 &lt;div class=&#34;btn-links mb-3&#34;&gt;
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1OnKdVv5dX8fFeDFbROpwffl_0gWoFLf9/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
@@ -62,9 +62,9 @@ totalmente a la gran batalla histórica.&lt;/p&gt;
     
     <item>
       <title>Operación Condor, pacto criminal</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/operacion-condor/</link>
+      <link>/biblioteca/operacion-condor/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/operacion-condor/</guid>
+      <guid>/biblioteca/operacion-condor/</guid>
       <description>&lt;h3 id=&#34;prólogo&#34;&gt;Prólogo&lt;/h3&gt;
 &lt;p&gt;En estos días comienzan a emerger desde la oscuridad documentos
 y testimonios sobre los años oscuros del terror que asolaron
@@ -90,9 +90,9 @@ hacia la verdad.&lt;/p&gt;
     
     <item>
       <title>Roque Dalton</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/poetas-mios-roque-dalton/</link>
+      <link>/biblioteca/poetas-mios-roque-dalton/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/poetas-mios-roque-dalton/</guid>
+      <guid>/biblioteca/poetas-mios-roque-dalton/</guid>
       <description>&lt;p&gt;Roque Dalton nació en San Salvador el 14 de mayo de 1935, hijo de
 padre norteamericano y madre salvadoreña. Se educó en el Colegio
 Jesuita de San José. Posteriormente viajó a Santiago, ingresando en la&lt;/p&gt;
@@ -110,9 +110,9 @@ Fonseca, Miguel Ángel Asturias, Juan Gelman y Nazim Hikmet.&lt;/p&gt;
     
     <item>
       <title>Óscar Alfaro</title>
-      <link>https://kcomunitaria.netlify.app/biblioteca/poetas-mios-oscar-alfaro/</link>
+      <link>/biblioteca/poetas-mios-oscar-alfaro/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/biblioteca/poetas-mios-oscar-alfaro/</guid>
+      <guid>/biblioteca/poetas-mios-oscar-alfaro/</guid>
       <description>&lt;p&gt;Con el título genérico “Entre los poetas míos” iniciamos la publicación, en el mundo virtual, de una colección de cuadernos monográficos con los que deseamos contribuir a la divulgación de una poesía crítica que, con diversas denominaciones (“&lt;strong&gt;poesía social&lt;/strong&gt;”, “&lt;strong&gt;poesía comprometida&lt;/strong&gt;”, “&lt;strong&gt;poesía de la conciencia&lt;/strong&gt;” &amp;hellip; ) se caracteriza por centrar su temática en los seres humanos, bien sea para ensalzar sus valores genéricos, o bien para denunciar los atropellos, injusticias y abusos cometidos por quienes detentan el Poder en cual-quiera de sus formas.&lt;/p&gt;
 &lt;p&gt;Poesía ésta que no se evade de la realidad, sino que incide en ella con intención transformadora. Se entiende por ello que tal producción y sus autores hayan sido frecuentemente acallados, desprestigiados, censurados e incluso perseguidos por dichos poderes dominantes.&lt;/p&gt;
 &lt;p&gt;Se trata, en fin, de una poesía no neutral, teñida por el compromiso ético de sus autores.
