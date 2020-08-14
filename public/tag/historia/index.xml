@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>historia | Kallpa Comunitaria</title>
-    <link>/tag/historia/</link>
-      <atom:link href="/tag/historia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/tag/historia/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/tag/historia/index.xml" rel="self" type="application/rss+xml" />
     <description>historia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
       <title>historia</title>
-      <link>/tag/historia/</link>
+      <link>https://kcomunitaria.netlify.app/tag/historia/</link>
     </image>
     
     <item>
       <title>Operación Condor, pacto criminal</title>
-      <link>/biblioteca/operacion-condor/</link>
+      <link>https://kcomunitaria.netlify.app/biblioteca/operacion-condor/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/biblioteca/operacion-condor/</guid>
+      <guid>https://kcomunitaria.netlify.app/biblioteca/operacion-condor/</guid>
       <description>&lt;h3 id=&#34;prólogo&#34;&gt;Prólogo&lt;/h3&gt;
 &lt;p&gt;En estos días comienzan a emerger desde la oscuridad documentos
 y testimonios sobre los años oscuros del terror que asolaron
