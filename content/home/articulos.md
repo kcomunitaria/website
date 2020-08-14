@@ -66,4 +66,8 @@ subtitle = "Selección de opiniones y/o posturas frente a la coyuntura política
 
  # CSS class.
  css_class = ""
+
+commentable = true
+
+
 +++

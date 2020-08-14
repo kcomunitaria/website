@@ -9,7 +9,7 @@ event:
 event_url: 
 featured: false
 image:
-  caption: 'Imagen fuente: [**Heraldo de Oregón**](https://heraldodeoregon.files.wordpress.com/2011/09/zp-lobo-zapatero.jpg?crop)'
+  caption:     'Imagen fuente: [**Heraldo de Oregón**](https://heraldodeoregon.files.wordpress.com/2011/09/zp-lobo-zapatero.jpg?crop)'
   focal_point: Center
 links:
 - icon: link

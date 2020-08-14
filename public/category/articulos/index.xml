@@ -5,12 +5,20 @@
     <link>/category/articulos/</link>
       <atom:link href="/category/articulos/index.xml" rel="self" type="application/rss+xml" />
     <description>Articulos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
       <title>Articulos</title>
       <link>/category/articulos/</link>
     </image>
+    
+    <item>
+      <title>Informe</title>
+      <link>/articulos/informe/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/articulos/informe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jeanine y el lobo</title>
