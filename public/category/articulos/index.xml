@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articulos | Kallpa Comunitaria</title>
-    <link>/category/articulos/</link>
-      <atom:link href="/category/articulos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/category/articulos/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/category/articulos/index.xml" rel="self" type="application/rss+xml" />
     <description>Articulos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
       <title>Articulos</title>
-      <link>/category/articulos/</link>
+      <link>https://kcomunitaria.netlify.app/category/articulos/</link>
     </image>
     
     <item>
       <title>Así el pueblo resistió el golpe de Banzer</title>
-      <link>/articulos/asi-el-pueblo-resisitio/</link>
+      <link>https://kcomunitaria.netlify.app/articulos/asi-el-pueblo-resisitio/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/articulos/asi-el-pueblo-resisitio/</guid>
+      <guid>https://kcomunitaria.netlify.app/articulos/asi-el-pueblo-resisitio/</guid>
       <description>&lt;p&gt;La asonada golpista encabezada por el entonces coronel Hugo Banzer fue mortífera. Concluyó, según informes de la Asamblea de Derechos Humanos, con cerca de 200 muertos a bala, 65 desaparecidos y más de mil heridos. El último acto de resistencia se desarrolló en la ciudad de La Paz, donde obreros, estudiantes y una tropa de militares nacionalistas le plantaron cara al sector “fascista” que contaba con asesoramiento y respaldo internacional.&lt;/p&gt;
 &lt;p&gt;“Los brasileños entregaron sumas importantes de dinero a los golpistas, introdujeron armas en escala importante y prepararon toda la frontera para operaciones de mayor envergadura. Se movían en territorio paraguayo como si fuera parte del estado de Santa Catalina y abastecieron a la guarnición de Santa Cruz, a la sazón al mando de Andrés Sélichs (comandante del Regimiento “Rangers”), de manera que la zona pudiera resistir por lo menos un mes sin ningún otro envío, de un modo que delata hasta qué punto se preparaba una guerra civil territorial, con su participación casi directa. El sorpresivo éxito inmediato en La Paz hizo que se tornaran innecesarios aquellos procesos”.&lt;/p&gt;
 &lt;p&gt;Con ese relato, el sociólogo boliviano René Zavaleta Mercado, en su libro El poder dual, concluyó su explicación sobre la verdadera dimensión del golpe de Estado civil-militar que se ejecutó en Bolivia, entre el 19 y el 21 de agosto de 1971. El cuartelazo, según Zavaleta, fue meticulosamente preparado en Buenos Aires (Argentina) por altos funcionarios de la Embajada de Estados Unidos, un grupo de militares “fascistas” (argentinos, brasileños y bolivianos) y destacados militantes del Movimiento Nacionalista Revolucionario (MNR) y la Falange Socialista Boliviana (FSB).&lt;/p&gt;
@@ -70,9 +70,9 @@ Disparos de armamento pesado y ametrallamiento de aviones de la FAB determinaron
     
     <item>
       <title>El golpe de Banzer también fue mediático</title>
-      <link>/articulos/el-golpe-de-banzer/</link>
+      <link>https://kcomunitaria.netlify.app/articulos/el-golpe-de-banzer/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/articulos/el-golpe-de-banzer/</guid>
+      <guid>https://kcomunitaria.netlify.app/articulos/el-golpe-de-banzer/</guid>
       <description>&lt;p&gt;En diciembre de 1970, a los dos meses que Juan José Torres asumiera la presidencia, el comandante del Colegio Militar, Hugo Banzer, pateó el tablero de la agitada coyuntura nacional. El entonces máximo dirigente de la Central Obrera Boliviana (COB), Juan Lechín, fue inducido a ser antagonista del militar para que éste pueda saltar a la palestra pública. Dentro de esa estrategia, la prensa lo catapultó como caudillo de la sedición castrense.&lt;/p&gt;
 &lt;p&gt;Tras descabezar un golpe de Estado “reaccionario”, el general Torres, el 7 de octubre de 1970, tomó las riendas del poder, reivindicando ideas nacionalistas. En sus primeros meses de gestión, decretó la “reposición salarial” a favor de los mineros; participó en masivas concentraciones sindicales, donde los obreros le exigieron “armas para enfrentar a los fascistas”; estatizó el comercio del azúcar; y liberó a los marxistas RégisDebray, Ciro Bustos y otros guerrilleros de Ñancahuazú.&lt;/p&gt;
 &lt;p&gt;Esos actos fueron cuestionados por civiles, militares y empresarios opositores, que buscaban un nuevo liderazgo. En ese marco, el comandante del Colegio Militar asumió el desafío y se presentó como rígido crítico de la “lucha armada” y la “extrema izquierda”.&lt;/p&gt;
@@ -94,17 +94,17 @@ Así, el coronel Banzer intentó otra sublevación el 10 de enero de 1971, pero 
     
     <item>
       <title>Informe</title>
-      <link>/articulos/informe/</link>
+      <link>https://kcomunitaria.netlify.app/articulos/informe/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/articulos/informe/</guid>
+      <guid>https://kcomunitaria.netlify.app/articulos/informe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeanine y el lobo</title>
-      <link>/articulos/viene-el-lobo/</link>
+      <link>https://kcomunitaria.netlify.app/articulos/viene-el-lobo/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/articulos/viene-el-lobo/</guid>
+      <guid>https://kcomunitaria.netlify.app/articulos/viene-el-lobo/</guid>
       <description>&lt;p&gt;El carácter accidental del Gobierno de Jeanine Añez se sustenta en dos principios legales: la sucesión Constitucional, de la entonces Senadora por el Beni, y la convocatoria a elecciones en un plazo de 90 días. Desde que Añez se autoproclamara Presidente, han transcurrido 9 meses y medio y el plazo para la convocatoria a elecciones se ha modificado tres veces.&lt;/p&gt;
 &lt;p&gt;La primera fecha para elecciones se definió para 3 de mayo –fecha que contemplaba una ampliación de mandato del Gobierno interino y la Asamblea Legislativa-, ese plazo se amplió nuevamente por 90 días, después el plazo volvió a modificarse hasta el 6 de septiembre y ahora, hay un nuevo plazo fijado para el 19 de octubre. Estas ampliaciones se dan en el marco de la pandemia, ante el temor de alcanzar “el pico máximo de contagios” que nos anunciaron que llegaría en mayo, luego en agosto, luego en septiembre, algo así como el cuento del niño que gritaba que venía el lobo.&lt;/p&gt;
 &lt;p&gt;Pero ¿cómo determinar este pico con las cifras oficiales si Bolivia es uno de los países en la región que realiza menos pruebas por habitantes? Mientras que en Brasil se realizaron 4&#39;911.063 pruebas y en Perú se realizaron 1’983.932 pruebas, en Bolivia se realizaron apenas 114.270&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, muchas de las cuales se realizan en laboratorios privados dónde una prueba puede llegar a costar hasta 1.000 Bs&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; y dónde los laboratorios tienen  un rezago en el procesamiento de pruebas de hasta 20 días&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
@@ -140,9 +140,9 @@ Así, el coronel Banzer intentó otra sublevación el 10 de enero de 1971, pero 
     
     <item>
       <title>Bolivia en disputa</title>
-      <link>/articulos/bolivia-en-disputa/</link>
+      <link>https://kcomunitaria.netlify.app/articulos/bolivia-en-disputa/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/articulos/bolivia-en-disputa/</guid>
+      <guid>https://kcomunitaria.netlify.app/articulos/bolivia-en-disputa/</guid>
       <description>&lt;p&gt;Estamos cada vez más cerca de las elecciones presidenciales en Bolivia. Una cita que se repite en menos de un año, en el que ha ocurrido absolutamente de todo: una nueva presidenta, sin votos, fruto de un golpe de Estado; gran convulsión política y social, Evo en el exilio, cambio del Órgano Electoral, muchas decisiones sustanciosas en materia económica e internacional, nuevas elecciones con muchas caras nuevas y, para colmo, una pandemia de grandes dimensiones.&lt;/p&gt;
 &lt;p&gt;Con tanta densidad de sucesos notables en tan corto periodo de tiempo, se torna realmente complicado caracterizar el actual escenario electoral. Casi ningún hecho ocurrido ha tenido aún el tiempo suficiente para dejar su propia huella. Se fueron solapando acontecimientos, unos tras otros, que hacen que estemos ante un momento altamente incierto, una suerte de tempo en disputa lleno de contradicciones, algunas creativas y otras destructivas, sin saber cuál será el sentido del reordenamiento político y electoral resultante de este magma boliviano.&lt;/p&gt;
 &lt;p&gt;La última encuesta de CELAG (2.000 casos, ámbito rural y urbana), sumada a otras cuatro realizadas en este último año, nos ayudan en parte a disponer de algunas pistas y hallazgos para descifrar el complejo puzzle político-electoral boliviano. He aquí algunos ejes claves:&lt;/p&gt;
@@ -171,9 +171,9 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     
     <item>
       <title>Anatomía de los golpes de Estado</title>
-      <link>/articulos/el-golpismo/</link>
+      <link>https://kcomunitaria.netlify.app/articulos/el-golpismo/</link>
       <pubDate>Fri, 26 Jun 2020 13:00:00 +0000</pubDate>
-      <guid>/articulos/el-golpismo/</guid>
+      <guid>https://kcomunitaria.netlify.app/articulos/el-golpismo/</guid>
       <description>&lt;p&gt;Se pronuncia la palabra golpe de Estado y el pensamiento rápido&lt;sup&gt;
 &lt;a href=&#34;#1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; imprime imágenes asociativas al hecho. Una plaza –ese modelo de disposición urbana para los asentamientos españoles en momentos de la colonia que simbolizaba el centro de la ciudad y expresó el domicilio del poder político- tomada por fuerzas militares, cortada en cada uno de sus ingresos por enormes maquinarias de guerra, y soldados y muchas, muchas armas en manos de ellos, para que horas después, se conozca el comunicado del gobierno de “unidad nacional”, ese que nos dice que el presidente ha sido cesado en sus funciones y los derechos políticos de todos quienes aquí habitan entran en restricción. En suma, un golpe de Estado se ha producido.
 En el imaginario de los bolivianos, 37 años de historia democrática dejan difusas nociones sobre estas categorías que, desde la politología, se trabajan esforzadamente por definirlas y comprenderlas. Las viejas y primarias formas de golpes de Estado van cediendo en el tiempo a renovadas maneras de asaltar el objetivo final, ese que sí resiste el avance de los siglos: tomar el poder político.&lt;/p&gt;
