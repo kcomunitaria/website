@@ -9,7 +9,7 @@ slides:
 summary: En 1964, Hugo Banzer Suarez
 tags:
 - marxismo
-title:  Informe&#58; Violación de los derechos humanos en Bolivia
+title:  'Informe: Violación de los derechos humanos en Bolivia'
 url_code: ""
 url_pdf: "https://drive.google.com/file/d/18exkxxrZ4X89_G3QQTt2DU-PD2CIhSdf/view?usp=sharing"
 url_slides: ""
