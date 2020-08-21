@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noticias | Kallpa Comunitaria</title>
-    <link>https://kcomunitaria.netlify.app/noticias/</link>
-      <atom:link href="https://kcomunitaria.netlify.app/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <link>/noticias/</link>
+      <atom:link href="/noticias/index.xml" rel="self" type="application/rss+xml" />
     <description>Noticias</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kcomunitaria.netlify.app/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
       <title>Noticias</title>
-      <link>https://kcomunitaria.netlify.app/noticias/</link>
+      <link>/noticias/</link>
     </image>
     
     <item>
       <title>COB decide huelga general indefinida en demanda de elecciones el 6 de septiembre</title>
-      <link>https://kcomunitaria.netlify.app/noticias/cob-decide-huelga-general/</link>
+      <link>/noticias/cob-decide-huelga-general/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/noticias/cob-decide-huelga-general/</guid>
+      <guid>/noticias/cob-decide-huelga-general/</guid>
       <description>&lt;p&gt;En Cabildo realizado en El Alto, el ejecutivo de la Central Obrera Boliviana (COB); Juan Carlos Huarachi, anunció que desde este martes se declara huelga general indefinida con movilizaciones en los nueve departamentos, en demanda de que el Tribunal Supremo Electoral (TSE) haga las elecciones el 6 de septiembre y se retracte de postergarlas.&lt;/p&gt;
 &lt;p&gt;Si bien en un principio la decisión era dar un plazo de 72 horas al TSE y empezar la huelga con bloqueos desde el lunes 3 de agosto, Huarachi fue presionado por varios asistentes al Cabildo para que las medidas se presión comiencen en el día.&lt;/p&gt;
 &lt;p&gt;Huarachi dijo que la huelga será desde este martes, a pedido de organizaciones como la Federación Túpac Katari, ayllus del Norte Potosí, fabriles, constructores, padres de familia y jóvenes.&lt;/p&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>Advierten de proceso penal contra órgano electoral boliviano</title>
-      <link>https://kcomunitaria.netlify.app/noticias/advierten-proceso-penal-contra/</link>
+      <link>/noticias/advierten-proceso-penal-contra/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/noticias/advierten-proceso-penal-contra/</guid>
+      <guid>/noticias/advierten-proceso-penal-contra/</guid>
       <description>&lt;p&gt;El diputado del Movimiento Al Socialismo (MAS) Edgar Montaño advirtió hoy que el órgano electoral boliviano pudiera enfrentar un proceso penal por ‘usurpación de funciones’, de mantener la decisión de postergar los comicios hasta octubre.&lt;/p&gt;
 &lt;p&gt;Montaño aseguró que un eventual juicio penal sería planteado contra el presidente del Tribunal Supremo Electoral (TSE), Salvador Romero, y cuatro vocales más que apoyaron aplazar los comicios, divulgó el diario digital Oxígeno.bo.&lt;/p&gt;
 &lt;p&gt;El diputado del MAS recordó que otros dos vocales del TSE expresaron su desacuerdo con la postergación de las elecciones y pidieron a la Asamblea Legislativa Plurinacional la modificación de la Ley 1304, para ratificar el cambio de fecha.&lt;/p&gt;
@@ -44,9 +44,9 @@
     
     <item>
       <title>Golpe de Estado en Bolivia reabrió heridas raciales,</title>
-      <link>https://kcomunitaria.netlify.app/noticias/golpe-de-estado-reabrio-heridas/</link>
+      <link>/noticias/golpe-de-estado-reabrio-heridas/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/noticias/golpe-de-estado-reabrio-heridas/</guid>
+      <guid>/noticias/golpe-de-estado-reabrio-heridas/</guid>
       <description>&lt;p&gt;La Paz-. Las heridas raciales que la ciudadanía de Bolivia intentó cerrar se reabrieron cuando a fines de 2019 la derecha consumó el golpe de Estado contra el pueblo, afirmó hoy el candidato del Movimiento Al socialismo (MAS) Luis Arce.&lt;/p&gt;
 &lt;p&gt;Que la actual presidenta transitoria haya esgrimido la Biblia al igual que el cada vez más aislado presidente Donald Trump es sólo una demostración de la falta de originalidad de la derecha racista, escribió el aspirante a las elecciones de septiembre en un artículo en su blog en Internet.&lt;/p&gt;
 &lt;p&gt;‘Ninguno de los dos se detuvo en el mensaje de paz y amor por el prójimo del cristianismo, ni en la voluntad ecuménica de todas las razas oprimidas del mundo’, recordó Arce en su trabajo ‘El racismo es una justificación para la explotación’.&lt;/p&gt;
@@ -61,9 +61,9 @@
     
     <item>
       <title>Dictadura boliviana se dispone a detener a candidato del MAS</title>
-      <link>https://kcomunitaria.netlify.app/noticias/dictadura-boliviana-se-dispone-/</link>
+      <link>/noticias/dictadura-boliviana-se-dispone-/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kcomunitaria.netlify.app/noticias/dictadura-boliviana-se-dispone-/</guid>
+      <guid>/noticias/dictadura-boliviana-se-dispone-/</guid>
       <description>&lt;p&gt;A la presidenta de facto de Bolivia, Jeanine Áñez, se le cae cada día más la forzada careta de democracia que, con la complicidad de los Estados Unidos y la Unión Europea, se la tuvo que poner para justificar el derrocamiento violento de Evo Morales en noviembre del año pasado. Ahora, en una demostración flagrante de que en este país sudamericano no existen garantías constitucionales y que la regla es la persecución, &lt;strong&gt;se prepara un golpe contra el candidato a la presidencia del Movimiento Al Socialismo (MAS), Luis Arce&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;En una constatación de la vigencia del método del lawfare contra los líderes populares, la forma jurídica de esta decisión política antidemocrática es la denuncia penal interpuesta este martes ante el Ministerio Público en contra de Luis Arce por el supuesto daño económico que habría causado al Estado al poner en marcha la Gestora Pública para la administración de los aportes sociales de los trabajadores.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Esta no es la primera vez que se asume una actitud de agresión contra el candidato del MAS desde que retornó a Bolivia&lt;/strong&gt; tras permanecer un breve tiempo en México. El mismo día de su arribo a La Paz, el 28 de enero, en el aeropuerto de El Alto se le entregó una citación para declarar ante la justicia por el caso del Fondo Indígena. Este martes la acción es más perversa en un momento en que el exministro de Economía de Morales lidera toda la intención de voto para las elecciones del 6 de septiembre venidero.&lt;/p&gt;
