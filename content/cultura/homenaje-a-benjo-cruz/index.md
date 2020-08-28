@@ -1,5 +1,5 @@
 ---
-abstract:
+abstract: “Voy a cantar una copla por si acaso muera yo, porque nosotros los hombres hoy somos, mañana no.” -- Benjo Cruz
 authors:
 - admin
 date: "2020-08-28"
@@ -21,7 +21,7 @@ tags:
 title: Nuestro homenaje a Benjo Cruz!
 
 ---
-
+“Voy a cantar una copla por si acaso muera yo, porque nosotros los hombres hoy somos, mañana no.” -- Benjo Cruz
 
 
 <hr>
