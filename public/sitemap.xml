@@ -3,432 +3,452 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/talk/example/</loc>
+    <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/publication-type/0/</loc>
+    <loc>/articulos/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/articulos/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/banzer/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/bolivia/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dictadura/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articulos/libertadparalxs7asiladxs/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/politica/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/por-comite-de-solidaridad-por-la-libertad-y-salvoconductos-para-lxs-siete-asilados/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/0/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/authors/</loc>
+    <loc>/tag/cancion-latinoamericana-protesta/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/cancion-latinoamericana-protesta/</loc>
+    <loc>/cultura/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/cultura/</loc>
+    <loc>/author/kallpa-comunitaria/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/author/kallpa-comunitaria/</loc>
+    <loc>/cultura/nilo-soruco-a-benjo-cruz/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/cultura/nilo-soruco-a-benjo-cruz/</loc>
+    <loc>/cultura/homenaje-a-benjo-cruz/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/cultura/homenaje-a-benjo-cruz/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/publication_types/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/tags/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/articulos/</loc>
+    <loc>/articulos/asi-el-pueblo-resisitio/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/category/articulos/</loc>
+    <loc>/articulos/el-golpe-de-banzer/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/articulos/asi-el-pueblo-resisitio/</loc>
+    <loc>/author/por-miguel-pinto-paraba/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/banzer/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/tag/bolivia/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/categories/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/tag/dictadura/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/articulos/el-golpe-de-banzer/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/tag/politica/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/author/por-miguel-pinto-paraba/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/articulos/informe/</loc>
+    <loc>/articulos/informe/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/historia/cumpleanios-chavez/</loc>
+    <loc>/historia/cumpleanios-chavez/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/cob-huelga-general-elecciones/</loc>
+    <loc>/tag/cob-huelga-general-elecciones/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/noticias/cob-decide-huelga-general/</loc>
+    <loc>/noticias/cob-decide-huelga-general/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/historia/</loc>
+    <loc>/historia/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/category/historia/</loc>
+    <loc>/category/historia/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/noticias/</loc>
+    <loc>/noticias/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/category/noticias/</loc>
+    <loc>/category/noticias/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/otros/</loc>
+    <loc>/tag/otros/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/author/prensa-erbol/</loc>
+    <loc>/author/prensa-erbol/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/noticias/advierten-proceso-penal-contra/</loc>
+    <loc>/noticias/advierten-proceso-penal-contra/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/cultura/26-de-julio/</loc>
+    <loc>/cultura/26-de-julio/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/category/cultura/</loc>
+    <loc>/category/cultura/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/articulos/viene-el-lobo/</loc>
+    <loc>/articulos/viene-el-lobo/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/slides/pronunciamientos/</loc>
+    <loc>/slides/pronunciamientos/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/cultura/la-consigna-fsln/</loc>
+    <loc>/cultura/la-consigna-fsln/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/gualberto-villarroel/</loc>
+    <loc>/tag/gualberto-villarroel/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/historia/han-matado-a-nuestro-padre/</loc>
+    <loc>/historia/han-matado-a-nuestro-padre/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/cultura/a-pesar-de-la-ira/</loc>
+    <loc>/cultura/a-pesar-de-la-ira/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/historia/a-40-anios-del-golpe/</loc>
+    <loc>/historia/a-40-anios-del-golpe/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/dictadura-garcia-meza/</loc>
+    <loc>/tag/dictadura-garcia-meza/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/articulos/bolivia-en-disputa/</loc>
+    <loc>/articulos/bolivia-en-disputa/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/elecciones-presidenciales/</loc>
+    <loc>/tag/elecciones-presidenciales/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/evo/</loc>
+    <loc>/tag/evo/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/</loc>
+    <loc>/biblioteca/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/historia/</loc>
+    <loc>/tag/historia/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/historia-minima/</loc>
+    <loc>/biblioteca/historia-minima/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/informe-violacion-derechos-humanos/</loc>
+    <loc>/biblioteca/informe-violacion-derechos-humanos/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/jorge-sanjines/</loc>
+    <loc>/biblioteca/jorge-sanjines/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/marulanda-farc/</loc>
+    <loc>/biblioteca/marulanda-farc/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/marxismo/</loc>
+    <loc>/tag/marxismo/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/pablo-zarate-willka/</loc>
+    <loc>/biblioteca/pablo-zarate-willka/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/rosa-luxemburgo/</loc>
+    <loc>/biblioteca/rosa-luxemburgo/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/agresion/</loc>
+    <loc>/tag/agresion/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/evo-morales-ayma/</loc>
+    <loc>/tag/evo-morales-ayma/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/noticias/golpe-de-estado-reabrio-heridas/</loc>
+    <loc>/noticias/golpe-de-estado-reabrio-heridas/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/jeanine-anez/</loc>
+    <loc>/tag/jeanine-anez/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/movimiento-al-socialismo-mas/</loc>
+    <loc>/tag/movimiento-al-socialismo-mas/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/post/esto-es-titulo-una-publicacion-de-prueba/</loc>
+    <loc>/post/esto-es-titulo-una-publicacion-de-prueba/</loc>
     <lastmod>2020-07-06T10:36:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-07-06T10:36:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/masacre-san-juan/</loc>
+    <loc>/tag/masacre-san-juan/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/historia/san-juan/</loc>
+    <loc>/historia/san-juan/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/cultura/el-pueblo-unido-jamas-sera-vencido/</loc>
+    <loc>/cultura/el-pueblo-unido-jamas-sera-vencido/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/noticias/dictadura-boliviana-se-dispone-/</loc>
+    <loc>/noticias/dictadura-boliviana-se-dispone-/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/author/jose-sagaz/</loc>
+    <loc>/author/jose-sagaz/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/articulos/el-golpismo/</loc>
+    <loc>/articulos/el-golpismo/</loc>
     <lastmod>2020-06-26T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/contra-el-trotskismo/</loc>
+    <loc>/biblioteca/contra-el-trotskismo/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/antonio-gramsci/</loc>
+    <loc>/biblioteca/antonio-gramsci/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/operacion-condor/</loc>
+    <loc>/biblioteca/operacion-condor/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/poesia/</loc>
+    <loc>/tag/poesia/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/poetas-mios-roque-dalton/</loc>
+    <loc>/biblioteca/poetas-mios-roque-dalton/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/poetas-mios-oscar-alfaro/</loc>
+    <loc>/biblioteca/poetas-mios-oscar-alfaro/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/courses/</loc>
+    <loc>/terms/</loc>
+    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/deep-learning/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/demo/</loc>
+    <loc>/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/project/external-project/</loc>
+    <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/project/internal-project/</loc>
+    <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/publication/</loc>
+    <loc>/publication/</loc>
   </url>
   
 </urlset>
