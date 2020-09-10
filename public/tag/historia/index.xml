@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>historia | Kallpa Comunitaria</title>
-    <link>/tag/historia/</link>
-      <atom:link href="/tag/historia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/tag/historia/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/tag/historia/index.xml" rel="self" type="application/rss+xml" />
     <description>historia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
       <title>historia</title>
-      <link>/tag/historia/</link>
+      <link>https://kcomunitaria.netlify.app/tag/historia/</link>
     </image>
     
     <item>
       <title>Historia mínima de Bolivia</title>
-      <link>/biblioteca/historia-minima/</link>
+      <link>https://kcomunitaria.netlify.app/biblioteca/historia-minima/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/biblioteca/historia-minima/</guid>
+      <guid>https://kcomunitaria.netlify.app/biblioteca/historia-minima/</guid>
       <description>&lt;p&gt;De Herbert Klein&lt;/p&gt;
 &lt;p&gt;Bolivia, una nación creada a fuerza de conquistas imperiales y adaptaciones nativas, con una singular población acostumbrada a vivir en las alturas, es aún la más amerindia de las repúblicas americanas, al tiempo que participa de lleno en la economía mundial. Sin embargo, ésta ha experimentado en los últimos tiempos mayor movilidad social y económica que cualquier otra población indígena o mestiza de Hispanoamérica. Bolivia es actualmente el único país latinoamericano gobernado por su población amerindia originaria y la élite mestiza. Uno de los principales intereses de esta edición es revisar cómo y por qué sucedió todo esto mediante el examen de la evolución económica, social y política de esta importante nación, desde los primeros poblamientos de la región hasta el gobierno de Evo Morales.&lt;/p&gt;
 &lt;div class=&#34;btn-links mb-3&#34;&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Informe: Violación de los derechos humanos en Bolivia</title>
-      <link>/biblioteca/informe-violacion-derechos-humanos/</link>
+      <link>https://kcomunitaria.netlify.app/biblioteca/informe-violacion-derechos-humanos/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/biblioteca/informe-violacion-derechos-humanos/</guid>
+      <guid>https://kcomunitaria.netlify.app/biblioteca/informe-violacion-derechos-humanos/</guid>
       <description>&lt;p&gt;Dirigentes mujeres y hombres de diferentes organizaciones sociales y políticas de la izquierda boliviana, fueron presa de una represión jamás vista en la historia del país y de América toda. Las dictaduras militares y civiles como las de Chile, Argentina, Uruguay y Paraguay, junto a la dictadura de Bánzer organizaron el famoso &amp;ldquo;Plan Cóndor&amp;rdquo; con intercambio de presos políticos, asesinatos, torturas y desapariciones forzadas, con el sólo propósito de acabar con las ideas de liberación nacional, de acabar con quienes luchaban por conseguir justicia y libertad para todas y todos, en fin, pretendieron acabar con la lucha de todo un pueblo y no pudieron lograrlo.&lt;/p&gt;
 &lt;div class=&#34;btn-links mb-3&#34;&gt;
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/18exkxxrZ4X89_G3QQTt2DU-PD2CIhSdf/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
@@ -41,9 +41,9 @@
     
     <item>
       <title>Jorge Sanjinés</title>
-      <link>/biblioteca/jorge-sanjines/</link>
+      <link>https://kcomunitaria.netlify.app/biblioteca/jorge-sanjines/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/biblioteca/jorge-sanjines/</guid>
+      <guid>https://kcomunitaria.netlify.app/biblioteca/jorge-sanjines/</guid>
       <description>&lt;p&gt;Dentro del complejo y variado campo del cine político latinoamericano, las figuras de Jorge Sanjinés y el Grupo Ukamau ocupan un lugar destacado. En el caso de este colectivo de cineastas bolivianos, la dimensión política se desarrolla en diferentes marcos. En principio, el aspecto más evidenes es su adhesión a los proyectos revolucionarios de liberación nacional a través del socialismo y la defensa de la identidad indígena, pero además, su propuesta contiene al menos otras dos facetas.&lt;/p&gt;
 &lt;div class=&#34;btn-links mb-3&#34;&gt;
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/18d2v_HiMZQlpFzE0OYm2xF-tHv3yeF-E/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
@@ -54,9 +54,9 @@
     
     <item>
       <title>Marulanda y las FARC</title>
-      <link>/biblioteca/marulanda-farc/</link>
+      <link>https://kcomunitaria.netlify.app/biblioteca/marulanda-farc/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/biblioteca/marulanda-farc/</guid>
+      <guid>https://kcomunitaria.netlify.app/biblioteca/marulanda-farc/</guid>
       <description>&lt;p&gt;Con “Marulanda y las FARC para principiantes”, conocerá el lector los orígenes y motivaciones del alzamiento armado y el devenir de aquellos 46 campesinos y 2 campesinas de Marquetalia, que se convirtieron en todo un Ejército del Pueblo que dirige la guerra popular con rumbo a desembocar en el triunfo definitivo de la revolución colombiana. A través de sus páginas conocerá y se encariñará con  hé-roes y heroínas de dimensión cimera, como Jacobo Prías Alape, Jacobo Arenas, Hernando González, Judith Grisales y Miriam Narváez, que hacen parte de una pléyade de combatientes hijos del pueblo, que han dado sus vidas por la libertad y la independencia de nuestra patria&lt;/p&gt;
 &lt;div class=&#34;btn-links mb-3&#34;&gt;
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1d8eHclu1hWihSZ1Q8EvijCMhUriqjtvW/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>Pablo Zárate Willka y la rebelión indígena</title>
-      <link>/biblioteca/pablo-zarate-willka/</link>
+      <link>https://kcomunitaria.netlify.app/biblioteca/pablo-zarate-willka/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/biblioteca/pablo-zarate-willka/</guid>
+      <guid>https://kcomunitaria.netlify.app/biblioteca/pablo-zarate-willka/</guid>
       <description>&lt;p&gt;Pablo Zárate fue apoderado de su ayllu Machacamarca [Machaqamarka] y, como tal, era bastante conocedor de la situación del indígena, especialmente desde 1896, como consecuencia del proceso de desarrollo de las haciendas y sus efectos en las comunidades.&lt;/p&gt;
 &lt;p&gt;Posteriormente, Zárate Willka asumió un liderazgo de mayor alcance: es sin duda trascendental la participación indígena liderada por él durante la guerra civil de 1898-1899, conflicto que reflejó las implicaciones políticas, étnicas e ideológicas en el proceso de las confrontaciones entre federalistas y constitucionalistas.&lt;/p&gt;
 &lt;div class=&#34;btn-links mb-3&#34;&gt;
@@ -81,9 +81,9 @@
     
     <item>
       <title>Operación Condor, pacto criminal</title>
-      <link>/biblioteca/operacion-condor/</link>
+      <link>https://kcomunitaria.netlify.app/biblioteca/operacion-condor/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/biblioteca/operacion-condor/</guid>
+      <guid>https://kcomunitaria.netlify.app/biblioteca/operacion-condor/</guid>
       <description>&lt;h3 id=&#34;prólogo&#34;&gt;Prólogo&lt;/h3&gt;
 &lt;p&gt;En estos días comienzan a emerger desde la oscuridad documentos
 y testimonios sobre los años oscuros del terror que asolaron

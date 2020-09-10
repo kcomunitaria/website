@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | Kallpa Comunitaria</title>
-    <link>/slides/</link>
-      <atom:link href="/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/slides/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>LA LUCHA CONTINUA</title>
-      <link>/slides/pronunciamientos/</link>
+      <link>https://kcomunitaria.netlify.app/slides/pronunciamientos/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/slides/pronunciamientos/</guid>
+      <guid>https://kcomunitaria.netlify.app/slides/pronunciamientos/</guid>
       <description>&lt;h1 id=&#34;la-lucha-continúa&#34;&gt;La lucha continúa&lt;/h1&gt;
 &lt;h2 id=&#34;tods-contra-la-dictadura&#34;&gt;Tod@s contra la dictadura&lt;/h2&gt;
 &lt;hr&gt;
@@ -40,9 +40,9 @@ Al verdadero pueblo de Bolivia no le queda otro camino que el de la movilizació
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://kcomunitaria.netlify.app/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://kcomunitaria.netlify.app/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 

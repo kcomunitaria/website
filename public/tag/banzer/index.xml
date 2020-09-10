@@ -2,42 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Banzer | Kallpa Comunitaria</title>
-    <link>/tag/banzer/</link>
-      <atom:link href="/tag/banzer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kcomunitaria.netlify.app/tag/banzer/</link>
+      <atom:link href="https://kcomunitaria.netlify.app/tag/banzer/index.xml" rel="self" type="application/rss+xml" />
     <description>Banzer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
       <title>Banzer</title>
-      <link>/tag/banzer/</link>
+      <link>https://kcomunitaria.netlify.app/tag/banzer/</link>
     </image>
     
     <item>
-      <title>Festival de Arte</title>
-      <link>/articulos/libertadparalxs7asiladxs/</link>
-      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/articulos/libertadparalxs7asiladxs/</guid>
-      <description>&lt;h1 id=&#34;por-la-libertadparalxs7asiladxs&#34;&gt;Por la #LibertadParaLxs7Asiladxs&lt;/h1&gt;
-&lt;p&gt;El Festival es conducido por la periodista argentina Cynthia García y participaron artistas de Chile, México, Venezuela, Bolivia, Brasil, Suecia y Argentina.
-Las próximas ediciones serán el 20 de septiembre y el 04 de octubre por el mismo canal.
-La campaña fue lanzada en junio de este año, con el objetivo de lograr la entrega de salvoconductos a siete ciudadanos asilados en la Embajada de México en La Paz, e imposibilitados de hacer efectivo su inalienable Derecho Humano al Asilo.&lt;/p&gt;
-&lt;p&gt;#SalvoconductoYa&lt;br&gt;
-#GolpeDeEstadoEnBolivia&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/f2FXiVZVmlo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Así el pueblo resistió el golpe de Banzer</title>
-      <link>/articulos/asi-el-pueblo-resisitio/</link>
+      <link>https://kcomunitaria.netlify.app/articulos/asi-el-pueblo-resisitio/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/articulos/asi-el-pueblo-resisitio/</guid>
+      <guid>https://kcomunitaria.netlify.app/articulos/asi-el-pueblo-resisitio/</guid>
       <description>&lt;p&gt;La asonada golpista encabezada por el entonces coronel Hugo Banzer fue mortífera. Concluyó, según informes de la Asamblea de Derechos Humanos, con cerca de 200 muertos a bala, 65 desaparecidos y más de mil heridos. El último acto de resistencia se desarrolló en la ciudad de La Paz, donde obreros, estudiantes y una tropa de militares nacionalistas le plantaron cara al sector “fascista” que contaba con asesoramiento y respaldo internacional.&lt;/p&gt;
 &lt;p&gt;“Los brasileños entregaron sumas importantes de dinero a los golpistas, introdujeron armas en escala importante y prepararon toda la frontera para operaciones de mayor envergadura. Se movían en territorio paraguayo como si fuera parte del estado de Santa Catalina y abastecieron a la guarnición de Santa Cruz, a la sazón al mando de Andrés Sélichs (comandante del Regimiento “Rangers”), de manera que la zona pudiera resistir por lo menos un mes sin ningún otro envío, de un modo que delata hasta qué punto se preparaba una guerra civil territorial, con su participación casi directa. El sorpresivo éxito inmediato en La Paz hizo que se tornaran innecesarios aquellos procesos”.&lt;/p&gt;
 &lt;p&gt;Con ese relato, el sociólogo boliviano René Zavaleta Mercado, en su libro El poder dual, concluyó su explicación sobre la verdadera dimensión del golpe de Estado civil-militar que se ejecutó en Bolivia, entre el 19 y el 21 de agosto de 1971. El cuartelazo, según Zavaleta, fue meticulosamente preparado en Buenos Aires (Argentina) por altos funcionarios de la Embajada de Estados Unidos, un grupo de militares “fascistas” (argentinos, brasileños y bolivianos) y destacados militantes del Movimiento Nacionalista Revolucionario (MNR) y la Falange Socialista Boliviana (FSB).&lt;/p&gt;
@@ -91,9 +70,9 @@ Disparos de armamento pesado y ametrallamiento de aviones de la FAB determinaron
     
     <item>
       <title>El golpe de Banzer también fue mediático</title>
-      <link>/articulos/el-golpe-de-banzer/</link>
+      <link>https://kcomunitaria.netlify.app/articulos/el-golpe-de-banzer/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/articulos/el-golpe-de-banzer/</guid>
+      <guid>https://kcomunitaria.netlify.app/articulos/el-golpe-de-banzer/</guid>
       <description>&lt;p&gt;En diciembre de 1970, a los dos meses que Juan José Torres asumiera la presidencia, el comandante del Colegio Militar, Hugo Banzer, pateó el tablero de la agitada coyuntura nacional. El entonces máximo dirigente de la Central Obrera Boliviana (COB), Juan Lechín, fue inducido a ser antagonista del militar para que éste pueda saltar a la palestra pública. Dentro de esa estrategia, la prensa lo catapultó como caudillo de la sedición castrense.&lt;/p&gt;
 &lt;p&gt;Tras descabezar un golpe de Estado “reaccionario”, el general Torres, el 7 de octubre de 1970, tomó las riendas del poder, reivindicando ideas nacionalistas. En sus primeros meses de gestión, decretó la “reposición salarial” a favor de los mineros; participó en masivas concentraciones sindicales, donde los obreros le exigieron “armas para enfrentar a los fascistas”; estatizó el comercio del azúcar; y liberó a los marxistas RégisDebray, Ciro Bustos y otros guerrilleros de Ñancahuazú.&lt;/p&gt;
 &lt;p&gt;Esos actos fueron cuestionados por civiles, militares y empresarios opositores, que buscaban un nuevo liderazgo. En ese marco, el comandante del Colegio Militar asumió el desafío y se presentó como rígido crítico de la “lucha armada” y la “extrema izquierda”.&lt;/p&gt;

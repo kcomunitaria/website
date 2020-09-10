@@ -15,7 +15,7 @@ links:
   name: 
   url: 
 publishDate: "2020-09-10"
-tags: [dictadura, Bolivia, política, Banzer]
+tags: [política, '#LibertadParaLxs7Asiladxs', dictadura, Bolivia]
 title: Festival de Arte
 
 categories: [Articulos]
