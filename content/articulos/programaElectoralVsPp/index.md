@@ -1,20 +1,14 @@
 ---
 title: Programa Electoral vs. Proyecto Político
 abstract: En el momento electoral, están invisibilizados varios temas de análisis en torno a los Programas Electorales que ameritan debat
-address:
-all_day: false
-authors: ["Por: Baco -- Miembro de la Red de Economía Política"]
+authors: ['Por: Baco — Miembro de la "Red de Economía Política"']
 date: "2020-09-16"
 date_end: "2030-06-01"
 featured: false
 image:
   caption: 'Imagen: Programa Electoral vs. Proyecto Político'
   focal_point: Center
-links:
-- icon:
-  icon_pack: fas
-  name: 
-  url: 
+
 publishDate: "2020-09-10"
 tags: [política, democracia, dictadura, Bolivia]
 
