@@ -43,6 +43,16 @@
   </url>
   
   <url>
+    <loc>https://kcomunitaria.netlify.app/articulos/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/category/articulos/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kcomunitaria.netlify.app/authors/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
@@ -53,12 +63,32 @@
   </url>
   
   <url>
+    <loc>https://kcomunitaria.netlify.app/tag/bolivia/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kcomunitaria.netlify.app/tag/cancion-latinoamericana-protesta/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://kcomunitaria.netlify.app/categories/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kcomunitaria.netlify.app/cultura/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/tag/democracia/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/tag/dictadura/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,6 +99,21 @@
   
   <url>
     <loc>https://kcomunitaria.netlify.app/author/kallpa-comunitaria/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/tag/politica/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/author/por-baco-miembro-de-la-red-de-economia-politica/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/articulos/programaelectoralvspp/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,42 +133,12 @@
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/articulos/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/category/articulos/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/tag/bolivia/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/categories/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/tag/dictadura/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kcomunitaria.netlify.app/articulos/libertadparalxs7asiladxs/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://kcomunitaria.netlify.app/tag/libertadparalxs7asiladxs/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/tag/politica/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   
