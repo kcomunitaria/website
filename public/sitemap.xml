@@ -48,12 +48,22 @@
   </url>
   
   <url>
+    <loc>https://kcomunitaria.netlify.app/biblioteca/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kcomunitaria.netlify.app/tag/cancion-latinoamericana-protesta/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://kcomunitaria.netlify.app/cultura/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/tag/historia/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,6 +79,11 @@
   
   <url>
     <loc>https://kcomunitaria.netlify.app/tags/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/biblioteca/victor-joan-jara/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -270,16 +285,6 @@
   <url>
     <loc>https://kcomunitaria.netlify.app/tag/evo/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/biblioteca/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/tag/historia/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>

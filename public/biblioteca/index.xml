@@ -5,12 +5,26 @@
     <link>https://kcomunitaria.netlify.app/biblioteca/</link>
       <atom:link href="https://kcomunitaria.netlify.app/biblioteca/index.xml" rel="self" type="application/rss+xml" />
     <description>Bibliotecas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2020</copyright><lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kcomunitaria.netlify.app/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
       <title>Bibliotecas</title>
       <link>https://kcomunitaria.netlify.app/biblioteca/</link>
     </image>
+    
+    <item>
+      <title>Víctor Jara un canto truncado</title>
+      <link>https://kcomunitaria.netlify.app/biblioteca/victor-joan-jara/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://kcomunitaria.netlify.app/biblioteca/victor-joan-jara/</guid>
+      <description>&lt;p&gt;Fragmento del libro “Víctor Jara un canto truncado”, de Joan Jara, su compañera:&lt;/p&gt;
+&lt;p&gt;“Cuento con otros dos atisbos fugaces de Víctor en el estadio, dos testimonios más; un mensaje para mí transmitido por alguien que estuvo a su lado algunas horas en los camarines -convertidos en sala de tortura-, un mensaje de amor hacia sus hijas y hacia mí. Luego fue, una vez más, insultado y golpeado, en público; al borde de la histeria y perdido el dominio de sí, el oficial apodado &amp;ldquo;El Príncipe&amp;rdquo; le gritó; &amp;ldquo;¡Canta ahora si puedes, hijo de puta!&amp;rdquo;. Después de cuatro días de sufrimiento, la voz de Víctor sonó en el estadio para cantar un verso de &amp;ldquo;Venceremos&amp;rdquo;, el himno de la Unidad Popular. A continuación, fue golpeado y evacuado a rastras para someterlo a la última etapa de su agonía.”&lt;/p&gt;
+&lt;div class=&#34;btn-links mb-3&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1_1c0e-J2chF2T2ABtM4kJFOi8e9iFVQd/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Historia mínima de Bolivia</title>
