@@ -9,3 +9,14 @@ body {
     background-repeat: no-repeat;
     background-position: 3% 96%;
 }
+
+body {
+    background:rgb(20, 80, 156);
+    background-color: rgb(20, 80, 156);
+    background-color: rgb(20, 80, 156);
+}
+
+.reveal section img {
+    border: 0px solid #fff;
+    box-shadow: 0;
+}

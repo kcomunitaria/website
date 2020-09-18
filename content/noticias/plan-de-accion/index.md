@@ -23,7 +23,7 @@ image:
   focal_point: 'center'
   preview_only: no
 projects: []
-slides: ''
+slides: 'plan-de-accion'
 links:
   - icon_pack: fas
     icon: link
