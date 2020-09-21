@@ -6,7 +6,7 @@ image:
 summary: Cuarta edición
 tags:
 - historia
-title: Crisis de estado Violación de lo Derechos Humanos en Bolivia
+title: Racismo y etnicidad en Bolivia - Halajtayata
 url_code: ""
 url_pdf: "https://drive.google.com/file/d/12YmhcvJMr34Tg-iNJgqgt2cyjTuoymIM/view?usp=sharing"
 url_slides: ""
