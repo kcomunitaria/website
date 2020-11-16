@@ -33,17 +33,97 @@
   </url>
   
   <url>
+    <loc>https://kcomunitaria.netlify.app/articulos/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/category/articulos/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/authors/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/tag/bolivia/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/articulos/triunfo-electoral/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/categories/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/tag/democracia/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/tag/politica/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/author/por-victor-vacaflores-p.-baco/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/tags/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/tag/triunfo-electoral/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/publication-type/0/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/noticias/golpe-de-estado-en-bolivia/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/author/julio_penaloza_bretel/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/noticias/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/category/noticias/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kcomunitaria.netlify.app/publication_types/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kcomunitaria.netlify.app/biblioteca/</loc>
     <lastmod>2020-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://kcomunitaria.netlify.app/tag/historia/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/tags/</loc>
     <lastmod>2020-10-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,22 +148,7 @@
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/publication-type/0/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/authors/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kcomunitaria.netlify.app/tag/bolivia-elecciones-mas-plan-de-accion/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/categories/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,42 +158,12 @@
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/noticias/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/category/noticias/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kcomunitaria.netlify.app/noticias/plan-de-accion/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/publication_types/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kcomunitaria.netlify.app/cultura/victor-jara/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/articulos/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/category/articulos/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/tag/bolivia/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,11 +174,6 @@
   
   <url>
     <loc>https://kcomunitaria.netlify.app/cultura/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/tag/democracia/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,12 +193,7 @@
   </url>
   
   <url>
-    <loc>https://kcomunitaria.netlify.app/tag/politica/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kcomunitaria.netlify.app/author/por/</loc>
+    <loc>https://kcomunitaria.netlify.app/author/por-jose-sagaz/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
   

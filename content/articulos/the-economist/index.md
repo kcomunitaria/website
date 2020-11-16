@@ -1,7 +1,7 @@
 ---
 title: Los asesores del gobierno golpista.
 abstract:
-authors: ['Por:  ']
+authors: ['Por:  José Sagaz']
 date: "2020-09-16"
 date_end: "2030-06-01"
 featured: false
@@ -15,7 +15,7 @@ tags: [política, democracia, dictadura, Bolivia]
 categories: [Articulos]
 comments: true
 ---
-**The Economist** a pesar que tiene formato de revista se define como un periódico, se publica semanalmente en Ingles, con sede en Londres, esta controlada en un 50% por las familias Rothschild y Agnelli,​ el otro 50% de las acciones son propiedad de inversionistas privados. **The Economist** no firma sus artículos porque el consejo editorial se hace responsable colectivamente. Entre otras cosas, "busca influir en los cargos de responsabilidad política y económica, por lo que su público objetivo es de clase alta familiarizado con el lenguaje económico" Es como se auto define.[^1]
+**The Economist** a pesar que tiene formato de revista se define como un periódico, se publica semanalmente en Ingles, con sede en Londres, esta controlada en un 50% por las familias Rothschild y Agnelli, el otro 50% de las acciones son propiedad de inversionistas privados. **The Economist** no firma sus artículos porque el consejo editorial se hace responsable colectivamente. Entre otras cosas, "busca influir en los cargos de responsabilidad política y económica, por lo que su público objetivo es de clase alta familiarizado con el lenguaje económico" Es como se auto define.[^1]
 El pasado Agosto en la primera semana publicaron en la columna de opinión "Bello"[^2]
 
 >Un gobierno provisional
@@ -51,6 +51,8 @@ Los críticos temen que si se les permite volver, ellos
 tendría el poder para siempre. Pero la democracia no puede ser salvada deteniéndola.
 
 La derecha golpista sigue atentamente los consejos de la "élite financiera", quienes están mas preocupados que los recursos naturales de Bolivia fluyan a los mercados internacionales para el beneficio de las corporaciones.
+
+Por eso las órdenes del norte es que la derecha se una contra el MAS.
 
 [^1]: <a href="https://elpais.com/elpais/2015/08/13/opinion/1439486450_007194.html" target="_blank" rel="noopener"> El “órgano europeo de la aristocracia financiera”, 
 
