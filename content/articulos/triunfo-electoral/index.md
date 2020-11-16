@@ -12,7 +12,7 @@ image:
 
 publishDate: "2020-11-16"
 tags: [política, democracia, triunfo electoral, Bolivia]
-
+url_pdf: 'articulos/triunfo-electoral/Bolivia el triunfo electoral del MAS.pdf'
 categories: [Articulos]
 comments: true
 ---
