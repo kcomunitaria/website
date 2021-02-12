@@ -33,9 +33,14 @@ subtitle = "difusión del saber entre la mayoría"
   name = "Poesia"
     tag = "poesia"
     
-[[content.filter_button]]
+  [[content.filter_button]]
   name = "Marxismo"
     tag = "marxismo"
+
+  [[content.filter_button]]
+  name = "Metodología de la investigación"
+    tag = "Metodo"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

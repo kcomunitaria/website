@@ -5,12 +5,59 @@
     <link>https://kcomunitaria.netlify.app/biblioteca/</link>
       <atom:link href="https://kcomunitaria.netlify.app/biblioteca/index.xml" rel="self" type="application/rss+xml" />
     <description>Bibliotecas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2021</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2021</copyright><lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kcomunitaria.netlify.app/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
       <title>Bibliotecas</title>
       <link>https://kcomunitaria.netlify.app/biblioteca/</link>
     </image>
+    
+    <item>
+      <title>Epistemología</title>
+      <link>https://kcomunitaria.netlify.app/biblioteca/epistemologia/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://kcomunitaria.netlify.app/biblioteca/epistemologia/</guid>
+      <description>&lt;p&gt;La ciencia especialmente la de tipo social ha sido objeto de un constante y extendido debate, sobre el tipo de
+métodos y técnicas de investigación que deben de usarse para el logro de sus objetivos de búsqueda de la
+verdad y del avance de la investigación científica. A partir de la concepción de dos grandes tradiciones
+paradigmáticas, se hace un análisis que concluye, en la necesaria complementariedad tanto de las técnicas
+cuantitativas como cualitativas.&lt;/p&gt;
+&lt;div class=&#34;btn-links mb-3&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1XhOUgZiVKMqmDZcwmVv8henAuOIUX-d_/view?usp=sharing/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>La Teoría Fundamentada</title>
+      <link>https://kcomunitaria.netlify.app/biblioteca/teoria-fundamentada/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://kcomunitaria.netlify.app/biblioteca/teoria-fundamentada/</guid>
+      <description>&lt;p&gt;El desarrollo que ha tenido la Teoría de las Representaciones Sociales en los últimos 40 años en el
+ámbito de las ciencias sociales, ha dado lugar a distintos modos de apropiación de la Teoría entre los
+que se destacan el enfoque procesual, centrado en el contenido de las Representaciones Sociales en
+términos de su sentido y significación y el enfoque estructural interesado en los mecanismos de
+organización de dichos contenidos.&lt;/p&gt;
+&lt;div class=&#34;btn-links mb-3&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/10KvNDxO2SFHpLaKb57-fC1uJID7-MxpL/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pautas metodológicas para investigar en ciencias sociales y humanas</title>
+      <link>https://kcomunitaria.netlify.app/biblioteca/pautas-metodologicas/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://kcomunitaria.netlify.app/biblioteca/pautas-metodologicas/</guid>
+      <description>&lt;p&gt;Las ciencias sociales y humanas en Bolivia son relativamente nuevas; la creación de la mayoría de las carreras remonta a fines de los años 60 y estuvieron ligadas, como toda la universidad, a las luchas sociales y políticas contra las dictaduras. Durante estos años había pocos investigadores bolivianos, más bien varios y destacados investigadores extranjeros aportaron al conocimiento del país.&lt;/p&gt;
+&lt;div class=&#34;btn-links mb-3&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1qxHT7NvCrxZJEWBasLOo0NjN5xcZldDx/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Toda Mafalda</title>
