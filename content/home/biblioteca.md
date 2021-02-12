@@ -38,7 +38,7 @@ subtitle = "difusión del saber entre la mayoría"
     tag = "marxismo"
 
   [[content.filter_button]]
-  name = "Metodología de la investigación"
+  name = "Investigación"
     tag = "Metodo"
 
 
