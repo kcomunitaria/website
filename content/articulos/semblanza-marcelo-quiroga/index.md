@@ -7,7 +7,7 @@ categories:
   - articulos
 tags: []
 authors: 
-- Eduardo Pardo — Primer Secretario PS-1
+- Eduardo Pardo — Militante histórico del PS-1
 doi: ''
 publishDate: '2021-07-16'
 publication_types:
@@ -17,7 +17,7 @@ publication_short: ''
 abstract: 'La memoria de Marcelo debe ser considerada como un lugar y un instrumento para conectar el pasado y el presente de la lucha por una sociedad con justicia social y una patria digna y soberana.'
 summary: ''
 featured: yes
-url_pdf: ~Semblanza_Marcelo_Quiroga.pdf
+url_pdf: articulos/Semblanza_Marcelo_Quiroga.pdf
 url_code: ~
 url_dataset: ~
 url_poster: ~
@@ -77,4 +77,4 @@ La democracia boliviana tiene una deuda con Marcelo y es que los altos mandos mi
 
 Por: 
 **Eduardo Pardo**<br>
-*Primer Secretario PS-1*
+*Militante histórico del PS-1*
