@@ -17,7 +17,7 @@ publication_short: ''
 abstract: 'La memoria de Marcelo debe ser considerada como un lugar y un instrumento para conectar el pasado y el presente de la lucha por una sociedad con justicia social y una patria digna y soberana.'
 summary: ''
 featured: yes
-url_pdf: articulos/Semblanza_Marcelo_Quiroga.pdf
+url_pdf: 
 url_code: ~
 url_dataset: ~
 url_poster: ~
