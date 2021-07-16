@@ -62,6 +62,10 @@ color = "#F96854 !important"
  image = "colectivoAmauta.png"
  caption = "[https://amauta.lahaine.org/](https://amauta.lahaine.org/)"
 
+[[gallery_item]]
+ album = "gallery"
+ image = "PS-1.jpeg"
+ caption = "[https://www.partidosocialista1.org.bo/](https://www.partidosocialista1.org.bo/)"
 
 +++
 
