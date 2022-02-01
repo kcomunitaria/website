@@ -5,9 +5,9 @@
     <link>https://kcomunitaria.netlify.app/</link>
       <atom:link href="https://kcomunitaria.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Kallpa Comunitaria</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2021</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2022</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kcomunitaria.netlify.app/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kcomunitaria.netlify.app/images/icon_hu7f7db4f652e408c7196e6c273f7d2add_135342_512x512_fill_lanczos_center_3.png</url>
       <title>Kallpa Comunitaria</title>
       <link>https://kcomunitaria.netlify.app/</link>
     </image>
@@ -73,6 +73,27 @@
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Del Estado Republicano al Estado Plurinacinal</title>
+      <link>https://kcomunitaria.netlify.app/historia/de-republicano-a-plurinacional/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kcomunitaria.netlify.app/historia/de-republicano-a-plurinacional/</guid>
+      <description>&lt;p&gt;Tertulia organizada en celebración del XIII Aniversario del Estado Plurinacional de Bolivia que reconoce a las naciones indígenas originario campesinas y deja en el pasado el Estado colonial, republicano y neoliberal.&lt;/p&gt;
+&lt;h1 id=&#34;expositores&#34;&gt;Expositores&lt;/h1&gt;
+&lt;h2 id=&#34;profesor-sergio-pérez-quispe&#34;&gt;Profesor Sergio Pérez Quispe&lt;/h2&gt;
+&lt;p&gt;Maestro con 10 años de servicio&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maestro de primaria en la comunidad Villa Fátima, ubicada en el Parque Nacional y Territorio Indígena Isiboro Se cure.&lt;/li&gt;
+&lt;li&gt;Maestro del nivel secundario en la unidad educativa Puerto San Lorenzo en la rivera del río Sécure.&lt;/li&gt;
+&lt;li&gt;Ocho años de servicio en la Provincia Pasajes del departamento de La Paz.&lt;/li&gt;
+&lt;li&gt;Responsable del componente de Formación Comunitaria en el programa de formación complementaria PROFOCOM-SEP durante la gestión 2021&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;licenciado-rené-ticona&#34;&gt;Licenciado René Ticona&lt;/h2&gt;
+&lt;p&gt;es Licenciado en filosofía UMSA y profesor de filosofía, actualmente se prepara para defender su tesis de maestría en CIDES-UMSA sobre la filosofía de la liberación.&lt;/p&gt;
+&lt;iframe width=&#34;650&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/sZw4sEty8g4&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
@@ -1027,7 +1048,8 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 };&lt;/p&gt;
 &lt;p&gt;(function() { // DON&amp;rsquo;T EDIT BELOW THIS LINE
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-s.src = &amp;lsquo;&lt;a href=&#34;https://https-kcomunitaria-netlify-app.disqus.com/embed.js&#39;;&#34;&gt;https://https-kcomunitaria-netlify-app.disqus.com/embed.js&#39;;&lt;/a&gt;
+s.src = &amp;lsquo;
+&lt;a href=&#34;https://https-kcomunitaria-netlify-app.disqus.com/embed.js%27;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://https-kcomunitaria-netlify-app.disqus.com/embed.js&#39;;&lt;/a&gt;
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 (d.head || d.body).appendChild(s);
 })();
@@ -1322,33 +1344,33 @@ La edición digitalizada de estos cuadernos poéticos carece de toda finalidad e
       <link>https://kcomunitaria.netlify.app/slides/plan-de-accion/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://kcomunitaria.netlify.app/slides/plan-de-accion/</guid>
-      <description>&lt;p&gt;&lt;img data-src=&#34;1.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img data-src=&#34;1.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;2.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;2.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;3.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;3.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;4.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;4.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;5.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;5.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;6.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;6.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;7.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;7.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;8.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;8.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;9.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;9.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;10.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;10.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;11.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;11.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;12.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;12.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;13.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;13.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;14.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;14.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 </description>
     </item>
     
@@ -1406,15 +1428,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;

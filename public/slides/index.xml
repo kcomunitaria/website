@@ -5,7 +5,7 @@
     <link>https://kcomunitaria.netlify.app/slides/</link>
       <atom:link href="https://kcomunitaria.netlify.app/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2021</copyright><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© 2022</copyright><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>LA LUCHA CONTINUA</title>
       <link>https://kcomunitaria.netlify.app/slides/pronunciamientos/</link>
@@ -43,33 +43,33 @@ Al verdadero pueblo de Bolivia no le queda otro camino que el de la movilizació
       <link>https://kcomunitaria.netlify.app/slides/plan-de-accion/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://kcomunitaria.netlify.app/slides/plan-de-accion/</guid>
-      <description>&lt;p&gt;&lt;img data-src=&#34;1.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img data-src=&#34;1.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;2.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;2.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;3.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;3.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;4.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;4.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;5.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;5.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;6.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;6.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;7.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;7.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;8.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;8.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;9.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;9.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;10.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;10.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;11.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;11.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;12.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;12.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;13.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;13.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;14.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;14.jpeg&#34; height=&#34;150%&#34; width=&#34;150%&#34; /&gt;
 </description>
     </item>
     
@@ -127,15 +127,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
