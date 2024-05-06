@@ -1,0 +1,265 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+body{
+    background-color: #90d6e1;
+}
+.flex {
+    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox;      /* TWEENER - IE 10 */
+    display: -webkit-flex;     /* NEW - Chrome */
+    display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+   }
+.mapa-container {
+    width: 90%;
+    max-width: 1600px;
+    min-width: 1200px;
+    margin: auto;
+   
+}
+.pop-up {
+    width: 280px;
+    font-family: industry;
+    background: #FFFFFF;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 10px;
+    top: 0;
+    left: 0;
+    display: none;
+}
+p.pais {
+    font-size: 21px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #190B2B;
+    border-bottom: 1px solid #FFAB4C;
+    border-right: 1px solid #FFAB4C;
+    width: fit-content;
+    padding-left: 8px;
+    padding-right: 8px;
+    position: relative;
+}
+p.pais::after{
+    content: "";
+    width: 10px;
+    height: 25px;
+    border-bottom: 1px solid #FFAB4C;
+    border-left: 1px solid #FFAB4C;
+    position: absolute;
+    left: 0;
+    bottom: -26px;
+}
+p.fecha-text {
+    font-size: 19px;
+    font-weight: 300;
+    font-style: italic;
+    margin-bottom: 5px;
+    color: #0C7889;
+}
+p.hab-text {
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #190B2B;
+    text-transform: uppercase;
+}
+p.tipo-text {
+    font-size: 17px;
+    font-weight: 500;
+    color: #0C7889;
+}
+p.ganador-text {
+    font-size: 19px;
+    font-weight: 600;
+    color: #ffab4c;
+    line-height: 23px;
+    margin-top: 6px;
+}
+.icono-pop {
+    min-width: 27px;
+    margin-right: 7px;
+}
+.tipo-cont .icono-pop{
+    width: 27px;
+}
+.btn-pop {
+    float: right;
+    margin-top: 13px;
+    background: #ffab4c;
+    box-sizing: border-box;
+    padding: 5px;
+    color: #190B2B;
+    transition: color 0.3s;
+  
+}
+.btn-pop:hover{
+    background-color: #ffe0bc;
+    color: #1c5771;
+}
+
+.icon-indicacion {
+    width: 40px;
+}
+.tipo-cont, .fecha-cont {
+  
+    align-items: center;
+}
+.mapa-mobile{
+    display: none;
+}
+.pop-up>div:not(.btn-pop):not(.btn-cerrar){
+    margin-bottom: 7px;
+    padding-left: 15px;
+}
+.btn-cerrar {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    background: #ffab4c;
+    right: -20px;
+    top: -20px;
+    padding: 0;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.btn-cerrar:hover{
+    background-color: #ffe0bc;
+   
+}
+.btn-cerrar:hover .btn-cerrar-linea{
+    background: #1c5771;
+}
+.btn-cerrar-linea {
+    position: absolute;
+    width: 75%;
+    height: 3px;
+    border-radius: 100px;
+    background-color: #190B2B;
+    transform: rotate(45deg);
+    top: 46%;
+    left: 10%;
+    transition: 0.3s;
+}
+.btn-cerrar-linea:last-child{
+    transform: rotate(-45deg);
+}
+@media only screen and (max-width:640px) {
+    
+.mapa-mobile{
+    display: block;
+}
+    .mapa-container{
+        display: none;
+    }
+    .icon-indicacion {
+        width: 130px;
+    }
+    .titulo-mapa {
+        font-family: industry, sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 22px;
+        width: 90%;
+        margin: auto;
+        text-align: center;
+        margin-top: 20px;
+        color: #190B2B;
+    }
+    p.indicacion {
+        font-family: industry, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 16px;
+        color: #190B2B;
+    }
+    .indicacion-cont {
+        width: 58%;
+        margin: auto;
+        gap: 12px;
+        margin-top: 30px;
+    }
+    .slider-cont {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+    }
+    .slider-wrapper{
+        transition: 0.6s cubic-bezier(0.21, 0.74, 0.79, 0.96);;
+    }
+    .slider-element {
+        min-width: 100%;
+    }
+    
+    .paises-modulo {
+        width: 90%;
+        margin: auto;
+        background: #FFF;
+        margin-top: 20px;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+    p.pais-text {
+        font-family: 'industry';
+        font-weight: 700;
+        text-align: center;
+        width: 100%;
+        margin: auto;
+        font-size: 20px;
+        color: #190B2B;
+    }
+    .btn {
+        min-width: 40px;
+        max-width: 40px;
+        height: 40px;
+        background: #ffab4c;
+        border-radius: 50px;
+        padding: 7px;
+        box-sizing: border-box;
+       
+    }
+   
+    .btn img{
+        width: 100%;
+        display: block;
+        margin-left: 2px;
+        margin-top: 1px;
+    }
+    .btn-left img{
+        transform: rotate(180deg);
+        margin-left: -2px;
+    }
+    .info-cont{
+        font-family: industry;
+        margin-top: 30px;
+    }
+    .btn-pop {
+       float: none;
+        width: 30%;
+        text-align: center;
+        margin-left: 70%;
+    }
+    .imagen-pais-cont{
+   
+        width: 100%;
+        height: auto;
+   
+    }
+    .imagen-pais-cont img{
+        width: auto; 
+        object-fit: contain;
+    aspect-ratio: 409/171;
+    }
+    .info-cont>div:not(.btn-pop):not(.imagen-pais-cont) {
+        margin-bottom: 7px;
+        padding-left: 15px;
+    }
+   
+    
+}
